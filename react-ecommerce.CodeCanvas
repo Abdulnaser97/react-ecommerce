@@ -1,0 +1,112 @@
+{
+	"drawioXML": "<mxfile>\n  <diagram id=\"l2bogcAUH8ZbK9f0p0ek\" name=\"Page-1\">\n    <mxGraphModel dx=\"1946\" dy=\"989\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"0\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"0\" />\n        <mxCell id=\"d6g3m6kNdqE7nD4zL2w_-1\" value=\"Frontend\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"50\" y=\"50\" width=\"520\" height=\"1360\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"Redux Store\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-2\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-1\">\n            <mxGeometry x=\"200\" y=\"950\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Components\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-3\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-1\">\n            <mxGeometry x=\"150\" y=\"1050\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Item.jsx\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-5\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-3\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Scenes&lt;br&gt;\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-4\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"420\" height=\"860\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"global\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-6\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-4\">\n            <mxGeometry x=\"150\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"checkout\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-7\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-4\">\n            <mxGeometry x=\"150\" y=\"250\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"itemDetails\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-8\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-4\">\n            <mxGeometry x=\"150\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"home\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-9\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-4\">\n            <mxGeometry x=\"50\" y=\"350\" width=\"320\" height=\"460\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"ShoppingList.jsx\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-10\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-9\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"220\" height=\"360\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"getItems useEffect\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-11\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-10\">\n            <mxGeometry x=\"50\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"retrieve items from store\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-12\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-10\">\n            <mxGeometry x=\"50\" y=\"250\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"populate items\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-13\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-10\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Router\" value=\"New Node\" id=\"d6g3m6kNdqE7nD4zL2w_-14\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"d6g3m6kNdqE7nD4zL2w_-1\">\n            <mxGeometry x=\"200\" y=\"1250\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"d6g3m6kNdqE7nD4zL2w_-15\" value=\"User\" style=\"sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#FFAEA7;container=1;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"287\" y=\"1450\" width=\"46\" height=\"50\" as=\"geometry\" />\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "",
+	"fileURL": "",
+	"repoData": {
+		"d6g3m6kNdqE7nD4zL2w_-1": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-1",
+			"cellName": "Frontend",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-1",
+			"visible": true
+		},
+		"d6g3m6kNdqE7nD4zL2w_-2": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-2",
+			"cellName": "Redux Store",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-2",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-1"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-3": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-3",
+			"cellName": "Components",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-3",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-1"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-4": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-4",
+			"cellName": "Scenes",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-4",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-1"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-5": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-5",
+			"cellName": "Item.jsx",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-5",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-3"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-6": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-6",
+			"cellName": "global",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-6",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-4"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-7": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-7",
+			"cellName": "checkout",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-7",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-4"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-8": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-8",
+			"cellName": "itemDetails",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-8",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-4"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-9": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-9",
+			"cellName": "home",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-9",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-4"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-10": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-10",
+			"cellName": "ShoppingList.jsx",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-10",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-9"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-11": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-11",
+			"cellName": "getItems useEffect",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-11",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-10"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-12": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-12",
+			"cellName": "retrieve items from store",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-12",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-10"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-13": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-13",
+			"cellName": "populate items",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-13",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-10"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-14": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-14",
+			"cellName": "Router",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-14",
+			"visible": true,
+			"parentCellId": "d6g3m6kNdqE7nD4zL2w_-1"
+		},
+		"d6g3m6kNdqE7nD4zL2w_-15": {
+			"path": "d6g3m6kNdqE7nD4zL2w_-15",
+			"cellName": "User",
+			"cellId": "d6g3m6kNdqE7nD4zL2w_-15",
+			"visible": true
+		}
+	},
+	"simulations": {},
+	"cellToPath": {}
+}
