@@ -1,0 +1,195 @@
+{
+	"drawioXML": "<mxfile>\n  <diagram id=\"FtCiWwjWQfiXP2TfWk2i\" name=\"Page-1\">\n    <mxGraphModel dx=\"4324\" dy=\"2198\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"0\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"0\" />\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-17\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-1\" target=\"BL8PcD_QOLZd99EsHvG6-5\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-1\" value=\"user\" style=\"sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;container=1;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"50\" y=\"271.12854454769456\" width=\"37\" height=\"50\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-2\" value=\"FrontEnd\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"192\" y=\"70\" width=\"1150\" height=\"360\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-4\" value=\"Global\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-2\">\n          <mxGeometry x=\"55\" y=\"146.12854454769456\" width=\"220\" height=\"160\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-5\" value=\"Checkout button\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-4\">\n          <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-6\" value=\"Router\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-2\">\n          <mxGeometry x=\"385\" y=\"150\" width=\"220\" height=\"160\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-7\" value=\"/checkout\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-6\">\n          <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-8\" value=\"Checkout\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-2\">\n          <mxGeometry x=\"715\" y=\"50\" width=\"380\" height=\"260\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-9\" value=\"Redirect to stripe\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-8\">\n          <mxGeometry x=\"130\" y=\"50.00000000000001\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-10\" value=\"calls /orders endpoint\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-8\">\n          <mxGeometry x=\"130\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-18\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-2\" source=\"BL8PcD_QOLZd99EsHvG6-5\" target=\"BL8PcD_QOLZd99EsHvG6-7\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"320\" y=\"226.12854454769453\" />\n              <mxPoint x=\"320\" y=\"230\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-19\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-2\" source=\"BL8PcD_QOLZd99EsHvG6-7\" target=\"BL8PcD_QOLZd99EsHvG6-10\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-3\" value=\"Backend\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"1452\" y=\"200\" width=\"1040\" height=\"317.00413322034\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"Strapi API endpoints\" value=\"New Node\" id=\"BL8PcD_QOLZd99EsHvG6-11\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-3\">\n            <mxGeometry x=\"135\" y=\"70\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"/orders\" value=\"New Node\" id=\"BL8PcD_QOLZd99EsHvG6-12\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-11\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-13\" value=\"orders.js\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-3\">\n          <mxGeometry x=\"465\" y=\"83.80420178527946\" width=\"440\" height=\"183.19993143506056\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-24\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-13\" source=\"BL8PcD_QOLZd99EsHvG6-14\" target=\"BL8PcD_QOLZd99EsHvG6-15\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"210\" y=\"93.19993143506055\" />\n              <mxPoint x=\"210\" y=\"80\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-14\" value=\"create order request\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-13\">\n          <mxGeometry x=\"50\" y=\"73.19993143506055\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"create stripe session\" value=\"New Node\" id=\"BL8PcD_QOLZd99EsHvG6-15\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-13\">\n            <mxGeometry x=\"270\" y=\"49.99999999999999\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-21\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-3\" source=\"BL8PcD_QOLZd99EsHvG6-12\" target=\"BL8PcD_QOLZd99EsHvG6-14\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"400\" y=\"160\" />\n              <mxPoint x=\"400\" y=\"177.00413322034\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-25\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"BL8PcD_QOLZd99EsHvG6-3\" source=\"BL8PcD_QOLZd99EsHvG6-15\" target=\"BL8PcD_QOLZd99EsHvG6-12\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"950\" y=\"163.80420178527942\" />\n              <mxPoint x=\"950\" y=\"49.99999999999997\" />\n              <mxPoint x=\"90\" y=\"49.99999999999997\" />\n              <mxPoint x=\"90\" y=\"139.99999999999997\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-23\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-16\" target=\"BL8PcD_QOLZd99EsHvG6-14\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2537\" y=\"433.8042017852794\" />\n              <mxPoint x=\"2537\" y=\"537.0041332203401\" />\n              <mxPoint x=\"1387\" y=\"537.0041332203401\" />\n              <mxPoint x=\"1387\" y=\"449.99999999999994\" />\n              <mxPoint x=\"1852\" y=\"449.99999999999994\" />\n              <mxPoint x=\"1852\" y=\"397.00413322033995\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-16\" value=\"database\" style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;container=1;labelBackgroundColor=#FFFFFF;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"2597\" y=\"393.8042017852794\" width=\"60\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-20\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-10\" target=\"BL8PcD_QOLZd99EsHvG6-12\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1387\" y=\"300.00000000000006\" />\n              <mxPoint x=\"1387\" y=\"360\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-22\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-14\" target=\"BL8PcD_QOLZd99EsHvG6-16\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2127\" y=\"397.00413322033995\" />\n              <mxPoint x=\"2127\" y=\"413.8042017852794\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-27\" value=\"\" style=\"shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/331592/stripe-v2.svg;container=1;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"1452\" y=\"70\" width=\"90\" height=\"90\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-28\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-12\" target=\"BL8PcD_QOLZd99EsHvG6-9\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1852\" y=\"339.99999999999994\" />\n              <mxPoint x=\"1852\" y=\"262.8042017852794\" />\n              <mxPoint x=\"2537\" y=\"262.8042017852794\" />\n              <mxPoint x=\"2537\" y=\"50\" />\n              <mxPoint x=\"127\" y=\"50\" />\n              <mxPoint x=\"127\" y=\"195.12854454769453\" />\n              <mxPoint x=\"842\" y=\"195.12854454769453\" />\n              <mxPoint x=\"842\" y=\"200.5200024557019\" />\n              <mxPoint x=\"997\" y=\"200.52000245570184\" />\n              <mxPoint x=\"997\" y=\"199.99999999999997\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-29\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-9\" target=\"BL8PcD_QOLZd99EsHvG6-27\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1197\" y=\"200.00000000000003\" />\n              <mxPoint x=\"1197\" y=\"200.72402020429217\" />\n              <mxPoint x=\"1387\" y=\"200.72402020429217\" />\n              <mxPoint x=\"1387\" y=\"115.00000000000006\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "",
+	"fileURL": "",
+	"repoData": {
+		"client/src/App.js": {
+			"path": "client/src/App.js",
+			"fileName": "App.js",
+			"visible": true,
+			"children": [
+				"BL8PcD_QOLZd99EsHvG6-7"
+			]
+		},
+		"client/src/scenes/checkout/Checkout.jsx": {
+			"path": "client/src/scenes/checkout/Checkout.jsx",
+			"fileName": "Checkout.jsx",
+			"cellName": "Checkout",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-8",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-1": {
+			"path": "BL8PcD_QOLZd99EsHvG6-1",
+			"cellName": "user",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-1",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-2": {
+			"path": "BL8PcD_QOLZd99EsHvG6-2",
+			"cellName": "FrontEnd",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-2",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-3": {
+			"path": "BL8PcD_QOLZd99EsHvG6-3",
+			"cellName": "Backend",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-3",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-4": {
+			"path": "BL8PcD_QOLZd99EsHvG6-4",
+			"cellName": "Global",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-4",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-2"
+		},
+		"BL8PcD_QOLZd99EsHvG6-5": {
+			"path": "BL8PcD_QOLZd99EsHvG6-5",
+			"cellName": "Checkout button",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-5",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-4"
+		},
+		"BL8PcD_QOLZd99EsHvG6-6": {
+			"path": "BL8PcD_QOLZd99EsHvG6-6",
+			"cellName": "Router",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-6",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-2"
+		},
+		"BL8PcD_QOLZd99EsHvG6-7": {
+			"path": "BL8PcD_QOLZd99EsHvG6-7",
+			"fileName": "App.js",
+			"cellName": "/checkout",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-7",
+			"visible": true,
+			"startLine": 30,
+			"endLine": 30,
+			"parentPath": "client/src/App.js"
+		},
+		"BL8PcD_QOLZd99EsHvG6-9": {
+			"path": "BL8PcD_QOLZd99EsHvG6-9",
+			"cellName": "Redirect to stripe",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-9",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-8"
+		},
+		"BL8PcD_QOLZd99EsHvG6-10": {
+			"path": "BL8PcD_QOLZd99EsHvG6-10",
+			"cellName": "calls /orders endpoint",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-10",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-8"
+		},
+		"BL8PcD_QOLZd99EsHvG6-11": {
+			"path": "BL8PcD_QOLZd99EsHvG6-11",
+			"cellName": "Strapi API endpoints",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-11",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-3"
+		},
+		"BL8PcD_QOLZd99EsHvG6-12": {
+			"path": "BL8PcD_QOLZd99EsHvG6-12",
+			"cellName": "/orders",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-12",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-11"
+		},
+		"BL8PcD_QOLZd99EsHvG6-13": {
+			"path": "BL8PcD_QOLZd99EsHvG6-13",
+			"cellName": "orders.js",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-13",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-3"
+		},
+		"BL8PcD_QOLZd99EsHvG6-14": {
+			"path": "BL8PcD_QOLZd99EsHvG6-14",
+			"cellName": "create order request",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-14",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-13"
+		},
+		"BL8PcD_QOLZd99EsHvG6-15": {
+			"path": "BL8PcD_QOLZd99EsHvG6-15",
+			"cellName": "create stripe session",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-15",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-13"
+		},
+		"BL8PcD_QOLZd99EsHvG6-16": {
+			"path": "BL8PcD_QOLZd99EsHvG6-16",
+			"cellName": "database",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-16",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-17": {
+			"path": "BL8PcD_QOLZd99EsHvG6-17",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-17",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-18": {
+			"path": "BL8PcD_QOLZd99EsHvG6-18",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-18",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-2"
+		},
+		"BL8PcD_QOLZd99EsHvG6-19": {
+			"path": "BL8PcD_QOLZd99EsHvG6-19",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-19",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-2"
+		},
+		"BL8PcD_QOLZd99EsHvG6-20": {
+			"path": "BL8PcD_QOLZd99EsHvG6-20",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-20",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-21": {
+			"path": "BL8PcD_QOLZd99EsHvG6-21",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-21",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-3"
+		},
+		"BL8PcD_QOLZd99EsHvG6-22": {
+			"path": "BL8PcD_QOLZd99EsHvG6-22",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-22",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-23": {
+			"path": "BL8PcD_QOLZd99EsHvG6-23",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-23",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-24": {
+			"path": "BL8PcD_QOLZd99EsHvG6-24",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-24",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-13"
+		},
+		"BL8PcD_QOLZd99EsHvG6-25": {
+			"path": "BL8PcD_QOLZd99EsHvG6-25",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-25",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-3"
+		},
+		"BL8PcD_QOLZd99EsHvG6-27": {
+			"path": "BL8PcD_QOLZd99EsHvG6-27",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-27",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-28": {
+			"path": "BL8PcD_QOLZd99EsHvG6-28",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-28",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-29": {
+			"path": "BL8PcD_QOLZd99EsHvG6-29",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-29",
+			"visible": true
+		}
+	},
+	"simulations": {},
+	"cellToPath": {
+		"BL8PcD_QOLZd99EsHvG6-8": "client/src/scenes/checkout/Checkout.jsx"
+	}
+}
