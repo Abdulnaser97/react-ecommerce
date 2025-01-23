@@ -1,0 +1,971 @@
+{
+	"drawioXML": "<mxfile>\n  <diagram id=\"GN2NbJmTS7rB6UL3exA0\" name=\"Page-1\">\n    <mxGraphModel dx=\"1509\" dy=\"838\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"0\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"0\" />\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-1\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-3\" target=\"ELLoJjjKVRYNd2B3B1Cp-6\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1500\" y=\"850.4440569975136\" />\n              <mxPoint x=\"1500\" y=\"617.9493670428038\" />\n              <mxPoint x=\"1635\" y=\"617.9493670428039\" />\n              <mxPoint x=\"1635\" y=\"569.4331047720325\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-2\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-3\" target=\"ELLoJjjKVRYNd2B3B1Cp-50\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1470\" y=\"867.1107236641803\" />\n              <mxPoint x=\"1470\" y=\"1099.2389549230113\" />\n              <mxPoint x=\"3790\" y=\"1099.2389549230113\" />\n              <mxPoint x=\"3790\" y=\"663.2099195259285\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-3\" value=\"user\" style=\"sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"1388\" y=\"833.777390330847\" width=\"37\" height=\"50\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-4\" value=\"FrontEnd\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"1545\" y=\"89.23895492301122\" width=\"2190\" height=\"979.9999999999999\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-5\" value=\"Global\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-4\" vertex=\"1\">\n          <mxGeometry x=\"135\" y=\"400.1941498490213\" width=\"220\" height=\"160\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-6\" value=\"Checkout button\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-5\" vertex=\"1\">\n          <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-7\" value=\"Router\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-4\" vertex=\"1\">\n          <mxGeometry x=\"465\" y=\"399.45219626307005\" width=\"380\" height=\"260\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-8\" value=\"/checkout\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-7\" vertex=\"1\">\n          <mxGeometry x=\"130\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"/\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-9\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-7\" vertex=\"1\">\n            <mxGeometry x=\"130\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-10\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-4\" source=\"ELLoJjjKVRYNd2B3B1Cp-6\" target=\"ELLoJjjKVRYNd2B3B1Cp-8\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"555\" y=\"480.1941498490212\" />\n              <mxPoint x=\"555\" y=\"479.45219626306994\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-11\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-4\" source=\"ELLoJjjKVRYNd2B3B1Cp-8\" target=\"ELLoJjjKVRYNd2B3B1Cp-15\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"755\" y=\"479.45219626307005\" />\n              <mxPoint x=\"755\" y=\"480.4856037755788\" />\n              <mxPoint x=\"890\" y=\"480.4856037755788\" />\n              <mxPoint x=\"890\" y=\"181.40089496661545\" />\n              <mxPoint x=\"1045\" y=\"181.4008949666155\" />\n              <mxPoint x=\"1045\" y=\"180.7419535859513\" />\n              <mxPoint x=\"1400\" y=\"180.74195358595125\" />\n              <mxPoint x=\"1400\" y=\"180\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"scenes\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-12\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-4\" vertex=\"1\">\n            <mxGeometry x=\"955\" y=\"50\" width=\"1090\" height=\"860\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-13\" value=\"Checkout\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-12\" vertex=\"1\">\n          <mxGeometry x=\"355\" y=\"50\" width=\"380\" height=\"260\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-14\" value=\"Redirect to stripe\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-13\" vertex=\"1\">\n          <mxGeometry x=\"130\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-15\" value=\"calls /orders endpoint\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-13\" vertex=\"1\">\n          <mxGeometry x=\"130\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"home\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-16\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-12\" vertex=\"1\">\n            <mxGeometry x=\"135\" y=\"350\" width=\"820\" height=\"460\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"shoppinglist.jsx\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-17\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-16\" vertex=\"1\">\n            <mxGeometry x=\"135\" y=\"49.999999999999986\" width=\"630\" height=\"360\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-18\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-17\" source=\"ELLoJjjKVRYNd2B3B1Cp-19\" target=\"ELLoJjjKVRYNd2B3B1Cp-20\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"400\" y=\"80\" />\n              <mxPoint x=\"400\" y=\"98.2209646029174\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"retrieve items from store\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-19\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-17\" vertex=\"1\">\n            <mxGeometry x=\"185\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"populate items\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-20\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-17\" vertex=\"1\">\n            <mxGeometry x=\"460\" y=\"68.2209646029174\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"getItems Useeffect\" value=\"ShoppingList.jsx {L30:L32}\" id=\"ELLoJjjKVRYNd2B3B1Cp-21\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-17\" vertex=\"1\">\n            <mxGeometry x=\"135\" y=\"150\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"getItems\" value=\"ShoppingList.jsx {L21:L29}\" id=\"ELLoJjjKVRYNd2B3B1Cp-22\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-21\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Redux\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-23\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-4\" vertex=\"1\">\n            <mxGeometry x=\"625\" y=\"699.4521962630699\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"dispatch setItems\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-24\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-23\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-25\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-4\" source=\"ELLoJjjKVRYNd2B3B1Cp-24\" target=\"ELLoJjjKVRYNd2B3B1Cp-19\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"890\" y=\"779.4521962630699\" />\n              <mxPoint x=\"890\" y=\"532.3395403010609\" />\n              <mxPoint x=\"1180\" y=\"532.339540301061\" />\n              <mxPoint x=\"1180\" y=\"531.0352587119286\" />\n              <mxPoint x=\"1315\" y=\"531.0352587119286\" />\n              <mxPoint x=\"1315\" y=\"530\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-26\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-4\" source=\"ELLoJjjKVRYNd2B3B1Cp-9\" target=\"ELLoJjjKVRYNd2B3B1Cp-21\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"900\" y=\"579.45219626307\" />\n              <mxPoint x=\"900\" y=\"663.6456347999999\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-27\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-4\" source=\"ELLoJjjKVRYNd2B3B1Cp-22\" target=\"ELLoJjjKVRYNd2B3B1Cp-24\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1635\" y=\"690\" />\n              <mxPoint x=\"1635\" y=\"667.3911136883783\" />\n              <mxPoint x=\"2090\" y=\"667.3911136883783\" />\n              <mxPoint x=\"2090\" y=\"929.9999999999999\" />\n              <mxPoint x=\"400\" y=\"929.9999999999999\" />\n              <mxPoint x=\"400\" y=\"779.4521962630699\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-28\" value=\"Backend\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"225\" y=\"80\" width=\"1200\" height=\"618.4290585033309\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"Strapi API endpoints\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-29\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-28\" vertex=\"1\">\n            <mxGeometry x=\"135\" y=\"275.61307667530934\" width=\"380\" height=\"260\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"/orders\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-30\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-29\" vertex=\"1\">\n            <mxGeometry x=\"130\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"/item\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-31\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-29\" vertex=\"1\">\n            <mxGeometry x=\"130\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-32\" value=\"orders.js\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-28\" vertex=\"1\">\n          <mxGeometry x=\"625\" y=\"50\" width=\"440\" height=\"185.61307667530937\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-33\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-32\" source=\"ELLoJjjKVRYNd2B3B1Cp-34\" target=\"ELLoJjjKVRYNd2B3B1Cp-35\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"210\" y=\"90\" />\n              <mxPoint x=\"210\" y=\"105.61307667530937\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-34\" value=\"create order request\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-32\" vertex=\"1\">\n          <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"create stripe session\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-35\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-32\" vertex=\"1\">\n            <mxGeometry x=\"270\" y=\"75.61307667530937\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-36\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-28\" source=\"ELLoJjjKVRYNd2B3B1Cp-30\" target=\"ELLoJjjKVRYNd2B3B1Cp-34\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"425\" y=\"345.61307667530934\" />\n              <mxPoint x=\"425\" y=\"346.3236085755685\" />\n              <mxPoint x=\"560\" y=\"346.3236085755685\" />\n              <mxPoint x=\"560\" y=\"119.99999999999997\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-37\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-28\" source=\"ELLoJjjKVRYNd2B3B1Cp-35\" target=\"ELLoJjjKVRYNd2B3B1Cp-30\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1110\" y=\"155.61307667530937\" />\n              <mxPoint x=\"1110\" y=\"255.61307667530937\" />\n              <mxPoint x=\"90\" y=\"255.61307667530937\" />\n              <mxPoint x=\"90\" y=\"346.14679319345703\" />\n              <mxPoint x=\"225\" y=\"346.146793193457\" />\n              <mxPoint x=\"225\" y=\"345.61307667530934\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-38\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-28\" source=\"ELLoJjjKVRYNd2B3B1Cp-39\" target=\"ELLoJjjKVRYNd2B3B1Cp-31\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"570\" y=\"544.3731156241888\" />\n              <mxPoint x=\"570\" y=\"568.4290585033309\" />\n              <mxPoint x=\"90\" y=\"568.4290585033309\" />\n              <mxPoint x=\"90\" y=\"465.6130766753094\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"items.js\" value=\"New Node\" id=\"ELLoJjjKVRYNd2B3B1Cp-39\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-28\" vertex=\"1\">\n            <mxGeometry x=\"705\" y=\"499.37311562418876\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-40\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"ELLoJjjKVRYNd2B3B1Cp-28\" source=\"ELLoJjjKVRYNd2B3B1Cp-31\" target=\"ELLoJjjKVRYNd2B3B1Cp-39\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"560\" y=\"465.61307667530934\" />\n              <mxPoint x=\"560\" y=\"514.3731156241887\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-41\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-43\" target=\"ELLoJjjKVRYNd2B3B1Cp-34\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"795\" y=\"250.3318008988099\" />\n              <mxPoint x=\"795\" y=\"220\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-42\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-43\" target=\"ELLoJjjKVRYNd2B3B1Cp-39\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"160\" y=\"262.3318008988099\" />\n              <mxPoint x=\"160\" y=\"635.6130766753092\" />\n              <mxPoint x=\"785\" y=\"635.6130766753092\" />\n              <mxPoint x=\"785\" y=\"609.3731156241887\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-43\" value=\"database\" style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;container=1;labelBackgroundColor=#FFFFFF;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"50\" y=\"226.33180089880992\" width=\"60\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-44\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-15\" target=\"ELLoJjjKVRYNd2B3B1Cp-30\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3145\" y=\"269.23895492301125\" />\n              <mxPoint x=\"3145\" y=\"270.27236243552\" />\n              <mxPoint x=\"3500\" y=\"270.2723624355199\" />\n              <mxPoint x=\"3500\" y=\"271.1332321471462\" />\n              <mxPoint x=\"3645\" y=\"271.13323214714626\" />\n              <mxPoint x=\"3645\" y=\"372.1314355970064\" />\n              <mxPoint x=\"3800\" y=\"372.13143559700643\" />\n              <mxPoint x=\"3800\" y=\"50.00000000000006\" />\n              <mxPoint x=\"170\" y=\"50.00000000000006\" />\n              <mxPoint x=\"170\" y=\"445.61307667530946\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-45\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-34\" target=\"ELLoJjjKVRYNd2B3B1Cp-43\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1060\" y=\"200\" />\n              <mxPoint x=\"1060\" y=\"184.61307667530937\" />\n              <mxPoint x=\"1335\" y=\"184.61307667530937\" />\n              <mxPoint x=\"1335\" y=\"188.69999870582228\" />\n              <mxPoint x=\"1470\" y=\"188.69999870582228\" />\n              <mxPoint x=\"1470\" y=\"60\" />\n              <mxPoint x=\"180\" y=\"60\" />\n              <mxPoint x=\"180\" y=\"238.33180089880992\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-46\" value=\"\" style=\"shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/331592/stripe-v2.svg;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"3840\" y=\"416.74663290577257\" width=\"90\" height=\"90\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-47\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-30\" target=\"ELLoJjjKVRYNd2B3B1Cp-14\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"785\" y=\"445.61307667530934\" />\n              <mxPoint x=\"785\" y=\"450.2603601222995\" />\n              <mxPoint x=\"1500\" y=\"450.2603601222995\" />\n              <mxPoint x=\"1500\" y=\"511.51118659929455\" />\n              <mxPoint x=\"1635\" y=\"511.5111865992945\" />\n              <mxPoint x=\"1635\" y=\"463.2720235423053\" />\n              <mxPoint x=\"2445\" y=\"463.2720235423053\" />\n              <mxPoint x=\"2445\" y=\"369.23895492301114\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-48\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-14\" target=\"ELLoJjjKVRYNd2B3B1Cp-46\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3635\" y=\"369.2389549230112\" />\n              <mxPoint x=\"3635\" y=\"465.15803878523104\" />\n              <mxPoint x=\"3780\" y=\"465.15803878523116\" />\n              <mxPoint x=\"3780\" y=\"461.74663290577257\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-49\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-50\" target=\"ELLoJjjKVRYNd2B3B1Cp-9\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3790\" y=\"611.7099195259285\" />\n              <mxPoint x=\"3790\" y=\"69.23895492301124\" />\n              <mxPoint x=\"1490\" y=\"69.23895492301124\" />\n              <mxPoint x=\"1490\" y=\"717.9493670428038\" />\n              <mxPoint x=\"1945\" y=\"717.9493670428038\" />\n              <mxPoint x=\"1945\" y=\"668.6911511860812\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-50\" value=\"\" style=\"verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FFAEA7;shape=mxgraph.azure.laptop;pointerEvents=1;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"3840\" y=\"585.9599195259285\" width=\"143\" height=\"103\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-51\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-20\" target=\"ELLoJjjKVRYNd2B3B1Cp-50\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-52\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-22\" target=\"ELLoJjjKVRYNd2B3B1Cp-31\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3170\" y=\"759.2389549230112\" />\n              <mxPoint x=\"3170\" y=\"739.8791056835415\" />\n              <mxPoint x=\"3780\" y=\"739.8791056835416\" />\n              <mxPoint x=\"3780\" y=\"1089.2389549230113\" />\n              <mxPoint x=\"180\" y=\"1089.2389549230113\" />\n              <mxPoint x=\"180\" y=\"525.6130766753095\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-53\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-39\" target=\"ELLoJjjKVRYNd2B3B1Cp-43\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1470\" y=\"609.3731156241888\" />\n              <mxPoint x=\"1470\" y=\"718.4290585033309\" />\n              <mxPoint x=\"150\" y=\"718.4290585033309\" />\n              <mxPoint x=\"150\" y=\"274.3318008988099\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ELLoJjjKVRYNd2B3B1Cp-54\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"ELLoJjjKVRYNd2B3B1Cp-31\" target=\"ELLoJjjKVRYNd2B3B1Cp-22\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"785\" y=\"525.6130766753093\" />\n              <mxPoint x=\"785\" y=\"518.0462353521835\" />\n              <mxPoint x=\"1480\" y=\"518.0462353521835\" />\n              <mxPoint x=\"1480\" y=\"968.6911511860812\" />\n              <mxPoint x=\"2445\" y=\"968.6911511860811\" />\n              <mxPoint x=\"2445\" y=\"769.2389549230111\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "",
+	"fileURL": "",
+	"repoData": {
+		"ELLoJjjKVRYNd2B3B1Cp-1": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-1",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-1",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-2": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-2",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-2",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-3": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-3",
+			"cellName": "user",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-3",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-4": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-4",
+			"cellName": "FrontEnd",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-4",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-5": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-5",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-5",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-4"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-7": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-7",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-7",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-4"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-10": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-10",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-10",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-4"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-11": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-11",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-11",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-4"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-12": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-12",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-12",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-4"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-23": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-23",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-23",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-4"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-25": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-25",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-25",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-4"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-26": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-26",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-26",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-4"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-27": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-27",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-27",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-4"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-28": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-28",
+			"cellName": "Backend",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-28",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-29": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-29",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-29",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-28"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-32": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-32",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-32",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-28"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-36": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-36",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-36",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-28"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-37": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-37",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-37",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-28"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-38": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-38",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-38",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-28"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-39": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-39",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-39",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-28"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-40": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-40",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-40",
+			"visible": true,
+			"parentCellId": "ELLoJjjKVRYNd2B3B1Cp-28"
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-41": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-41",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-41",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-42": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-42",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-42",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-43": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-43",
+			"cellName": "database",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-43",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-44": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-44",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-44",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-45": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-45",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-45",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-46": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-46",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-46",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-47": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-47",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-47",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-48": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-48",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-48",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-49": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-49",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-49",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-50": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-50",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-50",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-51": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-51",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-51",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-52": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-52",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-52",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-53": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-53",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-53",
+			"visible": true
+		},
+		"ELLoJjjKVRYNd2B3B1Cp-54": {
+			"path": "ELLoJjjKVRYNd2B3B1Cp-54",
+			"cellId": "ELLoJjjKVRYNd2B3B1Cp-54",
+			"visible": true
+		}
+	},
+	"simulations": {
+		"Checkout process": {
+			"name": "Checkout process",
+			"simSteps": [
+				{
+					"simStepId": "b3186cca-048d-4bc3-8fc0-59f59a4efd9f",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-28",
+					"simStepLabel": "User",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "72ff8fea-5e93-4ef5-bc32-f5495e732c4a",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-33",
+					"simStepLabel": "72ff8fea-5e93-4ef5-bc32-f5495e732c4a",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "2c5727bb-d4cc-4753-acf9-953518d49324",
+					"diagramNodeId": "ljcrNpzjA-VsLQb5ka2r-2",
+					"simStepLabel": "Click on checkout button",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "9173c71a-d0d5-474f-ba09-901bd52ffc8f",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-22",
+					"simStepLabel": "9173c71a-d0d5-474f-ba09-901bd52ffc8f",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "978ae3cc-e01b-403a-a705-ca6cb0ff114d",
+					"diagramNodeId": "iIEiObGxVmEiV3vxqivL-1",
+					"simStepLabel": "calls /orders endpoint",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "969d3da5-a462-4b50-acec-fe98250da2dd",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-39",
+					"simStepLabel": "",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "1ce3ec5c-fbac-4bc2-b54c-10d5170ce6f6",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-25",
+					"simStepLabel": "/orders",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "dea84ece-b27b-4836-a7ac-02132ac0af6b",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-35",
+					"simStepLabel": "dea84ece-b27b-4836-a7ac-02132ac0af6b",
+					"simStepDescription": "",
+					"isEdge": true
+				},
+				{
+					"simStepId": "62d0b5bc-3aec-4746-b762-ad2ed590a24c",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-6",
+					"simStepLabel": "Create Order Request",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "76e5cd5a-f883-4a5c-ab11-2599e5d526a6",
+					"diagramNodeId": "afwP6DzT76Q6e85_etyz-1",
+					"simStepLabel": "Store order in Database",
+					"simStepDescription": "",
+					"isEdge": true
+				},
+				{
+					"simStepId": "061d92b3-2925-4782-abcd-07e74c944c25",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-9",
+					"simStepLabel": "Database",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "9cf58895-c4c3-403a-941d-09551d20caa9",
+					"diagramNodeId": "PfdVOjmIDhfDisYAhotH-4",
+					"simStepLabel": "9cf58895-c4c3-403a-941d-09551d20caa9",
+					"simStepDescription": "",
+					"isEdge": true
+				},
+				{
+					"simStepId": "ac986f28-1aef-4b2a-be0b-4fdd1effcf55",
+					"diagramNodeId": "PfdVOjmIDhfDisYAhotH-3",
+					"simStepLabel": "Create stripe session",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "432111d1-46b9-4e3e-8e11-4e5ead6129c0",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-36",
+					"simStepLabel": "",
+					"simStepDescription": "",
+					"isEdge": true
+				},
+				{
+					"simStepId": "6d8e1ad3-f39c-42d9-a8b3-b32908ab5107",
+					"diagramNodeId": "PfdVOjmIDhfDisYAhotH-1",
+					"simStepLabel": "Return Stripe Session ID",
+					"simStepDescription": "",
+					"isEdge": true
+				},
+				{
+					"simStepId": "4a9764bf-dcef-46b4-afcb-d68f0df539c1",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-24",
+					"simStepLabel": "Redirect to Stripe",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "da85d3ba-849f-4ce7-b12b-0f9f61b42d3b",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-26",
+					"simStepLabel": "da85d3ba-849f-4ce7-b12b-0f9f61b42d3b",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "a4f48489-ddb9-4cc4-95b9-4cbe0a0eca3e",
+					"diagramNodeId": "0OxNTaQjYk_i-3UOholK-2",
+					"simStepLabel": "Stripe",
+					"simStepDescription": "",
+					"isEdge": false
+				}
+			],
+			"simulationNodesAndEdges": {
+				"kvsvKnKjs1UTCSIsLsuh-28": {
+					"simStepIds": [
+						"b3186cca-048d-4bc3-8fc0-59f59a4efd9f"
+					]
+				},
+				"kvsvKnKjs1UTCSIsLsuh-33": {
+					"simStepIds": [
+						"72ff8fea-5e93-4ef5-bc32-f5495e732c4a"
+					]
+				},
+				"kvsvKnKjs1UTCSIsLsuh-22": {
+					"simStepIds": [
+						"9173c71a-d0d5-474f-ba09-901bd52ffc8f"
+					]
+				},
+				"kvsvKnKjs1UTCSIsLsuh-39": {
+					"simStepIds": [
+						"969d3da5-a462-4b50-acec-fe98250da2dd"
+					]
+				},
+				"kvsvKnKjs1UTCSIsLsuh-6": {
+					"simStepIds": [
+						"62d0b5bc-3aec-4746-b762-ad2ed590a24c"
+					]
+				},
+				"kvsvKnKjs1UTCSIsLsuh-24": {
+					"simStepIds": [
+						"4a9764bf-dcef-46b4-afcb-d68f0df539c1"
+					]
+				},
+				"kvsvKnKjs1UTCSIsLsuh-26": {
+					"simStepIds": [
+						"da85d3ba-849f-4ce7-b12b-0f9f61b42d3b"
+					]
+				},
+				"0OxNTaQjYk_i-3UOholK-2": {
+					"simStepIds": [
+						"a4f48489-ddb9-4cc4-95b9-4cbe0a0eca3e"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-25": {
+					"simStepIds": [
+						"1ce3ec5c-fbac-4bc2-b54c-10d5170ce6f6"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-35": {
+					"simStepIds": [
+						"dea84ece-b27b-4836-a7ac-02132ac0af6b"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-36": {
+					"simStepIds": [
+						"432111d1-46b9-4e3e-8e11-4e5ead6129c0"
+					]
+				},
+				"ljcrNpzjA-VsLQb5ka2r-2": {
+					"simStepIds": [
+						"2c5727bb-d4cc-4753-acf9-953518d49324"
+					]
+				},
+				"iIEiObGxVmEiV3vxqivL-1": {
+					"simStepIds": [
+						"978ae3cc-e01b-403a-a705-ca6cb0ff114d"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-9": {
+					"simStepIds": [
+						"061d92b3-2925-4782-abcd-07e74c944c25"
+					]
+				},
+				"afwP6DzT76Q6e85_etyz-1": {
+					"simStepIds": [
+						"76e5cd5a-f883-4a5c-ab11-2599e5d526a6"
+					]
+				},
+				"PfdVOjmIDhfDisYAhotH-1": {
+					"simStepIds": [
+						"6d8e1ad3-f39c-42d9-a8b3-b32908ab5107"
+					]
+				},
+				"PfdVOjmIDhfDisYAhotH-3": {
+					"simStepIds": [
+						"ac986f28-1aef-4b2a-be0b-4fdd1effcf55"
+					]
+				},
+				"PfdVOjmIDhfDisYAhotH-4": {
+					"simStepIds": [
+						"9cf58895-c4c3-403a-941d-09551d20caa9"
+					]
+				}
+			},
+			"description": "",
+			"simSteps[4]": {
+				"simStepLabel": "Calls /orders endpoint"
+			}
+		},
+		"Tutorial: e-commerce site architecture": {
+			"name": "Tutorial: e-commerce site architecture",
+			"simSteps": [
+				{
+					"simStepId": "8688da9f-b32e-4d0f-be4f-744ce38cd9f1",
+					"diagramNodeId": "djbQZU8lrkMXdhmgLnd0-7",
+					"simStepLabel": "UI Overview: Landing Page and Catalog",
+					"simStepDescription": "<p>The site is an ecommerce app where you can add items to cart and checkout.</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "1df07d66-693e-4b7b-b12c-1e0b6edca873",
+					"diagramNodeId": "djbQZU8lrkMXdhmgLnd0-4",
+					"simStepLabel": "UI Overview: Add to Cart and Checkout",
+					"simStepDescription": "<p>You can add items to shopping bag and checkout using stripe</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "8c018d45-544e-4e5f-8b63-6875858d2bf2",
+					"diagramNodeId": "M1sMy-JxuOxenNuDgHCM-1",
+					"simStepLabel": "UI Overview: Stripe Checkout Session",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "d88f24ca-e00e-4132-94e1-0d408277e901",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-2",
+					"simStepLabel": "Component 1 - Frontend",
+					"simStepDescription": "<p>Now let's start with architecutre of the application.<br>The app consists of 3 components: Component 1 → Front-end application</p><p><i>You might want to zoom in and out (cmd/ctrl + scroll) throughout on the diagram throughout the tutorial.</i><br>&nbsp;</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "00f15efd-0972-406f-9c42-8d37ff55a78f",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-1",
+					"simStepLabel": "Component 2 - Backend",
+					"simStepDescription": "<p>Component 2 → Back-end server created using Strapi: <a href=\"https://docs.strapi.io/dev-docs/quick-start\">https://docs.strapi.io/dev-docs/quick-start</a><br>&nbsp;</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "0c0daff3-c66e-42e2-be49-823d6f83045f",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-9",
+					"simStepLabel": "Component 3 - Database",
+					"simStepDescription": "<p>Component 3 → Database</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "81874f9f-4249-4b18-b985-bd575abf7fb5",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-2",
+					"simStepLabel": "Frontend Deep Dive",
+					"simStepDescription": "<p>Let's start by looking at the front-end:&nbsp;</p><ul><li>The front-end is react.js based<br>&nbsp;</li><li>All the front-end source code is placed under <strong>/client</strong> folder.<br><i>You can switch to the <strong>Repo</strong> tab from the top to view the folder structure</i><br>&nbsp;</li></ul>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "49bfba69-a44d-4d1d-a20d-5de44d71d41f",
+					"diagramNodeId": "PfdVOjmIDhfDisYAhotH-12",
+					"simStepLabel": "Amplify Console Button",
+					"simStepDescription": "<p>At anytime, click on the green button on the diagram to take you to Amplify console where the app is hosted</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "9ea94e79-78aa-4c59-a9d2-f82f8fd2abc8",
+					"diagramNodeId": "PfdVOjmIDhfDisYAhotH-11",
+					"simStepLabel": "Local Development: http://localhost:3000",
+					"simStepDescription": "<p>In Local Development: The front-end's port is 3000</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "329406ff-aedf-442f-b328-20a4d16c7c9e",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-3",
+					"simStepLabel": "Front-end Components: Redux Store",
+					"simStepDescription": "<p>The front-end has 3 components:</p><ul><li>A Redux store that manages the application state</li></ul>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "8d79f3d7-0140-4a1c-81ca-2c38e50f5e7f",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-1",
+					"simStepLabel": "Front-end Components: Components",
+					"simStepDescription": "<p>A components folder that hosts adhoc UI components</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "4dfd91ce-347f-46c1-a2b2-1401561d4f24",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-3",
+					"simStepLabel": "Front-end Components: Scenes",
+					"simStepDescription": "<p>The Scenes folder, which hosts the scenes (or pages) that are accessed by the different routes indicated in green on each scene<br>&nbsp;</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "bbec4d2f-d05d-4bd7-877f-64d0d6dad5aa",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-1",
+					"simStepLabel": "Backend Deep Dive",
+					"simStepDescription": "<p>Now let's look at the back-end</p><ul><li>The backend is a <strong>Strapi</strong> server. read more about Strapi <a href=\"https://docs.strapi.io/dev-docs/quick-start\">here</a>.</li><li>It's hosted on aws EC2</li></ul>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "3f1d6524-a374-4583-a857-685e91109e12",
+					"diagramNodeId": "PfdVOjmIDhfDisYAhotH-8",
+					"simStepLabel": "EC2 Console Button",
+					"simStepDescription": "<p>Similar to the front end, clicking on the green button will take to the EC2 console</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "d9a8dcf3-9534-4a59-8806-cef8431a863b",
+					"diagramNodeId": "PfdVOjmIDhfDisYAhotH-6",
+					"simStepLabel": "Local Development: http://localhost:2000",
+					"simStepDescription": "<p>And locally, the backend is at localhost:2000</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "6d17b591-e416-4b94-99bd-94b39c24d5b1",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-14",
+					"simStepLabel": "Strapi API Endpoints",
+					"simStepDescription": "<p>The server has two endpoints that we will go over in a bit.<br>Each API endpoint along with its logic is under hosted under its corresponding folder</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "efb7a4f4-c70d-4a36-8078-a14bb7133595",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-25",
+					"simStepLabel": "Endpoint 1: /orders",
+					"simStepDescription": "<p>Endpoint 1: /orders</p><p>This endpoint is called when the customer places an order (check the checkout process simulation for end-to-end flow)</p><p>All the logic of this endpoint is hosted under the /order folder<br><i>You can switch to the <strong>Repo</strong> tab at the top to view the folder structure</i></p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "22a2ddd6-9489-439e-b39b-bfbe322d5baf",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-29",
+					"simStepLabel": "Endpoint 2: /items",
+					"simStepDescription": "<p>Endpoint 2: /items</p><p>This endpoint is called to retrieve the product details (check the <strong>landing</strong> simulation for end-to-end flow)</p><p>All the logic of this endpoint is hosted under the /items folder<br><i>You can switch to the <strong>Repo</strong> tab at the top to view the folder structure</i></p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "87febf6c-65dd-41b1-b372-6c750c81062e",
+					"diagramNodeId": "paUefg6FEUca8L2ITitm-5",
+					"simStepLabel": "Each endpoint has a controller that contains the its logic",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "c900f2ea-55b0-4ce5-88ce-d2adfb19592e",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-9",
+					"simStepLabel": "Database Deep Dive",
+					"simStepDescription": "<p>We have so far gone over the frontend and backend, this is our last stop, the database.<br><br>The database stores the user orders as well as the catalog of products.<br>It's hosted on Dynamo DB.<br>&nbsp;</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "0df4e132-46b7-40bf-ae27-6dfdda50ba55",
+					"diagramNodeId": "PfdVOjmIDhfDisYAhotH-7",
+					"simStepLabel": "Dynamo DB console URL",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "5d1f678a-a7a7-40d8-8eb1-913e22143da0",
+					"diagramNodeId": "PfdVOjmIDhfDisYAhotH-5",
+					"simStepLabel": "http://localhost:1337/admin/content-manager",
+					"simStepDescription": "<p>You can access the database locally on http://localhost:1337/admin/content-manager</p><p>&nbsp;</p>",
+					"isEdge": false
+				},
+				{
+					"simStepId": "f76f391b-5643-4bbf-ad3b-a03970722795",
+					"diagramNodeId": "paUefg6FEUca8L2ITitm-8",
+					"simStepLabel": "That's a wrap!",
+					"simStepDescription": "<p>That's a wrap!</p><p>We hope you are now familiar with the architecture of react-ecommerce</p><p>Next step: Go over the functionality-specific simulations or click the plus button on the left hand side of the screen to build your own repository diagram!</p>",
+					"isEdge": false
+				}
+			],
+			"simulationNodesAndEdges": {
+				"kvsvKnKjs1UTCSIsLsuh-2": {
+					"simStepIds": [
+						"d88f24ca-e00e-4132-94e1-0d408277e901",
+						"81874f9f-4249-4b18-b985-bd575abf7fb5"
+					]
+				},
+				"kvsvKnKjs1UTCSIsLsuh-1": {
+					"simStepIds": [
+						"00f15efd-0972-406f-9c42-8d37ff55a78f",
+						"bbec4d2f-d05d-4bd7-877f-64d0d6dad5aa"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-9": {
+					"simStepIds": [
+						"0c0daff3-c66e-42e2-be49-823d6f83045f",
+						"c900f2ea-55b0-4ce5-88ce-d2adfb19592e"
+					]
+				},
+				"PfdVOjmIDhfDisYAhotH-12": {
+					"simStepIds": [
+						"49bfba69-a44d-4d1d-a20d-5de44d71d41f"
+					]
+				},
+				"PfdVOjmIDhfDisYAhotH-11": {
+					"simStepIds": [
+						"9ea94e79-78aa-4c59-a9d2-f82f8fd2abc8"
+					]
+				},
+				"kvsvKnKjs1UTCSIsLsuh-3": {
+					"simStepIds": [
+						"329406ff-aedf-442f-b328-20a4d16c7c9e"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-1": {
+					"simStepIds": [
+						"8d79f3d7-0140-4a1c-81ca-2c38e50f5e7f"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-3": {
+					"simStepIds": [
+						"4dfd91ce-347f-46c1-a2b2-1401561d4f24"
+					]
+				},
+				"PfdVOjmIDhfDisYAhotH-8": {
+					"simStepIds": [
+						"3f1d6524-a374-4583-a857-685e91109e12"
+					]
+				},
+				"PfdVOjmIDhfDisYAhotH-6": {
+					"simStepIds": [
+						"d9a8dcf3-9534-4a59-8806-cef8431a863b"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-14": {
+					"simStepIds": [
+						"6d17b591-e416-4b94-99bd-94b39c24d5b1"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-25": {
+					"simStepIds": [
+						"efb7a4f4-c70d-4a36-8078-a14bb7133595"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-29": {
+					"simStepIds": [
+						"22a2ddd6-9489-439e-b39b-bfbe322d5baf"
+					]
+				},
+				"paUefg6FEUca8L2ITitm-5": {
+					"simStepIds": [
+						"87febf6c-65dd-41b1-b372-6c750c81062e"
+					]
+				},
+				"PfdVOjmIDhfDisYAhotH-7": {
+					"simStepIds": [
+						"0df4e132-46b7-40bf-ae27-6dfdda50ba55"
+					]
+				},
+				"PfdVOjmIDhfDisYAhotH-5": {
+					"simStepIds": [
+						"5d1f678a-a7a7-40d8-8eb1-913e22143da0"
+					]
+				},
+				"paUefg6FEUca8L2ITitm-8": {
+					"simStepIds": [
+						"f76f391b-5643-4bbf-ad3b-a03970722795"
+					]
+				},
+				"djbQZU8lrkMXdhmgLnd0-7": {
+					"simStepIds": [
+						"8688da9f-b32e-4d0f-be4f-744ce38cd9f1"
+					]
+				},
+				"djbQZU8lrkMXdhmgLnd0-4": {
+					"simStepIds": [
+						"1df07d66-693e-4b7b-b12c-1e0b6edca873"
+					]
+				},
+				"M1sMy-JxuOxenNuDgHCM-1": {
+					"simStepIds": [
+						"8c018d45-544e-4e5f-8b63-6875858d2bf2"
+					]
+				}
+			},
+			"description": "<p><i>Click the play button above to begin start the tutorial</i></p><p><i>Also, use cmd/ctrl + scroll to zoom in/out on the diagram throughout the tutorial</i></p><p>&nbsp;</p><p>This tutorial goes over the high level architecture of <strong>react-ecommerce</strong> webapp.</p><p>The app is a full-stack application with 3 components:</p><ul><li>Frontend</li><li>Backend</li><li>Database</li></ul>"
+		},
+		"User landing workflow": {
+			"name": "User landing workflow",
+			"simSteps": [
+				{
+					"simStepId": "6e1f49f0-a622-4aaf-875a-d9087d18c313",
+					"diagramNodeId": "kvsvKnKjs1UTCSIsLsuh-28",
+					"simStepLabel": "User",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "b304d592-bb13-41fd-a2c6-25f991a9258a",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-17",
+					"simStepLabel": "b304d592-bb13-41fd-a2c6-25f991a9258a",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "de804867-67ff-44d3-8f0d-651aad48ad33",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-15",
+					"simStepLabel": "On landing",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "8a5879ba-32f0-4577-8e3e-fa444da7b292",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-21",
+					"simStepLabel": "8a5879ba-32f0-4577-8e3e-fa444da7b292",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "d43b0dfe-5142-4558-8ac4-12b5761cb382",
+					"diagramNodeId": "client/src/scenes/home/ShoppingList.jsx-bcdd812b-f3d0-44b9-8015-75f322d1b10d",
+					"simStepLabel": "getItems useEffect Calls /items endpoint to retrieve the items in stock",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "fdb451d4-9915-454a-a454-bebb599a65b0",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-22",
+					"simStepLabel": "fdb451d4-9915-454a-a454-bebb599a65b0",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "3df04087-5b66-41ce-809e-f291f5139fba",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-29",
+					"simStepLabel": "/items",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "06181bfe-885e-4b7c-a052-29e99fd32f48",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-23",
+					"simStepLabel": "06181bfe-885e-4b7c-a052-29e99fd32f48",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "e8b11fee-e488-4f75-9651-3b92a5dc2498",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-34",
+					"simStepLabel": "item.js forwards the request to strapi database",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "60c08068-f96e-4c6b-bba0-259685e14493",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-24",
+					"simStepLabel": "60c08068-f96e-4c6b-bba0-259685e14493",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "a1f8b5e8-c7e7-4571-932b-acd1b97b3789",
+					"diagramNodeId": "iRsse4k0RzgyvmA41Yim-9",
+					"simStepLabel": "Database",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "253d5f3f-6326-45c2-900f-9e553cf9de64",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-25",
+					"simStepLabel": "Items in stock data retrieved from backend",
+					"simStepDescription": "",
+					"isEdge": true
+				},
+				{
+					"simStepId": "5ac12158-2b6b-45d8-9caa-20c337809b32",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-26",
+					"simStepLabel": "5ac12158-2b6b-45d8-9caa-20c337809b32",
+					"simStepDescription": "",
+					"isEdge": true
+				},
+				{
+					"simStepId": "9d109567-eaee-4ce4-b144-0b83ca193fb8",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-19",
+					"simStepLabel": "Store the items data in redux",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "29e70640-b843-4bf5-ae23-166f54d2a0cc",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-31",
+					"simStepLabel": "29e70640-b843-4bf5-ae23-166f54d2a0cc",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "2db7c5d9-4b16-4aba-832e-525a08dbed41",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-28",
+					"simStepLabel": "retrieve items from store",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "2b7ffc1a-3713-402e-bcc9-9e8701fd39ce",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-32",
+					"simStepLabel": "2b7ffc1a-3713-402e-bcc9-9e8701fd39ce",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "fd4cecfd-c894-45ed-ba19-02c5a288c6a7",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-29",
+					"simStepLabel": "populate items",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "4665f9e5-9997-4b7e-9693-26ab679145fb",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-30",
+					"simStepLabel": "",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "7fc00475-cb32-4d21-8139-a5562cb1c1b7",
+					"diagramNodeId": "UIGWCaoiStmmG4PKkWzX-13",
+					"simStepLabel": "Items are populated",
+					"simStepDescription": "",
+					"isEdge": false
+				}
+			],
+			"simulationNodesAndEdges": {
+				"kvsvKnKjs1UTCSIsLsuh-28": {
+					"simStepIds": [
+						"6e1f49f0-a622-4aaf-875a-d9087d18c313"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-17": {
+					"simStepIds": [
+						"b304d592-bb13-41fd-a2c6-25f991a9258a"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-15": {
+					"simStepIds": [
+						"de804867-67ff-44d3-8f0d-651aad48ad33"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-21": {
+					"simStepIds": [
+						"8a5879ba-32f0-4577-8e3e-fa444da7b292"
+					]
+				},
+				"client/src/scenes/home/ShoppingList.jsx-bcdd812b-f3d0-44b9-8015-75f322d1b10d": {
+					"simStepIds": [
+						"d43b0dfe-5142-4558-8ac4-12b5761cb382"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-22": {
+					"simStepIds": [
+						"fdb451d4-9915-454a-a454-bebb599a65b0"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-29": {
+					"simStepIds": [
+						"3df04087-5b66-41ce-809e-f291f5139fba"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-23": {
+					"simStepIds": [
+						"06181bfe-885e-4b7c-a052-29e99fd32f48"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-34": {
+					"simStepIds": [
+						"e8b11fee-e488-4f75-9651-3b92a5dc2498"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-24": {
+					"simStepIds": [
+						"60c08068-f96e-4c6b-bba0-259685e14493"
+					]
+				},
+				"iRsse4k0RzgyvmA41Yim-9": {
+					"simStepIds": [
+						"a1f8b5e8-c7e7-4571-932b-acd1b97b3789"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-25": {
+					"simStepIds": [
+						"253d5f3f-6326-45c2-900f-9e553cf9de64"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-26": {
+					"simStepIds": [
+						"5ac12158-2b6b-45d8-9caa-20c337809b32"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-19": {
+					"simStepIds": [
+						"9d109567-eaee-4ce4-b144-0b83ca193fb8"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-31": {
+					"simStepIds": [
+						"29e70640-b843-4bf5-ae23-166f54d2a0cc"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-28": {
+					"simStepIds": [
+						"2db7c5d9-4b16-4aba-832e-525a08dbed41"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-32": {
+					"simStepIds": [
+						"2b7ffc1a-3713-402e-bcc9-9e8701fd39ce"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-29": {
+					"simStepIds": [
+						"fd4cecfd-c894-45ed-ba19-02c5a288c6a7"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-30": {
+					"simStepIds": [
+						"4665f9e5-9997-4b7e-9693-26ab679145fb"
+					]
+				},
+				"UIGWCaoiStmmG4PKkWzX-13": {
+					"simStepIds": [
+						"7fc00475-cb32-4d21-8139-a5562cb1c1b7"
+					]
+				}
+			},
+			"description": ""
+		}
+	},
+	"cellToPath": {
+		"auis_QC7xAc32oXTF2oV-1": "client/src/components/Item.jsx",
+		"kvsvKnKjs1UTCSIsLsuh-3": "client/src/state/index.js",
+		"iRsse4k0RzgyvmA41Yim-1": "client/src/components",
+		"iRsse4k0RzgyvmA41Yim-5": "client/src/scenes/global",
+		"iRsse4k0RzgyvmA41Yim-6": "client/src/scenes/home",
+		"iRsse4k0RzgyvmA41Yim-7": "client/src/scenes/itemDetails",
+		"iRsse4k0RzgyvmA41Yim-11": "iRsse4k0RzgyvmA41Yim-10",
+		"iRsse4k0RzgyvmA41Yim-33": "server/src/api/order/controllers/order.js",
+		"iRsse4k0RzgyvmA41Yim-34": "server/src/api/item/controllers/item.js",
+		"iRsse4k0RzgyvmA41Yim-4": "client/src/scenes/checkout/Checkout.jsx",
+		"UIGWCaoiStmmG4PKkWzX-18": "client/src/scenes/home/ShoppingList.jsx",
+		"kvsvKnKjs1UTCSIsLsuh-2": "client",
+		"kvsvKnKjs1UTCSIsLsuh-1": "server",
+		"iRsse4k0RzgyvmA41Yim-9": "server/database",
+		"iRsse4k0RzgyvmA41Yim-3": "client/src/scenes",
+		"iRsse4k0RzgyvmA41Yim-14": "server/src/api",
+		"iRsse4k0RzgyvmA41Yim-25": "server/src/api/order",
+		"iRsse4k0RzgyvmA41Yim-29": "server/src/api/item"
+	}
+}
