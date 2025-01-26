@@ -161,16 +161,6 @@
 			"visible": true,
 			"parentCellId": "UgyYII8ESq0P0CvSDcHr-22"
 		},
-		"UgyYII8ESq0P0CvSDcHr-28": {
-			"path": "UgyYII8ESq0P0CvSDcHr-28",
-			"cellId": "UgyYII8ESq0P0CvSDcHr-28",
-			"visible": true
-		},
-		"UgyYII8ESq0P0CvSDcHr-30": {
-			"path": "UgyYII8ESq0P0CvSDcHr-30",
-			"cellId": "UgyYII8ESq0P0CvSDcHr-30",
-			"visible": true
-		},
 		"UgyYII8ESq0P0CvSDcHr-31": {
 			"path": "UgyYII8ESq0P0CvSDcHr-31",
 			"cellId": "UgyYII8ESq0P0CvSDcHr-31",
@@ -261,6 +251,171 @@
 			"visible": true
 		}
 	},
-	"simulations": {},
+	"simulations": {
+		"Checkout process": {
+			"name": "Checkout process",
+			"simSteps": [
+				{
+					"simStepId": "04cbec32-78d5-442f-b66b-51e81b802ff7",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-3",
+					"simStepLabel": "User",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "3738adbc-9264-48b1-afcb-38e6cd6085a5",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-12",
+					"simStepLabel": "3738adbc-9264-48b1-afcb-38e6cd6085a5",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "73231712-373b-499b-b8ad-02719dc9a4fb",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-7",
+					"simStepLabel": "Checkout button",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "0bf8e764-4319-40b4-a52d-f836284928d0",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-16",
+					"simStepLabel": "0bf8e764-4319-40b4-a52d-f836284928d0",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "e5fef301-96e0-4fb5-a06f-8da509f686c0",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-15",
+					"simStepLabel": "/checkout",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "bb6ff42c-0e46-4d69-80db-ac173d9e87a3",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-25",
+					"simStepLabel": "bb6ff42c-0e46-4d69-80db-ac173d9e87a3",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "4be6f84f-7254-4e2f-8f26-ebc2e235370d",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-20",
+					"simStepLabel": "Calls /orders endpoint",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "ede65f81-c393-49c4-b81a-f3f40c86ff54",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-36",
+					"simStepLabel": "ede65f81-c393-49c4-b81a-f3f40c86ff54",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "b46c2d7c-0ac3-475f-856d-27e2dd8b8f32",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-35",
+					"simStepLabel": "/orders",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "0966c7f7-8394-4a69-b932-5bdb2a71e793",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-37",
+					"simStepLabel": "0966c7f7-8394-4a69-b932-5bdb2a71e793",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "57a9ff78-16d6-42b4-9b88-339d62c4dfdf",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-19",
+					"simStepLabel": "Redirect to stripe",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "6bf1e76b-0671-40e8-949f-12a5ba0a2fdd",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-32",
+					"simStepLabel": "",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "61069e19-319f-49ad-a285-28fa0f75dcc0",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-31",
+					"simStepLabel": "Stripe ",
+					"simStepDescription": "",
+					"isEdge": false
+				}
+			],
+			"simulationNodesAndEdges": {
+				"UgyYII8ESq0P0CvSDcHr-3": {
+					"simStepIds": [
+						"04cbec32-78d5-442f-b66b-51e81b802ff7"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-12": {
+					"simStepIds": [
+						"3738adbc-9264-48b1-afcb-38e6cd6085a5"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-7": {
+					"simStepIds": [
+						"73231712-373b-499b-b8ad-02719dc9a4fb"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-16": {
+					"simStepIds": [
+						"0bf8e764-4319-40b4-a52d-f836284928d0"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-15": {
+					"simStepIds": [
+						"e5fef301-96e0-4fb5-a06f-8da509f686c0"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-25": {
+					"simStepIds": [
+						"bb6ff42c-0e46-4d69-80db-ac173d9e87a3"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-20": {
+					"simStepIds": [
+						"4be6f84f-7254-4e2f-8f26-ebc2e235370d"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-36": {
+					"simStepIds": [
+						"ede65f81-c393-49c4-b81a-f3f40c86ff54"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-35": {
+					"simStepIds": [
+						"b46c2d7c-0ac3-475f-856d-27e2dd8b8f32"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-37": {
+					"simStepIds": [
+						"0966c7f7-8394-4a69-b932-5bdb2a71e793"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-19": {
+					"simStepIds": [
+						"57a9ff78-16d6-42b4-9b88-339d62c4dfdf"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-32": {
+					"simStepIds": [
+						"6bf1e76b-0671-40e8-949f-12a5ba0a2fdd"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-31": {
+					"simStepIds": [
+						"61069e19-319f-49ad-a285-28fa0f75dcc0"
+					]
+				}
+			},
+			"description": ""
+		}
+	},
 	"cellToPath": {}
 }
