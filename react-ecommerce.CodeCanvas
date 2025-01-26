@@ -1,0 +1,38 @@
+{
+	"drawioXML": "<mxfile>\n  <diagram id=\"6YGgDFNrVS_JGsL253pv\" name=\"Page-1\">\n    <mxGraphModel dx=\"1513\" dy=\"795\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"0\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"0\" />\n        <mxCell id=\"kVZx0SjPZrBRvgzDt1Yd-1\" value=\"User\" style=\"sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"91.5\" y=\"380\" width=\"37\" height=\"50\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"kVZx0SjPZrBRvgzDt1Yd-2\" value=\"Frontend\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"50\" y=\"470\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"kVZx0SjPZrBRvgzDt1Yd-3\" value=\"Backend\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"kVZx0SjPZrBRvgzDt1Yd-4\" value=\"Database\" style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"80\" y=\"150\" width=\"60\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"kVZx0SjPZrBRvgzDt1Yd-6\" value=\"\" style=\"shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/331592/stripe-v2.svg;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"65\" y=\"250\" width=\"90\" height=\"90\" as=\"geometry\" />\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "",
+	"fileURL": "",
+	"repoData": {
+		"kVZx0SjPZrBRvgzDt1Yd-1": {
+			"path": "kVZx0SjPZrBRvgzDt1Yd-1",
+			"cellName": "User",
+			"cellId": "kVZx0SjPZrBRvgzDt1Yd-1",
+			"visible": true
+		},
+		"kVZx0SjPZrBRvgzDt1Yd-2": {
+			"path": "kVZx0SjPZrBRvgzDt1Yd-2",
+			"cellName": "Frontend",
+			"cellId": "kVZx0SjPZrBRvgzDt1Yd-2",
+			"visible": true
+		},
+		"kVZx0SjPZrBRvgzDt1Yd-3": {
+			"path": "kVZx0SjPZrBRvgzDt1Yd-3",
+			"cellName": "Backend",
+			"cellId": "kVZx0SjPZrBRvgzDt1Yd-3",
+			"visible": true
+		},
+		"kVZx0SjPZrBRvgzDt1Yd-4": {
+			"path": "kVZx0SjPZrBRvgzDt1Yd-4",
+			"cellName": "Database",
+			"cellId": "kVZx0SjPZrBRvgzDt1Yd-4",
+			"visible": true
+		},
+		"kVZx0SjPZrBRvgzDt1Yd-6": {
+			"path": "kVZx0SjPZrBRvgzDt1Yd-6",
+			"cellId": "kVZx0SjPZrBRvgzDt1Yd-6",
+			"visible": true
+		}
+	},
+	"simulations": {},
+	"cellToPath": {}
+}
