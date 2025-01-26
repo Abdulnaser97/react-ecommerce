@@ -1,0 +1,657 @@
+{
+	"drawioXML": "<mxfile>\n  <diagram id=\"FtCiWwjWQfiXP2TfWk2i\" name=\"Page-1\">\n    <mxGraphModel dx=\"3538\" dy=\"1798\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"0\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"0\" />\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-17\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-1\" target=\"BL8PcD_QOLZd99EsHvG6-5\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"HuCfkhkyvyvbtI5LVwLC-2\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-1\" target=\"HuCfkhkyvyvbtI5LVwLC-1\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"127\" y=\"527.0664806761995\" />\n              <mxPoint x=\"127\" y=\"58.778640200701346\" />\n              <mxPoint x=\"1907\" y=\"58.778640200701346\" />\n              <mxPoint x=\"1907\" y=\"84.33333333333333\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-1\" value=\"user\" style=\"sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"50\" y=\"510.39981400953286\" width=\"37\" height=\"50\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-2\" value=\"FrontEnd\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"192\" y=\"79.77864020070135\" width=\"1670\" height=\"760.5870830640624\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-4\" value=\"Global\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"BL8PcD_QOLZd99EsHvG6-2\" vertex=\"1\">\n          <mxGeometry x=\"55\" y=\"383.95450714216486\" width=\"220\" height=\"160\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-5\" value=\"Checkout button\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" parent=\"BL8PcD_QOLZd99EsHvG6-4\" vertex=\"1\">\n          <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-6\" value=\"Router\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"BL8PcD_QOLZd99EsHvG6-2\" vertex=\"1\">\n          <mxGeometry x=\"385\" y=\"312.9112608197933\" width=\"220\" height=\"260\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-7\" value=\"/checkout\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" parent=\"BL8PcD_QOLZd99EsHvG6-6\" vertex=\"1\">\n          <mxGeometry x=\"50\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"/\" value=\"New Node\" id=\"HuCfkhkyvyvbtI5LVwLC-3\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"BL8PcD_QOLZd99EsHvG6-6\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-18\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"BL8PcD_QOLZd99EsHvG6-2\" source=\"BL8PcD_QOLZd99EsHvG6-5\" target=\"BL8PcD_QOLZd99EsHvG6-7\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"320\" y=\"463.95450714216486\" />\n              <mxPoint x=\"320\" y=\"492.9112608197933\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-19\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"BL8PcD_QOLZd99EsHvG6-2\" source=\"BL8PcD_QOLZd99EsHvG6-7\" target=\"BL8PcD_QOLZd99EsHvG6-10\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"650\" y=\"492.91126081979326\" />\n              <mxPoint x=\"650\" y=\"481.1070855197644\" />\n              <mxPoint x=\"1025\" y=\"481.1070855197644\" />\n              <mxPoint x=\"1025\" y=\"480.58708306406254\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"scenes\" value=\"New Node\" id=\"HuCfkhkyvyvbtI5LVwLC-4\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"BL8PcD_QOLZd99EsHvG6-2\" vertex=\"1\">\n            <mxGeometry x=\"715\" y=\"50\" width=\"820\" height=\"660.5870830640624\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-8\" value=\"Checkout\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"HuCfkhkyvyvbtI5LVwLC-4\" vertex=\"1\">\n          <mxGeometry x=\"220\" y=\"350.5870830640625\" width=\"380\" height=\"260\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-9\" value=\"Redirect to stripe\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" parent=\"BL8PcD_QOLZd99EsHvG6-8\" vertex=\"1\">\n          <mxGeometry x=\"130\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-10\" value=\"calls /orders endpoint\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" parent=\"BL8PcD_QOLZd99EsHvG6-8\" vertex=\"1\">\n          <mxGeometry x=\"130\" y=\"50.00000000000001\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"home\" value=\"New Node\" id=\"HuCfkhkyvyvbtI5LVwLC-5\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"HuCfkhkyvyvbtI5LVwLC-4\" vertex=\"1\">\n            <mxGeometry x=\"135\" y=\"50\" width=\"550\" height=\"260.5870830640625\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"shoppinglist.jsx\" value=\"New Node\" id=\"HuCfkhkyvyvbtI5LVwLC-6\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"HuCfkhkyvyvbtI5LVwLC-5\" vertex=\"1\">\n            <mxGeometry x=\"55\" y=\"49.99999999999999\" width=\"440\" height=\"160.58708306406248\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"HuCfkhkyvyvbtI5LVwLC-12\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"HuCfkhkyvyvbtI5LVwLC-6\" source=\"HuCfkhkyvyvbtI5LVwLC-7\" target=\"HuCfkhkyvyvbtI5LVwLC-8\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"210\" y=\"80\" />\n              <mxPoint x=\"210\" y=\"80.5870830640625\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"retrieve items from store\" value=\"New Node\" id=\"HuCfkhkyvyvbtI5LVwLC-7\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"HuCfkhkyvyvbtI5LVwLC-6\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"populate items\" value=\"New Node\" id=\"HuCfkhkyvyvbtI5LVwLC-8\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"HuCfkhkyvyvbtI5LVwLC-6\" vertex=\"1\">\n            <mxGeometry x=\"270\" y=\"50.5870830640625\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Redux\" value=\"New Node\" id=\"HuCfkhkyvyvbtI5LVwLC-9\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"BL8PcD_QOLZd99EsHvG6-2\" vertex=\"1\">\n            <mxGeometry x=\"385\" y=\"112.91126081979331\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"dispatch setItems\" value=\"New Node\" id=\"HuCfkhkyvyvbtI5LVwLC-10\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"HuCfkhkyvyvbtI5LVwLC-9\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"HuCfkhkyvyvbtI5LVwLC-11\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"BL8PcD_QOLZd99EsHvG6-2\" source=\"HuCfkhkyvyvbtI5LVwLC-10\" target=\"HuCfkhkyvyvbtI5LVwLC-7\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"650\" y=\"192.91126081979334\" />\n              <mxPoint x=\"650\" y=\"230.3863654017299\" />\n              <mxPoint x=\"805\" y=\"230.38636540172993\" />\n              <mxPoint x=\"805\" y=\"230.00000000000006\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-3\" value=\"Backend\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"1972\" y=\"330.17319556730104\" width=\"1040\" height=\"485.597469649533\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"Strapi API endpoints\" value=\"New Node\" id=\"BL8PcD_QOLZd99EsHvG6-11\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"BL8PcD_QOLZd99EsHvG6-3\" vertex=\"1\">\n            <mxGeometry x=\"135\" y=\"275.597469649533\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"/orders\" value=\"New Node\" id=\"BL8PcD_QOLZd99EsHvG6-12\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"BL8PcD_QOLZd99EsHvG6-11\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-13\" value=\"orders.js\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"BL8PcD_QOLZd99EsHvG6-3\" vertex=\"1\">\n          <mxGeometry x=\"465\" y=\"50\" width=\"440\" height=\"185.59746964953297\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-24\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"BL8PcD_QOLZd99EsHvG6-13\" source=\"BL8PcD_QOLZd99EsHvG6-14\" target=\"BL8PcD_QOLZd99EsHvG6-15\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"210\" y=\"90\" />\n              <mxPoint x=\"210\" y=\"105.59746964953297\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-14\" value=\"create order request\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;labelBackgroundColor=#FFFFFF;\" parent=\"BL8PcD_QOLZd99EsHvG6-13\" vertex=\"1\">\n          <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"create stripe session\" value=\"New Node\" id=\"BL8PcD_QOLZd99EsHvG6-15\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"BL8PcD_QOLZd99EsHvG6-13\" vertex=\"1\">\n            <mxGeometry x=\"270\" y=\"75.59746964953297\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-21\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"BL8PcD_QOLZd99EsHvG6-3\" source=\"BL8PcD_QOLZd99EsHvG6-12\" target=\"BL8PcD_QOLZd99EsHvG6-14\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"400\" y=\"345.59746964953297\" />\n              <mxPoint x=\"400\" y=\"140\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-25\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"BL8PcD_QOLZd99EsHvG6-3\" source=\"BL8PcD_QOLZd99EsHvG6-15\" target=\"BL8PcD_QOLZd99EsHvG6-12\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"950\" y=\"155.5974696495329\" />\n              <mxPoint x=\"950\" y=\"255.59746964953297\" />\n              <mxPoint x=\"90\" y=\"255.59746964953297\" />\n              <mxPoint x=\"90\" y=\"345.59746964953297\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-23\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-16\" target=\"BL8PcD_QOLZd99EsHvG6-14\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1927\" y=\"310.1731955673011\" />\n              <mxPoint x=\"1927\" y=\"459.23731727402065\" />\n              <mxPoint x=\"2372\" y=\"459.23731727402065\" />\n              <mxPoint x=\"2372\" y=\"450.17319556730104\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-16\" value=\"database\" style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;container=1;labelBackgroundColor=#FFFFFF;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"3117\" y=\"290.1731955673011\" width=\"60\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-20\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-10\" target=\"BL8PcD_QOLZd99EsHvG6-12\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1417\" y=\"560.3657232647638\" />\n              <mxPoint x=\"1417\" y=\"561.0897434690559\" />\n              <mxPoint x=\"1927\" y=\"561.0897434690559\" />\n              <mxPoint x=\"1927\" y=\"695.7706652168339\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-22\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-14\" target=\"BL8PcD_QOLZd99EsHvG6-16\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2647\" y=\"450.17319556730104\" />\n              <mxPoint x=\"2647\" y=\"434.770665216834\" />\n              <mxPoint x=\"2922\" y=\"434.770665216834\" />\n              <mxPoint x=\"2922\" y=\"438.12261965042296\" />\n              <mxPoint x=\"3057\" y=\"438.122619650423\" />\n              <mxPoint x=\"3057\" y=\"330.1731955673011\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-27\" value=\"\" style=\"shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/331592/stripe-v2.svg;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"1972\" y=\"200.17319556730104\" width=\"90\" height=\"90\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-28\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-12\" target=\"BL8PcD_QOLZd99EsHvG6-9\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2382\" y=\"695.770665216834\" />\n              <mxPoint x=\"2382\" y=\"675.3505018927161\" />\n              <mxPoint x=\"3057\" y=\"675.3505018927162\" />\n              <mxPoint x=\"3057\" y=\"878.4588898105876\" />\n              <mxPoint x=\"127\" y=\"878.4588898105876\" />\n              <mxPoint x=\"127\" y=\"672.6899010204949\" />\n              <mxPoint x=\"842\" y=\"672.6899010204947\" />\n              <mxPoint x=\"842\" y=\"660.3657232647638\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"BL8PcD_QOLZd99EsHvG6-29\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"BL8PcD_QOLZd99EsHvG6-9\" target=\"BL8PcD_QOLZd99EsHvG6-27\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1917\" y=\"660.3657232647637\" />\n              <mxPoint x=\"1917\" y=\"245.17319556730092\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"HuCfkhkyvyvbtI5LVwLC-1\" value=\"\" style=\"verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FFAEA7;shape=mxgraph.azure.laptop;pointerEvents=1;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"1972\" y=\"50\" width=\"143\" height=\"103\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"HuCfkhkyvyvbtI5LVwLC-13\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"HuCfkhkyvyvbtI5LVwLC-8\" target=\"HuCfkhkyvyvbtI5LVwLC-1\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1637\" y=\"310.3657232647638\" />\n              <mxPoint x=\"1637\" y=\"310.9283476828881\" />\n              <mxPoint x=\"1772\" y=\"310.9283476828881\" />\n              <mxPoint x=\"1772\" y=\"313.225880271318\" />\n              <mxPoint x=\"1907\" y=\"313.225880271318\" />\n              <mxPoint x=\"1907\" y=\"118.66666666666663\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "react-ecommerce.CodeCanvas",
+	"fileURL": "https://raw.githubusercontent.com/Abdulnaser97/react-ecommerce/ELK/react-ecommerce.CodeCanvas",
+	"repoData": {
+		"client/src/App.js": {
+			"path": "client/src/App.js",
+			"fileName": "App.js",
+			"visible": true,
+			"children": [
+				"BL8PcD_QOLZd99EsHvG6-7"
+			]
+		},
+		"client/src/scenes": {
+			"path": "client/src/scenes",
+			"fileName": "scenes",
+			"cellName": "scenes",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-4",
+			"visible": true
+		},
+		"client/src/scenes/checkout/Checkout.jsx": {
+			"path": "client/src/scenes/checkout/Checkout.jsx",
+			"fileName": "Checkout.jsx",
+			"cellName": "Checkout",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-8",
+			"visible": true
+		},
+		"client/src/scenes/home/ShoppingList.jsx": {
+			"path": "client/src/scenes/home/ShoppingList.jsx",
+			"fileName": "ShoppingList.jsx",
+			"cellName": "shoppinglist.jsx",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-6",
+			"visible": true
+		},
+		"server/src/api/order/controllers/order.js": {
+			"path": "server/src/api/order/controllers/order.js",
+			"fileName": "order.js",
+			"cellName": "orders.js",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-13",
+			"visible": true,
+			"children": [
+				"BL8PcD_QOLZd99EsHvG6-15"
+			]
+		},
+		"BL8PcD_QOLZd99EsHvG6-1": {
+			"path": "BL8PcD_QOLZd99EsHvG6-1",
+			"cellName": "user",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-1",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-2": {
+			"path": "BL8PcD_QOLZd99EsHvG6-2",
+			"cellName": "FrontEnd",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-2",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-3": {
+			"path": "BL8PcD_QOLZd99EsHvG6-3",
+			"cellName": "Backend",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-3",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-4": {
+			"path": "BL8PcD_QOLZd99EsHvG6-4",
+			"cellName": "Global",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-4",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-2"
+		},
+		"BL8PcD_QOLZd99EsHvG6-5": {
+			"path": "BL8PcD_QOLZd99EsHvG6-5",
+			"cellName": "Checkout button",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-5",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-4"
+		},
+		"BL8PcD_QOLZd99EsHvG6-6": {
+			"path": "BL8PcD_QOLZd99EsHvG6-6",
+			"cellName": "Router",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-6",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-2"
+		},
+		"BL8PcD_QOLZd99EsHvG6-7": {
+			"path": "BL8PcD_QOLZd99EsHvG6-7",
+			"fileName": "App.js",
+			"cellName": "/checkout",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-7",
+			"visible": true,
+			"startLine": 30,
+			"endLine": 30,
+			"parentPath": "client/src/App.js"
+		},
+		"BL8PcD_QOLZd99EsHvG6-9": {
+			"path": "BL8PcD_QOLZd99EsHvG6-9",
+			"cellName": "Redirect to stripe",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-9",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-8"
+		},
+		"BL8PcD_QOLZd99EsHvG6-10": {
+			"path": "BL8PcD_QOLZd99EsHvG6-10",
+			"cellName": "calls /orders endpoint",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-10",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-8"
+		},
+		"BL8PcD_QOLZd99EsHvG6-11": {
+			"path": "BL8PcD_QOLZd99EsHvG6-11",
+			"cellName": "Strapi API endpoints",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-11",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-3"
+		},
+		"BL8PcD_QOLZd99EsHvG6-12": {
+			"path": "BL8PcD_QOLZd99EsHvG6-12",
+			"cellName": "/orders",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-12",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-11"
+		},
+		"BL8PcD_QOLZd99EsHvG6-14": {
+			"path": "BL8PcD_QOLZd99EsHvG6-14",
+			"cellName": "create order request",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-14",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-13"
+		},
+		"BL8PcD_QOLZd99EsHvG6-15": {
+			"path": "BL8PcD_QOLZd99EsHvG6-15",
+			"fileName": "order.js",
+			"cellName": "create stripe session",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-15",
+			"visible": true,
+			"startLine": "34",
+			"endLine": "41",
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-13",
+			"parentPath": "server/src/api/order/controllers/order.js"
+		},
+		"BL8PcD_QOLZd99EsHvG6-16": {
+			"path": "BL8PcD_QOLZd99EsHvG6-16",
+			"cellName": "database",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-16",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-17": {
+			"path": "BL8PcD_QOLZd99EsHvG6-17",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-17",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-18": {
+			"path": "BL8PcD_QOLZd99EsHvG6-18",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-18",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-2"
+		},
+		"BL8PcD_QOLZd99EsHvG6-19": {
+			"path": "BL8PcD_QOLZd99EsHvG6-19",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-19",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-2"
+		},
+		"BL8PcD_QOLZd99EsHvG6-20": {
+			"path": "BL8PcD_QOLZd99EsHvG6-20",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-20",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-21": {
+			"path": "BL8PcD_QOLZd99EsHvG6-21",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-21",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-3"
+		},
+		"BL8PcD_QOLZd99EsHvG6-22": {
+			"path": "BL8PcD_QOLZd99EsHvG6-22",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-22",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-23": {
+			"path": "BL8PcD_QOLZd99EsHvG6-23",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-23",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-24": {
+			"path": "BL8PcD_QOLZd99EsHvG6-24",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-24",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-13"
+		},
+		"BL8PcD_QOLZd99EsHvG6-25": {
+			"path": "BL8PcD_QOLZd99EsHvG6-25",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-25",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-3"
+		},
+		"BL8PcD_QOLZd99EsHvG6-27": {
+			"path": "BL8PcD_QOLZd99EsHvG6-27",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-27",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-28": {
+			"path": "BL8PcD_QOLZd99EsHvG6-28",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-28",
+			"visible": true
+		},
+		"BL8PcD_QOLZd99EsHvG6-29": {
+			"path": "BL8PcD_QOLZd99EsHvG6-29",
+			"cellId": "BL8PcD_QOLZd99EsHvG6-29",
+			"visible": true
+		},
+		"HuCfkhkyvyvbtI5LVwLC-1": {
+			"path": "HuCfkhkyvyvbtI5LVwLC-1",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-1",
+			"visible": true
+		},
+		"HuCfkhkyvyvbtI5LVwLC-2": {
+			"path": "HuCfkhkyvyvbtI5LVwLC-2",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-2",
+			"visible": true
+		},
+		"HuCfkhkyvyvbtI5LVwLC-3": {
+			"path": "HuCfkhkyvyvbtI5LVwLC-3",
+			"cellName": "/",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-3",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-6"
+		},
+		"HuCfkhkyvyvbtI5LVwLC-5": {
+			"path": "HuCfkhkyvyvbtI5LVwLC-5",
+			"cellName": "home",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-5",
+			"visible": true,
+			"parentCellId": "HuCfkhkyvyvbtI5LVwLC-4"
+		},
+		"HuCfkhkyvyvbtI5LVwLC-7": {
+			"path": "HuCfkhkyvyvbtI5LVwLC-7",
+			"cellName": "retrieve items from store",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-7",
+			"visible": true,
+			"parentCellId": "HuCfkhkyvyvbtI5LVwLC-6"
+		},
+		"HuCfkhkyvyvbtI5LVwLC-8": {
+			"path": "HuCfkhkyvyvbtI5LVwLC-8",
+			"cellName": "populate items",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-8",
+			"visible": true,
+			"parentCellId": "HuCfkhkyvyvbtI5LVwLC-6"
+		},
+		"HuCfkhkyvyvbtI5LVwLC-9": {
+			"path": "HuCfkhkyvyvbtI5LVwLC-9",
+			"cellName": "Redux",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-9",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-2"
+		},
+		"HuCfkhkyvyvbtI5LVwLC-10": {
+			"path": "HuCfkhkyvyvbtI5LVwLC-10",
+			"cellName": "dispatch setItems",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-10",
+			"visible": true,
+			"parentCellId": "HuCfkhkyvyvbtI5LVwLC-9"
+		},
+		"HuCfkhkyvyvbtI5LVwLC-11": {
+			"path": "HuCfkhkyvyvbtI5LVwLC-11",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-11",
+			"visible": true,
+			"parentCellId": "BL8PcD_QOLZd99EsHvG6-2"
+		},
+		"HuCfkhkyvyvbtI5LVwLC-12": {
+			"path": "HuCfkhkyvyvbtI5LVwLC-12",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-12",
+			"visible": true,
+			"parentCellId": "HuCfkhkyvyvbtI5LVwLC-6"
+		},
+		"HuCfkhkyvyvbtI5LVwLC-13": {
+			"path": "HuCfkhkyvyvbtI5LVwLC-13",
+			"cellId": "HuCfkhkyvyvbtI5LVwLC-13",
+			"visible": true
+		}
+	},
+	"simulations": {
+		"Checkout process": {
+			"name": "Checkout process",
+			"simSteps": [
+				{
+					"simStepId": "2068b7ae-c44c-4067-bed5-183a731680d1",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-1",
+					"simStepLabel": "user",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "58d26091-97f7-4e0f-8b23-9d9732a52fb1",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-17",
+					"simStepLabel": "58d26091-97f7-4e0f-8b23-9d9732a52fb1",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "2ca75737-071b-4c5a-8851-e55c60c53e56",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-5",
+					"simStepLabel": "Checkout button",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "7604a244-e6bc-4a25-b3c4-6e6cbdf72619",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-18",
+					"simStepLabel": "7604a244-e6bc-4a25-b3c4-6e6cbdf72619",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "f9bb131a-4abc-43fc-b457-3f756e6b7243",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-7",
+					"simStepLabel": "/checkout",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "5e5f27cc-02e8-452b-bd6a-80d2875c71e5",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-19",
+					"simStepLabel": "5e5f27cc-02e8-452b-bd6a-80d2875c71e5",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "5fcf32a6-0df6-4105-aedc-38dedf7dbed2",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-10",
+					"simStepLabel": "calls /orders endpoint",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "21e3ef62-f4a7-49f9-9818-e84b5185bee4",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-20",
+					"simStepLabel": "21e3ef62-f4a7-49f9-9818-e84b5185bee4",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "f63d9162-72ee-4006-a345-3d1119e4f659",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-12",
+					"simStepLabel": "/orders",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "5209187e-8af4-46ee-b4b3-15ae2b6951b9",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-21",
+					"simStepLabel": "5209187e-8af4-46ee-b4b3-15ae2b6951b9",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "8bbcfedd-a352-4185-91c7-d64f22bf8687",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-14",
+					"simStepLabel": "create order request",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "aabaff44-1033-4a39-ad77-7559724f9f9c",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-22",
+					"simStepLabel": "aabaff44-1033-4a39-ad77-7559724f9f9c",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "1bba13d1-c72e-491d-a420-cdb78500f113",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-16",
+					"simStepLabel": "database",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "ad76ce2c-414c-42e9-abda-79b6a7a54cf2",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-23",
+					"simStepLabel": "ad76ce2c-414c-42e9-abda-79b6a7a54cf2",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "1c2fb693-1f93-4281-9166-50bc9bd2d11f",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-14",
+					"simStepLabel": "create order request",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "4fc1bcd4-5fef-4b55-9d40-c3e676656237",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-24",
+					"simStepLabel": "4fc1bcd4-5fef-4b55-9d40-c3e676656237",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "2caf2013-a90c-4a56-8bf2-5335bc23cdf2",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-15",
+					"simStepLabel": "create stripe session",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "6b4051eb-b7cb-481b-bb0e-fd91c2aa94f8",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-25",
+					"simStepLabel": "6b4051eb-b7cb-481b-bb0e-fd91c2aa94f8",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "408b2391-60c2-4407-bdde-1087f352e4f1",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-12",
+					"simStepLabel": "/orders",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "82934d6c-968c-41d1-95ec-a051a46e21f0",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-28",
+					"simStepLabel": "82934d6c-968c-41d1-95ec-a051a46e21f0",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "251c86d5-dbd6-468a-a448-d713104b6bbf",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-9",
+					"simStepLabel": "Redirect to stripe",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "930aaaac-72f8-4213-98bd-386d305d4f58",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-29",
+					"simStepLabel": "",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "f2c42df3-8edb-4634-a881-8b5bcb35d4ac",
+					"diagramNodeId": "BL8PcD_QOLZd99EsHvG6-27",
+					"simStepLabel": "f2c42df3-8edb-4634-a881-8b5bcb35d4ac",
+					"simStepDescription": "",
+					"isEdge": false
+				}
+			],
+			"simulationNodesAndEdges": {
+				"BL8PcD_QOLZd99EsHvG6-1": {
+					"simStepIds": [
+						"2068b7ae-c44c-4067-bed5-183a731680d1"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-17": {
+					"simStepIds": [
+						"58d26091-97f7-4e0f-8b23-9d9732a52fb1"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-5": {
+					"simStepIds": [
+						"2ca75737-071b-4c5a-8851-e55c60c53e56"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-18": {
+					"simStepIds": [
+						"7604a244-e6bc-4a25-b3c4-6e6cbdf72619"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-7": {
+					"simStepIds": [
+						"f9bb131a-4abc-43fc-b457-3f756e6b7243"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-19": {
+					"simStepIds": [
+						"5e5f27cc-02e8-452b-bd6a-80d2875c71e5"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-10": {
+					"simStepIds": [
+						"5fcf32a6-0df6-4105-aedc-38dedf7dbed2"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-20": {
+					"simStepIds": [
+						"21e3ef62-f4a7-49f9-9818-e84b5185bee4"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-12": {
+					"simStepIds": [
+						"f63d9162-72ee-4006-a345-3d1119e4f659",
+						"408b2391-60c2-4407-bdde-1087f352e4f1"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-21": {
+					"simStepIds": [
+						"5209187e-8af4-46ee-b4b3-15ae2b6951b9"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-14": {
+					"simStepIds": [
+						"8bbcfedd-a352-4185-91c7-d64f22bf8687",
+						"1c2fb693-1f93-4281-9166-50bc9bd2d11f"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-22": {
+					"simStepIds": [
+						"aabaff44-1033-4a39-ad77-7559724f9f9c"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-16": {
+					"simStepIds": [
+						"1bba13d1-c72e-491d-a420-cdb78500f113"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-23": {
+					"simStepIds": [
+						"ad76ce2c-414c-42e9-abda-79b6a7a54cf2"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-24": {
+					"simStepIds": [
+						"4fc1bcd4-5fef-4b55-9d40-c3e676656237"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-15": {
+					"simStepIds": [
+						"2caf2013-a90c-4a56-8bf2-5335bc23cdf2"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-25": {
+					"simStepIds": [
+						"6b4051eb-b7cb-481b-bb0e-fd91c2aa94f8"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-28": {
+					"simStepIds": [
+						"82934d6c-968c-41d1-95ec-a051a46e21f0"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-9": {
+					"simStepIds": [
+						"251c86d5-dbd6-468a-a448-d713104b6bbf"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-29": {
+					"simStepIds": [
+						"930aaaac-72f8-4213-98bd-386d305d4f58"
+					]
+				},
+				"BL8PcD_QOLZd99EsHvG6-27": {
+					"simStepIds": [
+						"f2c42df3-8edb-4634-a881-8b5bcb35d4ac"
+					]
+				}
+			},
+			"description": ""
+		},
+		"populate items": {
+			"name": "populate items",
+			"simSteps": [
+				{
+					"simStepId": "2be4526a-3f45-4528-b517-6b227722a179",
+					"diagramNodeId": "HuCfkhkyvyvbtI5LVwLC-10",
+					"simStepLabel": "dispatch setItems",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "32daf1bc-4c1a-46b9-abd6-115c2702a817",
+					"diagramNodeId": "HuCfkhkyvyvbtI5LVwLC-11",
+					"simStepLabel": "32daf1bc-4c1a-46b9-abd6-115c2702a817",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "f59f018f-2206-4681-9e69-115afc8cf6f4",
+					"diagramNodeId": "HuCfkhkyvyvbtI5LVwLC-7",
+					"simStepLabel": "retrieve items from store",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "6b15764c-6a75-4c44-9cab-100789053f49",
+					"diagramNodeId": "HuCfkhkyvyvbtI5LVwLC-12",
+					"simStepLabel": "6b15764c-6a75-4c44-9cab-100789053f49",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "0fac6639-1b8d-4291-81a2-80e23930a2d8",
+					"diagramNodeId": "HuCfkhkyvyvbtI5LVwLC-8",
+					"simStepLabel": "populate items",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "9c27858a-f5e4-496c-945e-4beb7cb03963",
+					"diagramNodeId": "HuCfkhkyvyvbtI5LVwLC-13",
+					"simStepLabel": "",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "39ba7797-ecbc-4a90-b872-e9c2b2674d1d",
+					"diagramNodeId": "HuCfkhkyvyvbtI5LVwLC-1",
+					"simStepLabel": "39ba7797-ecbc-4a90-b872-e9c2b2674d1d",
+					"simStepDescription": "",
+					"isEdge": false
+				}
+			],
+			"simulationNodesAndEdges": {
+				"HuCfkhkyvyvbtI5LVwLC-10": {
+					"simStepIds": [
+						"2be4526a-3f45-4528-b517-6b227722a179"
+					]
+				},
+				"HuCfkhkyvyvbtI5LVwLC-11": {
+					"simStepIds": [
+						"32daf1bc-4c1a-46b9-abd6-115c2702a817"
+					]
+				},
+				"HuCfkhkyvyvbtI5LVwLC-7": {
+					"simStepIds": [
+						"f59f018f-2206-4681-9e69-115afc8cf6f4"
+					]
+				},
+				"HuCfkhkyvyvbtI5LVwLC-12": {
+					"simStepIds": [
+						"6b15764c-6a75-4c44-9cab-100789053f49"
+					]
+				},
+				"HuCfkhkyvyvbtI5LVwLC-8": {
+					"simStepIds": [
+						"0fac6639-1b8d-4291-81a2-80e23930a2d8"
+					]
+				},
+				"HuCfkhkyvyvbtI5LVwLC-13": {
+					"simStepIds": [
+						"9c27858a-f5e4-496c-945e-4beb7cb03963"
+					]
+				},
+				"HuCfkhkyvyvbtI5LVwLC-1": {
+					"simStepIds": [
+						"39ba7797-ecbc-4a90-b872-e9c2b2674d1d"
+					]
+				}
+			},
+			"description": ""
+		}
+	},
+	"cellToPath": {
+		"BL8PcD_QOLZd99EsHvG6-8": "client/src/scenes/checkout/Checkout.jsx",
+		"BL8PcD_QOLZd99EsHvG6-13": "server/src/api/order/controllers/order.js",
+		"HuCfkhkyvyvbtI5LVwLC-4": "client/src/scenes",
+		"HuCfkhkyvyvbtI5LVwLC-6": "client/src/scenes/home/ShoppingList.jsx"
+	}
+}
