@@ -3,6 +3,43 @@
 	"fileName": "react-ecommerce.CodeCanvas",
 	"fileURL": "https://raw.githubusercontent.com/Abdulnaser97/react-ecommerce/master/react-ecommerce.CodeCanvas",
 	"repoData": {
+		"client/src/App.js": {
+			"path": "client/src/App.js",
+			"fileName": "App.js",
+			"visible": true,
+			"children": [
+				"Nd8cXrNz9E3p0OHx3shF-9"
+			]
+		},
+		"client/src/scenes": {
+			"path": "client/src/scenes",
+			"fileName": "scenes",
+			"cellName": "Scenes",
+			"cellId": "Nd8cXrNz9E3p0OHx3shF-11",
+			"visible": true
+		},
+		"client/src/scenes/checkout": {
+			"path": "client/src/scenes/checkout",
+			"fileName": "checkout",
+			"cellName": "Checkout",
+			"cellId": "Nd8cXrNz9E3p0OHx3shF-13",
+			"visible": true
+		},
+		"client/src/scenes/home/ShoppingList.jsx": {
+			"path": "client/src/scenes/home/ShoppingList.jsx",
+			"fileName": "ShoppingList.jsx",
+			"cellName": "shoppinglist.tsx",
+			"cellId": "Nd8cXrNz9E3p0OHx3shF-14",
+			"visible": true
+		},
+		"server/src/api/order/controllers/order.js": {
+			"path": "server/src/api/order/controllers/order.js",
+			"fileName": "order.js",
+			"visible": true,
+			"children": [
+				"Nd8cXrNz9E3p0OHx3shF-32"
+			]
+		},
 		"kVZx0SjPZrBRvgzDt1Yd-1": {
 			"path": "kVZx0SjPZrBRvgzDt1Yd-1",
 			"cellName": "User",
@@ -74,21 +111,17 @@
 		},
 		"Nd8cXrNz9E3p0OHx3shF-9": {
 			"path": "Nd8cXrNz9E3p0OHx3shF-9",
+			"fileName": "App.js",
 			"cellName": "/checkout",
 			"cellId": "Nd8cXrNz9E3p0OHx3shF-9",
 			"visible": true,
-			"parentCellId": "Nd8cXrNz9E3p0OHx3shF-7"
+			"startLine": 30,
+			"endLine": 30,
+			"parentPath": "client/src/App.js"
 		},
 		"Nd8cXrNz9E3p0OHx3shF-10": {
 			"path": "Nd8cXrNz9E3p0OHx3shF-10",
 			"cellId": "Nd8cXrNz9E3p0OHx3shF-10",
-			"visible": true,
-			"parentCellId": "kVZx0SjPZrBRvgzDt1Yd-2"
-		},
-		"Nd8cXrNz9E3p0OHx3shF-11": {
-			"path": "Nd8cXrNz9E3p0OHx3shF-11",
-			"cellName": "Scenes",
-			"cellId": "Nd8cXrNz9E3p0OHx3shF-11",
 			"visible": true,
 			"parentCellId": "kVZx0SjPZrBRvgzDt1Yd-2"
 		},
@@ -98,20 +131,6 @@
 			"cellId": "Nd8cXrNz9E3p0OHx3shF-12",
 			"visible": true,
 			"parentCellId": "Nd8cXrNz9E3p0OHx3shF-11"
-		},
-		"Nd8cXrNz9E3p0OHx3shF-13": {
-			"path": "Nd8cXrNz9E3p0OHx3shF-13",
-			"cellName": "Checkout",
-			"cellId": "Nd8cXrNz9E3p0OHx3shF-13",
-			"visible": true,
-			"parentCellId": "Nd8cXrNz9E3p0OHx3shF-11"
-		},
-		"Nd8cXrNz9E3p0OHx3shF-14": {
-			"path": "Nd8cXrNz9E3p0OHx3shF-14",
-			"cellName": "shoppinglist.tsx",
-			"cellId": "Nd8cXrNz9E3p0OHx3shF-14",
-			"visible": true,
-			"parentCellId": "Nd8cXrNz9E3p0OHx3shF-12"
 		},
 		"Nd8cXrNz9E3p0OHx3shF-15": {
 			"path": "Nd8cXrNz9E3p0OHx3shF-15",
@@ -226,10 +245,13 @@
 		},
 		"Nd8cXrNz9E3p0OHx3shF-32": {
 			"path": "Nd8cXrNz9E3p0OHx3shF-32",
+			"fileName": "order.js",
 			"cellName": "Create stripe session",
 			"cellId": "Nd8cXrNz9E3p0OHx3shF-32",
 			"visible": true,
-			"parentCellId": "Nd8cXrNz9E3p0OHx3shF-30"
+			"startLine": "34",
+			"endLine": "42",
+			"parentPath": "server/src/api/order/controllers/order.js"
 		},
 		"Nd8cXrNz9E3p0OHx3shF-33": {
 			"path": "Nd8cXrNz9E3p0OHx3shF-33",
@@ -277,5 +299,9 @@
 		}
 	},
 	"simulations": {},
-	"cellToPath": {}
+	"cellToPath": {
+		"Nd8cXrNz9E3p0OHx3shF-11": "client/src/scenes",
+		"Nd8cXrNz9E3p0OHx3shF-14": "client/src/scenes/home/ShoppingList.jsx",
+		"Nd8cXrNz9E3p0OHx3shF-13": "client/src/scenes/checkout"
+	}
 }
