@@ -80,13 +80,6 @@
 			"visible": true,
 			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
 		},
-		"UgyYII8ESq0P0CvSDcHr-9": {
-			"path": "UgyYII8ESq0P0CvSDcHr-9",
-			"cellName": "Redux",
-			"cellId": "UgyYII8ESq0P0CvSDcHr-9",
-			"visible": true,
-			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
-		},
 		"UgyYII8ESq0P0CvSDcHr-12": {
 			"path": "UgyYII8ESq0P0CvSDcHr-12",
 			"cellId": "UgyYII8ESq0P0CvSDcHr-12",
@@ -266,12 +259,6 @@
 			"cellId": "UgyYII8ESq0P0CvSDcHr-51",
 			"visible": true
 		},
-		"UgyYII8ESq0P0CvSDcHr-52": {
-			"path": "UgyYII8ESq0P0CvSDcHr-52",
-			"cellId": "UgyYII8ESq0P0CvSDcHr-52",
-			"visible": true,
-			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
-		},
 		"UgyYII8ESq0P0CvSDcHr-53": {
 			"path": "UgyYII8ESq0P0CvSDcHr-53",
 			"cellName": "Get items from Redux",
@@ -279,17 +266,30 @@
 			"visible": true,
 			"parentCellId": "UgyYII8ESq0P0CvSDcHr-22"
 		},
-		"UgyYII8ESq0P0CvSDcHr-54": {
-			"path": "UgyYII8ESq0P0CvSDcHr-54",
-			"cellId": "UgyYII8ESq0P0CvSDcHr-54",
-			"visible": true,
-			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
-		},
 		"UgyYII8ESq0P0CvSDcHr-55": {
 			"path": "UgyYII8ESq0P0CvSDcHr-55",
 			"cellId": "UgyYII8ESq0P0CvSDcHr-55",
 			"visible": true,
 			"parentCellId": "UgyYII8ESq0P0CvSDcHr-22"
+		},
+		"UgyYII8ESq0P0CvSDcHr-56": {
+			"path": "UgyYII8ESq0P0CvSDcHr-56",
+			"cellName": "Redux Store",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-56",
+			"visible": true,
+			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
+		},
+		"UgyYII8ESq0P0CvSDcHr-57": {
+			"path": "UgyYII8ESq0P0CvSDcHr-57",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-57",
+			"visible": true,
+			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
+		},
+		"UgyYII8ESq0P0CvSDcHr-58": {
+			"path": "UgyYII8ESq0P0CvSDcHr-58",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-58",
+			"visible": true,
+			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
 		}
 	},
 	"simulations": {
@@ -452,6 +452,122 @@
 				"UgyYII8ESq0P0CvSDcHr-31": {
 					"simStepIds": [
 						"61069e19-319f-49ad-a285-28fa0f75dcc0"
+					]
+				}
+			},
+			"description": ""
+		},
+		"Populate Shopping List": {
+			"name": "Populate Shopping List",
+			"simSteps": [
+				{
+					"simStepId": "8e496dbd-3d3d-4696-a2e6-d414b75120a8",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-17",
+					"simStepLabel": "Fetch product items from backend",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "5691a9ae-0479-4f6f-8dba-a0d3a82248a5",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-26",
+					"simStepLabel": "5691a9ae-0479-4f6f-8dba-a0d3a82248a5",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "276026f2-1d8d-451a-8838-dda0709afda6",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-23",
+					"simStepLabel": "Store items in Redux",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "945b59ff-9584-4b88-b023-29e684a6fbe3",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-58",
+					"simStepLabel": "945b59ff-9584-4b88-b023-29e684a6fbe3",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "02a800b5-d39f-4b41-b096-31f4b8bae907",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-56",
+					"simStepLabel": "Redux Store",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "690a50ce-eb59-4623-9d3e-d2d43864565b",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-57",
+					"simStepLabel": "690a50ce-eb59-4623-9d3e-d2d43864565b",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "d3169196-8312-44c5-ae40-6ed3aeed7caa",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-53",
+					"simStepLabel": "Get items from Redux",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "fbeb6ed9-667c-4045-ab7f-ef43f63f0a7f",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-55",
+					"simStepLabel": "fbeb6ed9-667c-4045-ab7f-ef43f63f0a7f",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "4fb5aca9-ff6e-41aa-a0fd-950a857f4fd4",
+					"diagramNodeId": "UgyYII8ESq0P0CvSDcHr-24",
+					"simStepLabel": "Populate item tabs",
+					"simStepDescription": "",
+					"isEdge": false
+				}
+			],
+			"simulationNodesAndEdges": {
+				"UgyYII8ESq0P0CvSDcHr-17": {
+					"simStepIds": [
+						"8e496dbd-3d3d-4696-a2e6-d414b75120a8"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-26": {
+					"simStepIds": [
+						"5691a9ae-0479-4f6f-8dba-a0d3a82248a5"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-23": {
+					"simStepIds": [
+						"276026f2-1d8d-451a-8838-dda0709afda6"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-58": {
+					"simStepIds": [
+						"945b59ff-9584-4b88-b023-29e684a6fbe3"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-56": {
+					"simStepIds": [
+						"02a800b5-d39f-4b41-b096-31f4b8bae907"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-57": {
+					"simStepIds": [
+						"690a50ce-eb59-4623-9d3e-d2d43864565b"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-53": {
+					"simStepIds": [
+						"d3169196-8312-44c5-ae40-6ed3aeed7caa"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-55": {
+					"simStepIds": [
+						"fbeb6ed9-667c-4045-ab7f-ef43f63f0a7f"
+					]
+				},
+				"UgyYII8ESq0P0CvSDcHr-24": {
+					"simStepIds": [
+						"4fb5aca9-ff6e-41aa-a0fd-950a857f4fd4"
 					]
 				}
 			},
