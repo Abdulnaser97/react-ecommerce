@@ -3,6 +3,45 @@
 	"fileName": "react-ecommerce.CodeCanvas",
 	"fileURL": "https://raw.githubusercontent.com/Abdulnaser97/react-ecommerce/master/react-ecommerce.CodeCanvas",
 	"repoData": {
+		"client/src/App.js": {
+			"path": "client/src/App.js",
+			"fileName": "App.js",
+			"visible": true,
+			"children": [
+				"UgyYII8ESq0P0CvSDcHr-15"
+			]
+		},
+		"client/src/scenes": {
+			"path": "client/src/scenes",
+			"fileName": "scenes",
+			"cellName": "Scenes",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-10",
+			"visible": true
+		},
+		"client/src/scenes/checkout": {
+			"path": "client/src/scenes/checkout",
+			"fileName": "checkout",
+			"cellName": "Checkout",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-18",
+			"visible": true
+		},
+		"client/src/scenes/home/ShoppingList.jsx": {
+			"path": "client/src/scenes/home/ShoppingList.jsx",
+			"fileName": "ShoppingList.jsx",
+			"cellName": "shoppinglist.jsx",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-22",
+			"visible": true
+		},
+		"server/src/api/order/controllers/order.js": {
+			"path": "server/src/api/order/controllers/order.js",
+			"fileName": "order.js",
+			"cellName": "orders.js",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-38",
+			"visible": true,
+			"children": [
+				"UgyYII8ESq0P0CvSDcHr-40"
+			]
+		},
 		"UgyYII8ESq0P0CvSDcHr-3": {
 			"path": "UgyYII8ESq0P0CvSDcHr-3",
 			"cellName": "User",
@@ -48,13 +87,6 @@
 			"visible": true,
 			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
 		},
-		"UgyYII8ESq0P0CvSDcHr-10": {
-			"path": "UgyYII8ESq0P0CvSDcHr-10",
-			"cellName": "Scenes",
-			"cellId": "UgyYII8ESq0P0CvSDcHr-10",
-			"visible": true,
-			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
-		},
 		"UgyYII8ESq0P0CvSDcHr-12": {
 			"path": "UgyYII8ESq0P0CvSDcHr-12",
 			"cellId": "UgyYII8ESq0P0CvSDcHr-12",
@@ -76,10 +108,13 @@
 		},
 		"UgyYII8ESq0P0CvSDcHr-15": {
 			"path": "UgyYII8ESq0P0CvSDcHr-15",
+			"fileName": "App.js",
 			"cellName": "/checkout",
 			"cellId": "UgyYII8ESq0P0CvSDcHr-15",
 			"visible": true,
-			"parentCellId": "UgyYII8ESq0P0CvSDcHr-14"
+			"startLine": 30,
+			"endLine": 30,
+			"parentPath": "client/src/App.js"
 		},
 		"UgyYII8ESq0P0CvSDcHr-16": {
 			"path": "UgyYII8ESq0P0CvSDcHr-16",
@@ -89,17 +124,10 @@
 		},
 		"UgyYII8ESq0P0CvSDcHr-17": {
 			"path": "UgyYII8ESq0P0CvSDcHr-17",
-			"cellName": "dispatch setItems",
+			"cellName": "Fetch product items from backend",
 			"cellId": "UgyYII8ESq0P0CvSDcHr-17",
 			"visible": true,
 			"parentCellId": "UgyYII8ESq0P0CvSDcHr-9"
-		},
-		"UgyYII8ESq0P0CvSDcHr-18": {
-			"path": "UgyYII8ESq0P0CvSDcHr-18",
-			"cellName": "Checkout",
-			"cellId": "UgyYII8ESq0P0CvSDcHr-18",
-			"visible": true,
-			"parentCellId": "UgyYII8ESq0P0CvSDcHr-10"
 		},
 		"UgyYII8ESq0P0CvSDcHr-19": {
 			"path": "UgyYII8ESq0P0CvSDcHr-19",
@@ -122,23 +150,16 @@
 			"visible": true,
 			"parentCellId": "UgyYII8ESq0P0CvSDcHr-10"
 		},
-		"UgyYII8ESq0P0CvSDcHr-22": {
-			"path": "UgyYII8ESq0P0CvSDcHr-22",
-			"cellName": "shoppinglist.jsx",
-			"cellId": "UgyYII8ESq0P0CvSDcHr-22",
-			"visible": true,
-			"parentCellId": "UgyYII8ESq0P0CvSDcHr-21"
-		},
 		"UgyYII8ESq0P0CvSDcHr-23": {
 			"path": "UgyYII8ESq0P0CvSDcHr-23",
-			"cellName": "retrieve items from store",
+			"cellName": "Store items in Redux",
 			"cellId": "UgyYII8ESq0P0CvSDcHr-23",
 			"visible": true,
 			"parentCellId": "UgyYII8ESq0P0CvSDcHr-22"
 		},
 		"UgyYII8ESq0P0CvSDcHr-24": {
 			"path": "UgyYII8ESq0P0CvSDcHr-24",
-			"cellName": "populate items",
+			"cellName": "Populate item tabs",
 			"cellId": "UgyYII8ESq0P0CvSDcHr-24",
 			"visible": true,
 			"parentCellId": "UgyYII8ESq0P0CvSDcHr-22"
@@ -154,12 +175,6 @@
 			"cellId": "UgyYII8ESq0P0CvSDcHr-26",
 			"visible": true,
 			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
-		},
-		"UgyYII8ESq0P0CvSDcHr-27": {
-			"path": "UgyYII8ESq0P0CvSDcHr-27",
-			"cellId": "UgyYII8ESq0P0CvSDcHr-27",
-			"visible": true,
-			"parentCellId": "UgyYII8ESq0P0CvSDcHr-22"
 		},
 		"UgyYII8ESq0P0CvSDcHr-31": {
 			"path": "UgyYII8ESq0P0CvSDcHr-31",
@@ -195,13 +210,6 @@
 			"cellId": "UgyYII8ESq0P0CvSDcHr-37",
 			"visible": true
 		},
-		"UgyYII8ESq0P0CvSDcHr-38": {
-			"path": "UgyYII8ESq0P0CvSDcHr-38",
-			"cellName": "orders.js",
-			"cellId": "UgyYII8ESq0P0CvSDcHr-38",
-			"visible": true,
-			"parentCellId": "UgyYII8ESq0P0CvSDcHr-5"
-		},
 		"UgyYII8ESq0P0CvSDcHr-39": {
 			"path": "UgyYII8ESq0P0CvSDcHr-39",
 			"cellName": "create order request",
@@ -211,10 +219,13 @@
 		},
 		"UgyYII8ESq0P0CvSDcHr-40": {
 			"path": "UgyYII8ESq0P0CvSDcHr-40",
+			"fileName": "order.js",
 			"cellName": "create stripe session",
 			"cellId": "UgyYII8ESq0P0CvSDcHr-40",
 			"visible": true,
-			"parentCellId": "UgyYII8ESq0P0CvSDcHr-38"
+			"startLine": "34",
+			"endLine": "42",
+			"parentPath": "server/src/api/order/controllers/order.js"
 		},
 		"UgyYII8ESq0P0CvSDcHr-41": {
 			"path": "UgyYII8ESq0P0CvSDcHr-41",
@@ -249,6 +260,36 @@
 			"path": "UgyYII8ESq0P0CvSDcHr-47",
 			"cellId": "UgyYII8ESq0P0CvSDcHr-47",
 			"visible": true
+		},
+		"UgyYII8ESq0P0CvSDcHr-51": {
+			"path": "UgyYII8ESq0P0CvSDcHr-51",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-51",
+			"visible": true
+		},
+		"UgyYII8ESq0P0CvSDcHr-52": {
+			"path": "UgyYII8ESq0P0CvSDcHr-52",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-52",
+			"visible": true,
+			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
+		},
+		"UgyYII8ESq0P0CvSDcHr-53": {
+			"path": "UgyYII8ESq0P0CvSDcHr-53",
+			"cellName": "Get items from Redux",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-53",
+			"visible": true,
+			"parentCellId": "UgyYII8ESq0P0CvSDcHr-22"
+		},
+		"UgyYII8ESq0P0CvSDcHr-54": {
+			"path": "UgyYII8ESq0P0CvSDcHr-54",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-54",
+			"visible": true,
+			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
+		},
+		"UgyYII8ESq0P0CvSDcHr-55": {
+			"path": "UgyYII8ESq0P0CvSDcHr-55",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-55",
+			"visible": true,
+			"parentCellId": "UgyYII8ESq0P0CvSDcHr-22"
 		}
 	},
 	"simulations": {
@@ -417,5 +458,10 @@
 			"description": ""
 		}
 	},
-	"cellToPath": {}
+	"cellToPath": {
+		"UgyYII8ESq0P0CvSDcHr-22": "client/src/scenes/home/ShoppingList.jsx",
+		"UgyYII8ESq0P0CvSDcHr-10": "client/src/scenes",
+		"UgyYII8ESq0P0CvSDcHr-18": "client/src/scenes/checkout",
+		"UgyYII8ESq0P0CvSDcHr-38": "server/src/api/order/controllers/order.js"
+	}
 }
