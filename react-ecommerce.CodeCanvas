@@ -290,6 +290,12 @@
 			"cellId": "UgyYII8ESq0P0CvSDcHr-58",
 			"visible": true,
 			"parentCellId": "UgyYII8ESq0P0CvSDcHr-4"
+		},
+		"UgyYII8ESq0P0CvSDcHr-59": {
+			"path": "UgyYII8ESq0P0CvSDcHr-59",
+			"cellName": "Node",
+			"cellId": "UgyYII8ESq0P0CvSDcHr-59",
+			"visible": true
 		}
 	},
 	"simulations": {
