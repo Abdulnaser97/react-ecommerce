@@ -885,7 +885,7 @@
 					]
 				}
 			},
-			"description": ""
+			"description": "<p><i>Click the play button above to begin start the tutorial</i></p><p><i>Also, use cmd/ctrl + scroll to zoom in/out on the diagram throughout the tutorial</i></p><p>&nbsp;</p><p>This tutorial goes over the high level architecture of <strong>react-ecommerce</strong> webapp.</p><p>The app is a full-stack application with 3 components:</p><ul><li>Frontend</li><li>Backend</li><li>Database</li></ul>"
 		}
 	},
 	"cellToPath": {
