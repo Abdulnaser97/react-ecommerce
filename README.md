@@ -15,3 +15,11 @@ Check out this interactive walkthrough of the `react-ecommerce` codebase on Code
 To update the diagram, follow the quick tutorial [here](https://docs.code-canvas.com/updating-diagram).
 
 <img width="1916" alt="CodeCanvas Screenshot" src="https://codecanvas-media-public.s3.amazonaws.com/images/codecanvas-readme-screenshot.png" />
+
+### How does `react-ecommerce` work?
+
+Check out this interactive walkthrough of the `react-ecommerce` codebase on CodeCanvas [here](https://www.code-canvas.com/?session=unauthenticatedGithub&repo=react-ecommerce&owner=Abdulnaser97&branch=master&OnboardingTutorial=true).
+
+To update the diagram, follow the quick tutorial [here](https://docs.code-canvas.com/updating-diagram).
+
+<img width="1916" alt="CodeCanvas Screenshot" src="https://codecanvas-media-public.s3.amazonaws.com/images/codecanvas-readme-screenshot.png" />
