@@ -1,7 +1,7 @@
 {
-	"drawioXML": "<mxfile>\n  <diagram id=\"Y9hzkQ-PbJ9HaYHnr1UL\" name=\"Page-1\">\n    <mxGraphModel dx=\"3558\" dy=\"2434\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"0\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#fffefe\" parent=\"0\" />\n        <UserObject label=\"client\" value=\"client\" id=\"62c447bd-04ee-4b9b-9cbe-22f3267d6a7d\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=55;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#fffefe\" vertex=\"1\" parent=\"1\">\n            <mxGeometry x=\"165\" y=\"270.0000000000002\" width=\"5610\" height=\"4204.571397560313\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"src\" value=\"src\" id=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=55;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f9f3f3\" vertex=\"1\" parent=\"62c447bd-04ee-4b9b-9cbe-22f3267d6a7d\">\n            <mxGeometry x=\"175\" y=\"70\" width=\"5340\" height=\"4064.571397560313\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"scenes\" value=\"scenes\" id=\"eda5eb23-0bb6-4a6a-a637-9b28d8005460\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=55;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" vertex=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\">\n            <mxGeometry x=\"1745\" y=\"1210\" width=\"3380\" height=\"2784.5713975603135\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"global\" value=\"global\" id=\"2928da38-6d70-4389-a940-6f0b39a44bda\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=28;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" vertex=\"1\" parent=\"eda5eb23-0bb6-4a6a-a637-9b28d8005460\">\n            <mxGeometry x=\"925\" y=\"70.00000000000011\" width=\"680\" height=\"770.2471015250001\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"CartMenu.jsx\" value=\"CartMenu.jsx\" id=\"1740e0d7-3a8b-4ec2-9d57-72621bd1f0ee\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"2928da38-6d70-4389-a940-6f0b39a44bda\">\n            <mxGeometry x=\"175\" y=\"70\" width=\"320\" height=\"360.24710152500006\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"User Initiates Checkout - CartMenu.jsx:L136-139\" value=\"User Initiates Checkout - CartMenu.jsx:L136-139\" id=\"0f9d3ba6-7801-470c-ab9b-8c4d20840a4a\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"1740e0d7-3a8b-4ec2-9d57-72621bd1f0ee\">\n            <mxGeometry x=\"70\" y=\"200.24710152500003\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"View Cart: CartMenu becomes visible and renders items - CartMenu.jsx:L63-118\" value=\"View Cart: CartMenu becomes visible and renders items - CartMenu.jsx:L63-118\" id=\"cea8dcd6-d950-4520-86c4-c0db8a6c5cdb\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"1740e0d7-3a8b-4ec2-9d57-72621bd1f0ee\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Navbar.jsx\" value=\"Navbar.jsx\" id=\"cded7460-06c0-4dc4-baef-c7073f5a4f80\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"2928da38-6d70-4389-a940-6f0b39a44bda\">\n            <mxGeometry x=\"175\" y=\"470.247101525\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Add to Cart: Navbar badge updates - Navbar.jsx:L57-70\" value=\"Add to Cart: Navbar badge updates - Navbar.jsx:L57-70\" id=\"a655e735-a9c2-487c-98cc-96b8a729f369\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"cded7460-06c0-4dc4-baef-c7073f5a4f80\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"checkout\" value=\"checkout\" id=\"8bf9444c-f59b-4685-bdbc-6ca0a2215013\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=31;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" vertex=\"1\" parent=\"eda5eb23-0bb6-4a6a-a637-9b28d8005460\">\n            <mxGeometry x=\"2295\" y=\"1684.5713975603137\" width=\"990\" height=\"1030\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Checkout.jsx\" value=\"Checkout.jsx\" id=\"25849a7f-3883-4c43-b929-7a9a98c81dd7\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=28;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"8bf9444c-f59b-4685-bdbc-6ca0a2215013\">\n            <mxGeometry x=\"175\" y=\"340.00000000000006\" width=\"720\" height=\"619.9999999999999\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Render Checkout Component - Checkout.jsx:L72-143\" value=\"Render Checkout Component - Checkout.jsx:L72-143\" id=\"3d16e06d-e704-4c2d-bb8b-fd78935a74f6\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"25849a7f-3883-4c43-b929-7a9a98c81dd7\">\n            <mxGeometry x=\"150\" y=\"459.9999999999999\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Client: Prepare Order Data - Checkout.jsx:L41-48\" value=\"Client: Prepare Order Data - Checkout.jsx:L41-48\" id=\"1905fe94-c08c-4ab5-90d3-37ffea620696\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"25849a7f-3883-4c43-b929-7a9a98c81dd7\">\n            <mxGeometry x=\"470\" y=\"459.9999999999999\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Client: Redirect to Stripe Checkout - Checkout.jsx:L56-58\" value=\"Client: Redirect to Stripe Checkout - Checkout.jsx:L56-58\" id=\"a3c76fb4-aba9-43c4-abdb-654005591f00\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"25849a7f-3883-4c43-b929-7a9a98c81dd7\">\n            <mxGeometry x=\"150\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"3d727ce6-ffdb-44dd-ae0a-fe0bbb78b851\" value=\"Form Submission\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"25849a7f-3883-4c43-b929-7a9a98c81dd7\" source=\"3d16e06d-e704-4c2d-bb8b-fd78935a74f6\" target=\"1905fe94-c08c-4ab5-90d3-37ffea620696\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"Checkout: `Checkout` component renders - Checkout.jsx:L17\" value=\"Checkout: `Checkout` component renders - Checkout.jsx:L17\" id=\"1b235f5f-96e1-4b12-a1f3-bda74a8461c9\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"25849a7f-3883-4c43-b929-7a9a98c81dd7\">\n            <mxGeometry x=\"150\" y=\"330\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Checkout: API request is sent to create order - Checkout.jsx:L1-21\" value=\"Checkout: API request is sent to create order - Checkout.jsx:L1-21\" id=\"711e10ef-8363-4cb8-b13d-2ecbec1b8d98\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"25849a7f-3883-4c43-b929-7a9a98c81dd7\">\n            <mxGeometry x=\"470\" y=\"316.1703864319113\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Checkout: Client redirects to Stripe - Checkout.jsx:L1-21\" value=\"Checkout: Client redirects to Stripe - Checkout.jsx:L1-21\" id=\"8efbd567-adad-434c-9db2-466ce750a9b4\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"25849a7f-3883-4c43-b929-7a9a98c81dd7\">\n            <mxGeometry x=\"150\" y=\"200\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"098dfae0-5f52-4f2e-a125-0c2ac4947953\" value=\"Checkout: `makePayment`&#xa;function is&#xa;called\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"25849a7f-3883-4c43-b929-7a9a98c81dd7\" source=\"1b235f5f-96e1-4b12-a1f3-bda74a8461c9\" target=\"711e10ef-8363-4cb8-b13d-2ecbec1b8d98\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"370\" y=\"375\" />\n              <mxPoint x=\"370\" y=\"361.1703864319113\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"Confirmation.jsx\" value=\"Confirmation.jsx\" id=\"ada798be-7447-437e-9e1f-5c909c09a59b\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"8bf9444c-f59b-4685-bdbc-6ca0a2215013\">\n            <mxGeometry x=\"175\" y=\"70\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Render Confirmation Page - Confirmation.jsx:L5-15\" value=\"Render Confirmation Page - Confirmation.jsx:L5-15\" id=\"e105b1de-53fb-4ff3-acb2-5134a6094db2\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"ada798be-7447-437e-9e1f-5c909c09a59b\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"41e96a57-7a3f-4377-bcee-64d284bb339d\" value=\"Routing to&#xa;Checkout Page\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"eda5eb23-0bb6-4a6a-a637-9b28d8005460\" source=\"0f9d3ba6-7801-470c-ab9b-8c4d20840a4a\" target=\"3d16e06d-e704-4c2d-bb8b-fd78935a74f6\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1495\" y=\"385.2471015249997\" />\n              <mxPoint x=\"1495\" y=\"530.9192001619178\" />\n              <mxPoint x=\"2170\" y=\"530.9192001619178\" />\n              <mxPoint x=\"2170\" y=\"2529.571397560313\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"home\" value=\"home\" id=\"099924a9-10af-4cfe-b0aa-fff142690385\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=45;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" vertex=\"1\" parent=\"eda5eb23-0bb6-4a6a-a637-9b28d8005460\">\n            <mxGeometry x=\"175\" y=\"1420.2471015249998\" width=\"1930\" height=\"795.3975400440262\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Home.jsx\" value=\"Home.jsx\" id=\"6571cb6e-ec9a-4829-880a-5ae491a330c2\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"099924a9-10af-4cfe-b0aa-fff142690385\">\n            <mxGeometry x=\"365\" y=\"495.3975400440262\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Render Home Component - Home.jsx:L5-13\" value=\"Render Home Component - Home.jsx:L5-13\" id=\"4eb778c3-9bd4-408a-bdd0-865cd93b2ee6\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"6571cb6e-ec9a-4829-880a-5ae491a330c2\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"ShoppingList.jsx\" value=\"ShoppingList.jsx\" id=\"9f2cb84f-8b64-4dea-bb26-e94f66511d2d\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=31;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"099924a9-10af-4cfe-b0aa-fff142690385\">\n            <mxGeometry x=\"875\" y=\"220.39913526123854\" width=\"960\" height=\"490\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Trigger Item Fetch on Mount - ShoppingList.jsx:L30-32\" value=\"Trigger Item Fetch on Mount - ShoppingList.jsx:L30-32\" id=\"d03fe84d-cf14-43a3-99bf-6da741d2a857\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"9f2cb84f-8b64-4dea-bb26-e94f66511d2d\">\n            <mxGeometry x=\"70\" y=\"330\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Dispatch &#39;setItems&#39; Action - ShoppingList.jsx:L27\" value=\"Dispatch &#39;setItems&#39; Action - ShoppingList.jsx:L27\" id=\"04a2ef31-1ed9-4100-ac9c-79af1d932a91\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"9f2cb84f-8b64-4dea-bb26-e94f66511d2d\">\n            <mxGeometry x=\"70\" y=\"200\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Render Products and Filters - ShoppingList.jsx:L76-91\" value=\"Render Products and Filters - ShoppingList.jsx:L76-91\" id=\"6f692343-c5c7-4f56-a8cb-536f69272376\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"9f2cb84f-8b64-4dea-bb26-e94f66511d2d\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Update Filter State - ShoppingList.jsx:L17-19\" value=\"Update Filter State - ShoppingList.jsx:L17-19\" id=\"40d321dd-e838-4277-9a3d-6b450335154f\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"9f2cb84f-8b64-4dea-bb26-e94f66511d2d\">\n            <mxGeometry x=\"390\" y=\"87.3318017859947\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Render Filtered Products - ShoppingList.jsx:L80-83\" value=\"Render Filtered Products - ShoppingList.jsx:L80-83\" id=\"32a6a39f-4cfa-4ce3-b9a6-dfba04c0c118\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"9f2cb84f-8b64-4dea-bb26-e94f66511d2d\">\n            <mxGeometry x=\"710\" y=\"87.3318017859947\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"cfb16a78-2029-43b4-b59f-40ed807fd73b\" value=\"User Selects&#xa;a Filter\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"9f2cb84f-8b64-4dea-bb26-e94f66511d2d\" source=\"6f692343-c5c7-4f56-a8cb-536f69272376\" target=\"40d321dd-e838-4277-9a3d-6b450335154f\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"290\" y=\"115\" />\n              <mxPoint x=\"290\" y=\"132.3318017859947\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"32387dd7-ed02-4fc6-9eb7-2a66347fd018\" value=\"Re-render with&#xa;New State\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"9f2cb84f-8b64-4dea-bb26-e94f66511d2d\" source=\"40d321dd-e838-4277-9a3d-6b450335154f\" target=\"32a6a39f-4cfa-4ce3-b9a6-dfba04c0c118\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"e517ab6d-e57d-498b-bf0f-5d7a278376ff\" value=\"Mount ShoppingList&#xa;Component\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=15;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"099924a9-10af-4cfe-b0aa-fff142690385\" source=\"4eb778c3-9bd4-408a-bdd0-865cd93b2ee6\" target=\"d03fe84d-cf14-43a3-99bf-6da741d2a857\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"750\" y=\"610.3975400440256\" />\n              <mxPoint x=\"750\" y=\"595.3991352612379\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"Subscribe.jsx\" value=\"Subscribe.jsx\" id=\"69ad6d87-b87a-4052-b841-6605420bfc5c\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=28;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"099924a9-10af-4cfe-b0aa-fff142690385\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"640\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Initialize Component State - Subscribe.jsx:L6\" value=\"Initialize Component State - Subscribe.jsx:L6\" id=\"bd835a53-fbe8-47c5-94c8-93ed19ec4e57\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"69ad6d87-b87a-4052-b841-6605420bfc5c\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Handle User Input Change - Subscribe.jsx:L28\" value=\"Handle User Input Change - Subscribe.jsx:L28\" id=\"fce9d17b-6988-447c-b398-dea1cebe1d9f\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"69ad6d87-b87a-4052-b841-6605420bfc5c\">\n            <mxGeometry x=\"390\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"6f9fc5f9-7074-4d71-a634-b6b1fdcf472a\" value=\"Render Email&#xa;Input Field\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=10;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"69ad6d87-b87a-4052-b841-6605420bfc5c\" source=\"bd835a53-fbe8-47c5-94c8-93ed19ec4e57\" target=\"fce9d17b-6988-447c-b398-dea1cebe1d9f\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"itemDetails\" value=\"itemDetails\" id=\"f4660a54-2159-4854-9e09-5e1cc7c87ba2\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=34;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" vertex=\"1\" parent=\"eda5eb23-0bb6-4a6a-a637-9b28d8005460\">\n            <mxGeometry x=\"565\" y=\"880.2471015249998\" width=\"1150\" height=\"500.00000000000006\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"ItemDetails.jsx\" value=\"ItemDetails.jsx\" id=\"2dc328a1-a18b-493c-b1d6-9c250acf0326\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=31;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"f4660a54-2159-4854-9e09-5e1cc7c87ba2\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"960\" height=\"360.00000000000006\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Trigger Data Fetch on Component Mount - ItemDetails.jsx:L48-51\" value=\"Trigger Data Fetch on Component Mount - ItemDetails.jsx:L48-51\" id=\"76289a0c-6110-4749-91a3-7eb04b7164dc\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"2dc328a1-a18b-493c-b1d6-9c250acf0326\">\n            <mxGeometry x=\"70\" y=\"200.00000000000006\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"API Call: Fetch All Items for &#39;Related Products&#39; - ItemDetails.jsx:L37-43\" value=\"API Call: Fetch All Items for &#39;Related Products&#39; - ItemDetails.jsx:L37-43\" id=\"25cad689-ee9c-40d1-8eb2-b6c718ccd8ec\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"2dc328a1-a18b-493c-b1d6-9c250acf0326\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Render Product Details UI - ItemDetails.jsx:L74-80\" value=\"Render Product Details UI - ItemDetails.jsx:L74-80\" id=\"3876fe0a-cf44-4ed6-a872-5f7dcf0c9513\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"2dc328a1-a18b-493c-b1d6-9c250acf0326\">\n            <mxGeometry x=\"390\" y=\"89.2320602253375\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Dispatch &#39;addToCart&#39; Action - ItemDetails.jsx:L106\" value=\"Dispatch &#39;addToCart&#39; Action - ItemDetails.jsx:L106\" id=\"f6d723ea-41ee-4f8c-9022-9cc838f610ae\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"2dc328a1-a18b-493c-b1d6-9c250acf0326\">\n            <mxGeometry x=\"710\" y=\"89.2320602253375\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"347f4c57-d7cb-4cbf-8f71-e7cac0ac7567\" value=\"Frontend: Receive&#xa;All Items&#xa;and Update&#xa;State\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"2dc328a1-a18b-493c-b1d6-9c250acf0326\" source=\"25cad689-ee9c-40d1-8eb2-b6c718ccd8ec\" target=\"3876fe0a-cf44-4ed6-a872-5f7dcf0c9513\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"290\" y=\"115\" />\n              <mxPoint x=\"290\" y=\"134.2320602253375\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"96ade993-524b-479c-b3ea-88de069e76c2\" value=\"User Clicks&#xa;&#39;ADD TO&#xa;CART&#39;\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"2dc328a1-a18b-493c-b1d6-9c250acf0326\" source=\"3876fe0a-cf44-4ed6-a872-5f7dcf0c9513\" target=\"f6d723ea-41ee-4f8c-9022-9cc838f610ae\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"App.js\" value=\"App.js\" id=\"c239ccd6-a879-46d7-8876-4cae2c2ab59a\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" vertex=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\">\n            <mxGeometry x=\"1030\" y=\"1261\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Router Renders ItemDetails Component - App.js:L29\" value=\"Router Renders ItemDetails Component - App.js:L29\" id=\"a56912a0-962d-454c-afc1-718baa1a8750\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"c239ccd6-a879-46d7-8876-4cae2c2ab59a\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"components\" value=\"components\" id=\"ae68f506-88fb-44e8-8300-00ee301da768\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" vertex=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\">\n            <mxGeometry x=\"180\" y=\"480\" width=\"485\" height=\"500\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Item.jsx\" value=\"Item.jsx\" id=\"b6cdedae-e9b8-45a1-ba92-1fc64849c661\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" vertex=\"1\" parent=\"ae68f506-88fb-44e8-8300-00ee301da768\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"320\" height=\"360\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Add to Cart: User clicks &#39;Add to Cart&#39; - Item.jsx:L68-76\" value=\"Add to Cart: User clicks &#39;Add to Cart&#39; - Item.jsx:L68-76\" id=\"526e6712-7b9f-4029-90bd-f941ab3556b7\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"b6cdedae-e9b8-45a1-ba92-1fc64849c661\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"User Clicks on a Product - Item.jsx:L42\" value=\"User Clicks on a Product - Item.jsx:L42\" id=\"b5800eda-04eb-4fd6-88ec-244f8d215b44\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"b6cdedae-e9b8-45a1-ba92-1fc64849c661\">\n            <mxGeometry x=\"70\" y=\"200\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"state\" value=\"state\" id=\"a6f7206d-bfc6-42ac-9d70-b0a3d08202a6\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=28;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" vertex=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\">\n            <mxGeometry x=\"855\" y=\"220\" width=\"670\" height=\"889.9999999999999\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"index.js\" value=\"index.js\" id=\"add9f6ae-dc08-4989-a8bc-d660a9eb9ec2\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" vertex=\"1\" parent=\"a6f7206d-bfc6-42ac-9d70-b0a3d08202a6\">\n            <mxGeometry x=\"175\" y=\"69.99999999999997\" width=\"400\" height=\"749.9999999999999\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Add to Cart: Redux `addToCart` reducer updates state - index.js:L17-19\" value=\"Add to Cart: Redux `addToCart` reducer updates state - index.js:L17-19\" id=\"30cbe42e-afc7-402d-844e-943dd4907a38\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"add9f6ae-dc08-4989-a8bc-d660a9eb9ec2\">\n            <mxGeometry x=\"150\" y=\"330\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"View Cart: `setIsCartOpen` action dispatched - index.js:L43-45\" value=\"View Cart: `setIsCartOpen` action dispatched - index.js:L43-45\" id=\"fdd3de87-b5f3-4732-a78d-bf4398f1710a\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"add9f6ae-dc08-4989-a8bc-d660a9eb9ec2\">\n            <mxGeometry x=\"150\" y=\"199.99999999999997\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Update Cart: Redux reducer updates item count - index.js:L25-32\" value=\"Update Cart: Redux reducer updates item count - index.js:L25-32\" id=\"84124dc8-5e32-4475-8554-2b8ccffc241a\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"add9f6ae-dc08-4989-a8bc-d660a9eb9ec2\">\n            <mxGeometry x=\"150\" y=\"589.9999999999999\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Update State in Redux Store - index.js:L13-15\" value=\"Update State in Redux Store - index.js:L13-15\" id=\"74099f40-fc13-431b-841e-5db8f5a5fb37\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"add9f6ae-dc08-4989-a8bc-d660a9eb9ec2\">\n            <mxGeometry x=\"150\" y=\"460\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Update Cart State - index.js:L17-19\" value=\"Update Cart State - index.js:L17-19\" id=\"3540b394-676e-4991-b8b6-e1818e151e9e\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"add9f6ae-dc08-4989-a8bc-d660a9eb9ec2\">\n            <mxGeometry x=\"150\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"0d4d9828-a18c-496f-aa0a-2bf339b0cc63\" value=\"Add to&#xa;Cart: Dispatch&#xa;`addToCart` action&#xa;to Redux&#xa;store\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\" source=\"526e6712-7b9f-4029-90bd-f941ab3556b7\" target=\"30cbe42e-afc7-402d-844e-943dd4907a38\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"458cc18a-21b9-4db9-8278-a9e3ad071a75\" value=\"Add to&#xa;Cart: State&#xa;change propagates&#xa;to components\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\" source=\"30cbe42e-afc7-402d-844e-943dd4907a38\" target=\"a655e735-a9c2-487c-98cc-96b8a729f369\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1670\" y=\"665.0000000000006\" />\n              <mxPoint x=\"1670\" y=\"1865.2471015250007\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"253cb2be-9343-42ee-9954-e82b4eb420e2\" value=\"View Cart:&#xa;User clicks&#xa;shopping bag&#xa;icon\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\" source=\"a655e735-a9c2-487c-98cc-96b8a729f369\" target=\"fdd3de87-b5f3-4732-a78d-bf4398f1710a\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3230\" y=\"1865.2471015250003\" />\n              <mxPoint x=\"3230\" y=\"1730.9192001619185\" />\n              <mxPoint x=\"3925\" y=\"1730.9192001619178\" />\n              <mxPoint x=\"3925\" y=\"1767.3028590571328\" />\n              <mxPoint x=\"5200\" y=\"1767.3028590571328\" />\n              <mxPoint x=\"5200\" y=\"169.99999999999977\" />\n              <mxPoint x=\"760\" y=\"169.99999999999977\" />\n              <mxPoint x=\"760\" y=\"534.9999999999998\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"454e98c8-e609-40f3-b734-4cc204d52a9b\" value=\"View Cart:&#xa;State change&#xa;propagates to&#xa;CartMenu\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\" source=\"fdd3de87-b5f3-4732-a78d-bf4398f1710a\" target=\"cea8dcd6-d950-4520-86c4-c0db8a6c5cdb\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1680\" y=\"535.0000000000006\" />\n              <mxPoint x=\"1680\" y=\"1474.0281950241947\" />\n              <mxPoint x=\"1855\" y=\"1474.0281950241938\" />\n              <mxPoint x=\"1855\" y=\"1471.9670977634057\" />\n              <mxPoint x=\"2780\" y=\"1471.9670977634064\" />\n              <mxPoint x=\"2780\" y=\"1465\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"c3ef6380-83f7-4541-b7da-c0c0c54b4ecb\" value=\"Update Cart:&#xa;User interacts&#xa;with cart&#xa;item\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\" source=\"cea8dcd6-d950-4520-86c4-c0db8a6c5cdb\" target=\"84124dc8-5e32-4475-8554-2b8ccffc241a\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3230\" y=\"1464.9999999999998\" />\n              <mxPoint x=\"3230\" y=\"1472.3693322185961\" />\n              <mxPoint x=\"3915\" y=\"1472.3693322185961\" />\n              <mxPoint x=\"3915\" y=\"1516.5758597520994\" />\n              <mxPoint x=\"5190\" y=\"1516.5758597520999\" />\n              <mxPoint x=\"5190\" y=\"1160\" />\n              <mxPoint x=\"760\" y=\"1160\" />\n              <mxPoint x=\"760\" y=\"925\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"9123cc8f-254c-4d3f-8783-03015734cb88\" value=\"Checkout: User&#xa;clicks checkout&#xa;button\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\" source=\"84124dc8-5e32-4475-8554-2b8ccffc241a\" target=\"1b235f5f-96e1-4b12-a1f3-bda74a8461c9\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1590\" y=\"925.0000000000006\" />\n              <mxPoint x=\"1590\" y=\"3630.7030534962446\" />\n              <mxPoint x=\"3925\" y=\"3630.7030534962437\" />\n              <mxPoint x=\"3925\" y=\"3609.5713975603126\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"cc7edee1-3baa-4ecf-84c9-90a73bed5bd2\" value=\"Data Flow&#xa;to Redux&#xa;Store\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\" source=\"04a2ef31-1ed9-4100-ac9c-79af1d932a91\" target=\"74099f40-fc13-431b-841e-5db8f5a5fb37\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3085\" y=\"3095.6462367862378\" />\n              <mxPoint x=\"3085\" y=\"3098.1982969809783\" />\n              <mxPoint x=\"3935\" y=\"3098.1982969809774\" />\n              <mxPoint x=\"3935\" y=\"2550.693148534513\" />\n              <mxPoint x=\"5210\" y=\"2550.693148534513\" />\n              <mxPoint x=\"5210\" y=\"119.99999999999909\" />\n              <mxPoint x=\"740\" y=\"119.99999999999909\" />\n              <mxPoint x=\"740\" y=\"794.9999999999991\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"3b742c66-1780-4480-8469-20d8e2339cbc\" value=\"Propagate State&#xa;Update to&#xa;Component\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\" source=\"74099f40-fc13-431b-841e-5db8f5a5fb37\" target=\"6f692343-c5c7-4f56-a8cb-536f69272376\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1660\" y=\"795.0000000000006\" />\n              <mxPoint x=\"1660\" y=\"2980.2471015250007\" />\n              <mxPoint x=\"2670\" y=\"2980.2471015249994\" />\n              <mxPoint x=\"2670\" y=\"2965.6462367862378\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"07059715-3a3e-4cf3-bbaf-69e0e96fffcd\" value=\"Navigate to&#xa;Item Details&#xa;Page\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=19;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\" source=\"b5800eda-04eb-4fd6-88ec-244f8d215b44\" target=\"a56912a0-962d-454c-afc1-718baa1a8750\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"730\" y=\"795\" />\n              <mxPoint x=\"730\" y=\"1376\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"36ed9556-3ca9-47de-8ae9-f3c8f7f5965d\" value=\"Extract Item&#xa;ID from&#xa;URL\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\" source=\"a56912a0-962d-454c-afc1-718baa1a8750\" target=\"76289a0c-6110-4749-91a3-7eb04b7164dc\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1640\" y=\"1375.9999999999998\" />\n              <mxPoint x=\"1640\" y=\"2405.2471015250003\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"84fd408b-d1db-441e-8f72-5c119e68f0a5\" value=\"Action Handled&#xa;by Redux&#xa;Reducer\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"b0b7bbbb-30e7-4c04-aced-83c977826ebf\" source=\"f6d723ea-41ee-4f8c-9022-9cc838f610ae\" target=\"3540b394-676e-4991-b8b6-e1818e151e9e\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3945\" y=\"2294.479161750336\" />\n              <mxPoint x=\"3945\" y=\"2601.693148534513\" />\n              <mxPoint x=\"5220\" y=\"2601.6931485345135\" />\n              <mxPoint x=\"5220\" y=\"69.99999999999955\" />\n              <mxPoint x=\"750\" y=\"69.99999999999955\" />\n              <mxPoint x=\"750\" y=\"406.31823579482125\" />\n              <mxPoint x=\"965\" y=\"406.31823579482125\" />\n              <mxPoint x=\"965\" y=\"405.517989510432\" />\n              <mxPoint x=\"1140\" y=\"405.51798951043247\" />\n              <mxPoint x=\"1140\" y=\"404.9999999999998\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"server\" value=\"server\" id=\"83a25e92-1482-4c29-b2db-35348f007e08\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=55;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#fffefe\" vertex=\"1\" parent=\"1\">\n            <mxGeometry x=\"5965\" y=\"1699.9588091174408\" width=\"4690\" height=\"2245.569477393175\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"src\" value=\"src\" id=\"c5e9b7f3-8bce-4a5e-a3a6-4a16b8f7fb67\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=55;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f9f3f3\" vertex=\"1\" parent=\"83a25e92-1482-4c29-b2db-35348f007e08\">\n            <mxGeometry x=\"175\" y=\"70\" width=\"3770\" height=\"2105.569477393175\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"api\" value=\"api\" id=\"4a8083d2-d395-4cf6-b0a0-85b361111a15\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=55;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" vertex=\"1\" parent=\"c5e9b7f3-8bce-4a5e-a3a6-4a16b8f7fb67\">\n            <mxGeometry x=\"175\" y=\"70\" width=\"3500\" height=\"1965.569477393175\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"order\" value=\"order\" id=\"9cf8951e-697e-40dd-8a2c-dc7773e83622\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=34;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" vertex=\"1\" parent=\"4a8083d2-d395-4cf6-b0a0-85b361111a15\">\n            <mxGeometry x=\"1501\" y=\"1183\" width=\"1020\" height=\"712.5694773931751\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"controllers\" value=\"controllers\" id=\"695b21b4-5607-46b8-973f-7af4cfb189c5\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=31;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"9cf8951e-697e-40dd-8a2c-dc7773e83622\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"830\" height=\"572.5694773931751\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"order.js\" value=\"order.js\" id=\"6d88f2db-aca8-44bd-8d98-9f0a4d9d2116\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=28;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#e5cbcb\" vertex=\"1\" parent=\"695b21b4-5607-46b8-973f-7af4cfb189c5\">\n            <mxGeometry x=\"95\" y=\"70.00000000000001\" width=\"640\" height=\"432.56947739317513\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Server: Receive Order and Prepare Line Items - order.js:L12-32\" value=\"Server: Receive Order and Prepare Line Items - order.js:L12-32\" id=\"50225a59-ab5a-42bb-81ff-25025301fee3\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"6d88f2db-aca8-44bd-8d98-9f0a4d9d2116\">\n            <mxGeometry x=\"70\" y=\"272.56947739317513\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Server: Save Order and Respond - order.js:L45-50\" value=\"Server: Save Order and Respond - order.js:L45-50\" id=\"3b39bc21-dd92-4b21-a2b7-d60aeefe5f37\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"6d88f2db-aca8-44bd-8d98-9f0a4d9d2116\">\n            <mxGeometry x=\"390\" y=\"267.2349664906693\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"7495b1fe-1874-4a48-9507-7d2957959e69\" value=\"External API&#xa;Call: Create&#xa;Stripe Session\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"6d88f2db-aca8-44bd-8d98-9f0a4d9d2116\" source=\"50225a59-ab5a-42bb-81ff-25025301fee3\" target=\"3b39bc21-dd92-4b21-a2b7-d60aeefe5f37\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"290\" y=\"317.56947739317513\" />\n              <mxPoint x=\"290\" y=\"312.2349664906693\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"Server: Fetches item details and creates Stripe session - order.js:L15-42\" value=\"Server: Fetches item details and creates Stripe session - order.js:L15-42\" id=\"3234e8d9-ce8f-45fd-a962-fbdd66bb07a4\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"6d88f2db-aca8-44bd-8d98-9f0a4d9d2116\">\n            <mxGeometry x=\"70\" y=\"142.56947739317516\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Configure Stripe Session with Success URL - order.js:L35-42\" value=\"Configure Stripe Session with Success URL - order.js:L35-42\" id=\"ce385176-c2e8-4cad-8502-b7d6286f873e\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"6d88f2db-aca8-44bd-8d98-9f0a4d9d2116\">\n            <mxGeometry x=\"390\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"item\" value=\"item\" id=\"f26ffcc8-0dcc-4eca-b751-680f6750c88c\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=55;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" vertex=\"1\" parent=\"4a8083d2-d395-4cf6-b0a0-85b361111a15\">\n            <mxGeometry x=\"175\" y=\"70\" width=\"3230\" height=\"1073\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"content-types\" value=\"content-types\" id=\"e354af95-3894-422d-abc7-39d5235030ea\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=28;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"f26ffcc8-0dcc-4eca-b751-680f6750c88c\">\n            <mxGeometry x=\"95\" y=\"358.79530869862947\" width=\"700\" height=\"640.0000000000001\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"item\" value=\"item\" id=\"a8c77557-d140-4970-9823-8cc9c948dde7\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#e5cbcb\" vertex=\"1\" parent=\"e354af95-3894-422d-abc7-39d5235030ea\">\n            <mxGeometry x=\"95\" y=\"69.99999999999999\" width=\"510\" height=\"500.0000000000001\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"schema.json\" value=\"schema.json\" id=\"0f5f2131-5d4b-4e1c-a715-e11075bccbe9\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#e0c1c1\" vertex=\"1\" parent=\"a8c77557-d140-4970-9823-8cc9c948dde7\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"320\" height=\"360.00000000000006\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Backend: Process Request - schema.json:L1-50\" value=\"Backend: Process Request - schema.json:L1-50\" id=\"93a9e193-2e23-4c26-b85f-69350154f45d\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0f5f2131-5d4b-4e1c-a715-e11075bccbe9\">\n            <mxGeometry x=\"70\" y=\"200.00000000000003\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Product Schema Definition - schema.json:L1-50\" value=\"Product Schema Definition - schema.json:L1-50\" id=\"d9ffbd3d-800d-4984-9042-dae849867d84\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0f5f2131-5d4b-4e1c-a715-e11075bccbe9\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"routes\" value=\"routes\" id=\"40e95fc5-f61c-44f5-98ce-cfee1a11053e\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"f26ffcc8-0dcc-4eca-b751-680f6750c88c\">\n            <mxGeometry x=\"2545\" y=\"140.49520470425085\" width=\"510\" height=\"500\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"item.js\" value=\"item.js\" id=\"c919deed-80a7-4587-b7b6-321e7c635d29\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#e5cbcb\" vertex=\"1\" parent=\"40e95fc5-f61c-44f5-98ce-cfee1a11053e\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"320\" height=\"360\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Backend: Route Item Request - item.js:L9\" value=\"Backend: Route Item Request - item.js:L9\" id=\"d4601dbc-b6b3-47f8-9db6-f1af94b20d46\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"c919deed-80a7-4587-b7b6-321e7c635d29\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Core Router Instantiation - item.js:L9\" value=\"Core Router Instantiation - item.js:L9\" id=\"7a4bcf87-b17b-4fc0-8a93-940566d91c8e\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"c919deed-80a7-4587-b7b6-321e7c635d29\">\n            <mxGeometry x=\"70\" y=\"200\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"services\" value=\"services\" id=\"208681a9-36c2-4874-a3bb-833d99c509ec\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"f26ffcc8-0dcc-4eca-b751-680f6750c88c\">\n            <mxGeometry x=\"985\" y=\"351\" width=\"510\" height=\"500\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"item.js\" value=\"item.js\" id=\"353a742e-61ba-42c2-8a72-851519be8944\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#e5cbcb\" vertex=\"1\" parent=\"208681a9-36c2-4874-a3bb-833d99c509ec\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"320\" height=\"360\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Core Service Instantiation - item.js:L9\" value=\"Core Service Instantiation - item.js:L9\" id=\"242c4691-e1d8-4c4b-a956-c4bdcfc49706\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"353a742e-61ba-42c2-8a72-851519be8944\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Service Creates Item in Database - item.js:L9\" value=\"Service Creates Item in Database - item.js:L9\" id=\"8c7c0202-24fa-474e-9631-22c4b307a7e0\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"353a742e-61ba-42c2-8a72-851519be8944\">\n            <mxGeometry x=\"70\" y=\"200\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"controllers\" value=\"controllers\" id=\"0e47aa97-cf52-435e-887c-5af682df148e\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=28;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" vertex=\"1\" parent=\"f26ffcc8-0dcc-4eca-b751-680f6750c88c\">\n            <mxGeometry x=\"1685\" y=\"221\" width=\"670\" height=\"630\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"item.js\" value=\"item.js\" id=\"da96d5ea-7cc3-4f39-9873-abb9d1e75759\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#e5cbcb\" vertex=\"1\" parent=\"0e47aa97-cf52-435e-887c-5af682df148e\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"480\" height=\"490\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Backend: Send Item Data Response - item.js:L10\" value=\"Backend: Send Item Data Response - item.js:L10\" id=\"ca329401-d0e5-415c-8e44-c15a0b7288c6\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"da96d5ea-7cc3-4f39-9873-abb9d1e75759\">\n            <mxGeometry x=\"150\" y=\"330\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Core Controller Instantiation - item.js:L10\" value=\"Core Controller Instantiation - item.js:L10\" id=\"bc97a358-9062-43f2-8ca9-34aa9dca2522\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"da96d5ea-7cc3-4f39-9873-abb9d1e75759\">\n            <mxGeometry x=\"150\" y=\"200\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Controller Handles Create Request - item.js:L10\" value=\"Controller Handles Create Request - item.js:L10\" id=\"675cf906-d02b-4c4c-930b-62454153745d\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"da96d5ea-7cc3-4f39-9873-abb9d1e75759\">\n            <mxGeometry x=\"150\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"9c08195f-ffec-4c97-8ec4-ff52752074ae\" value=\"Backend: Fetch&#xa;Item from&#xa;Database\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"f26ffcc8-0dcc-4eca-b751-680f6750c88c\" source=\"d4601dbc-b6b3-47f8-9db6-f1af94b20d46\" target=\"ca329401-d0e5-415c-8e44-c15a0b7288c6\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3120\" y=\"325.49520470425057\" />\n              <mxPoint x=\"3120\" y=\"69.99999999999972\" />\n              <mxPoint x=\"1580\" y=\"69.99999999999972\" />\n              <mxPoint x=\"1580\" y=\"665.9999999999998\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"103e5834-a176-4d25-a817-b0f7e4e32e67\" value=\"Schema to&#xa;Service Factory\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"f26ffcc8-0dcc-4eca-b751-680f6750c88c\" source=\"d9ffbd3d-800d-4984-9042-dae849867d84\" target=\"242c4691-e1d8-4c4b-a956-c4bdcfc49706\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"870\" y=\"613.7953086986292\" />\n              <mxPoint x=\"870\" y=\"535.9999999999998\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"8dbfa150-6c28-4926-b683-72e1e7905a92\" value=\"Service to&#xa;Controller Factory\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=10;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"f26ffcc8-0dcc-4eca-b751-680f6750c88c\" source=\"242c4691-e1d8-4c4b-a956-c4bdcfc49706\" target=\"bc97a358-9062-43f2-8ca9-34aa9dca2522\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"f5af77f6-0104-49e4-b55a-2711f337cc2b\" value=\"Controller to&#xa;Router Factory\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"f26ffcc8-0dcc-4eca-b751-680f6750c88c\" source=\"bc97a358-9062-43f2-8ca9-34aa9dca2522\" target=\"7a4bcf87-b17b-4fc0-8a93-940566d91c8e\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2420\" y=\"535.9999999999995\" />\n              <mxPoint x=\"2420\" y=\"455.49520470425045\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"f8e6ff8d-0a1c-44a1-9530-0118cd880221\" value=\"Admin Action:&#xa;Create Item\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"f26ffcc8-0dcc-4eca-b751-680f6750c88c\" source=\"7a4bcf87-b17b-4fc0-8a93-940566d91c8e\" target=\"675cf906-d02b-4c4c-930b-62454153745d\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3120\" y=\"455.49520470425057\" />\n              <mxPoint x=\"3120\" y=\"900.9999999999998\" />\n              <mxPoint x=\"1570\" y=\"900.9999999999998\" />\n              <mxPoint x=\"1570\" y=\"406.70360411982347\" />\n              <mxPoint x=\"1890\" y=\"406.70360411982404\" />\n              <mxPoint x=\"1890\" y=\"406.00000000000034\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"b87283ea-8d25-4915-9554-43deb9bb03a6\" value=\"Controller Calls&#xa;Service\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"f26ffcc8-0dcc-4eca-b751-680f6750c88c\" source=\"675cf906-d02b-4c4c-930b-62454153745d\" target=\"8c7c0202-24fa-474e-9631-22c4b307a7e0\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2150\" y=\"405.99999999999994\" />\n              <mxPoint x=\"2150\" y=\"406.923535252804\" />\n              <mxPoint x=\"2420\" y=\"406.9235352528036\" />\n              <mxPoint x=\"2420\" y=\"170.9999999999996\" />\n              <mxPoint x=\"860\" y=\"170.9999999999996\" />\n              <mxPoint x=\"860\" y=\"665.9999999999995\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"config\" value=\"config\" id=\"15399e3a-d627-4715-8abd-678b4a041071\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f9f3f3\" vertex=\"1\" parent=\"83a25e92-1482-4c29-b2db-35348f007e08\">\n            <mxGeometry x=\"4135\" y=\"926.9352151959461\" width=\"485\" height=\"370\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"admin.js\" value=\"admin.js\" id=\"dc1f6a8b-fe5d-4f08-a638-60b2133c9884\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" vertex=\"1\" parent=\"15399e3a-d627-4715-8abd-678b4a041071\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Admin UI Confirmation - admin.js:L1-8\" value=\"Admin UI Confirmation - admin.js:L1-8\" id=\"763dc2a3-96c7-441b-9e44-d57347de2ee6\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"dc1f6a8b-fe5d-4f08-a638-60b2133c9884\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"83f0e8c0-38db-48b4-8570-f7aae3f8a8fb\" value=\"API Response&#xa;Sent to&#xa;Admin\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"83a25e92-1482-4c29-b2db-35348f007e08\" source=\"8c7c0202-24fa-474e-9631-22c4b307a7e0\" target=\"763dc2a3-96c7-441b-9e44-d57347de2ee6\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2085\" y=\"876\" />\n              <mxPoint x=\"2085\" y=\"1161\" />\n              <mxPoint x=\"4010\" y=\"1161\" />\n              <mxPoint x=\"4010\" y=\"1111.9352151959463\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"d0b41668-30c1-414a-92c0-dcf1058f2944\" value=\"API Call:&#xa;Create Order&#xa;(Client to&#xa;Server)\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"1\" source=\"1905fe94-c08c-4ab5-90d3-37ffea620696\" target=\"50225a59-ab5a-42bb-81ff-25025301fee3\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"5840\" y=\"4079.5713975603135\" />\n              <mxPoint x=\"5840\" y=\"3480.528286510615\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"0b2f0b55-cbae-4e68-a260-d40c49e6972f\" value=\"API Response:&#xa;Send Session&#xa;ID (Server&#xa;to Client)\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"1\" source=\"3b39bc21-dd92-4b21-a2b7-d60aeefe5f37\" target=\"a3c76fb4-aba9-43c4-abdb-654005591f00\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"9975\" y=\"3475.1937756081097\" />\n              <mxPoint x=\"9975\" y=\"3453.5025780744995\" />\n              <mxPoint x=\"10720\" y=\"3453.5025780744986\" />\n              <mxPoint x=\"10720\" y=\"4524.571397560312\" />\n              <mxPoint x=\"100\" y=\"4524.571397560312\" />\n              <mxPoint x=\"100\" y=\"1546.7493719100753\" />\n              <mxPoint x=\"450\" y=\"1546.7493719100753\" />\n              <mxPoint x=\"450\" y=\"2126.1338849419512\" />\n              <mxPoint x=\"1950\" y=\"2126.1338849419512\" />\n              <mxPoint x=\"1950\" y=\"3866.6446415690257\" />\n              <mxPoint x=\"4305\" y=\"3866.644641569025\" />\n              <mxPoint x=\"4305\" y=\"3691.439848905983\" />\n              <mxPoint x=\"4665\" y=\"3691.4398489059836\" />\n              <mxPoint x=\"4665\" y=\"3689.571397560313\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"fdb45622-6b99-42c1-8614-a3b6363d68cf\" value=\"Server: Order&#xa;controller receives&#xa;request\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"1\" source=\"711e10ef-8363-4cb8-b13d-2ecbec1b8d98\" target=\"3234e8d9-ce8f-45fd-a962-fbdd66bb07a4\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"5530\" y=\"3935.741783992224\" />\n              <mxPoint x=\"5530\" y=\"3350.528286510615\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"92e5bf6f-747c-4b66-b4f2-e990d23fe214\" value=\"Server: Creates&#xa;order and&#xa;responds to&#xa;client\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"1\" source=\"3234e8d9-ce8f-45fd-a962-fbdd66bb07a4\" target=\"8efbd567-adad-434c-9db2-466ce750a9b4\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"8296\" y=\"3350.5282865106155\" />\n              <mxPoint x=\"8296\" y=\"3376.134381913095\" />\n              <mxPoint x=\"9975\" y=\"3376.1343819130952\" />\n              <mxPoint x=\"9975\" y=\"3358.4947212534257\" />\n              <mxPoint x=\"10750\" y=\"3358.494721253425\" />\n              <mxPoint x=\"10750\" y=\"69.99999999999955\" />\n              <mxPoint x=\"70\" y=\"69.99999999999955\" />\n              <mxPoint x=\"70\" y=\"2177.1338849419512\" />\n              <mxPoint x=\"1940\" y=\"2177.1338849419512\" />\n              <mxPoint x=\"1940\" y=\"3917.6446415690257\" />\n              <mxPoint x=\"4315\" y=\"3917.644641569025\" />\n              <mxPoint x=\"4315\" y=\"3819.5713975603126\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"83b7b7f7-00ee-4987-8aef-6b808e4d1e7a\" value=\"API Call:&#xa;Requesting Products\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"1\" source=\"d03fe84d-cf14-43a3-99bf-6da741d2a857\" target=\"93a9e193-2e23-4c26-b85f-69350154f45d\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3425\" y=\"3565.6462367862378\" />\n              <mxPoint x=\"3425\" y=\"3550.09658577631\" />\n              <mxPoint x=\"4285\" y=\"3550.0965857763094\" />\n              <mxPoint x=\"4285\" y=\"3182.8230169549033\" />\n              <mxPoint x=\"5840\" y=\"3182.8230169549042\" />\n              <mxPoint x=\"5840\" y=\"2653.754117816069\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"d3d20e81-29db-4674-be65-0b6fdfc84ca3\" value=\"API Call:&#xa;Receiving Product&#xa;Data\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"1\" source=\"93a9e193-2e23-4c26-b85f-69350154f45d\" target=\"04a2ef31-1ed9-4100-ac9c-79af1d932a91\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"7350\" y=\"2653.75411781607\" />\n              <mxPoint x=\"7350\" y=\"2911.95880911744\" />\n              <mxPoint x=\"9975\" y=\"2911.958809117441\" />\n              <mxPoint x=\"9975\" y=\"3046.8940243133866\" />\n              <mxPoint x=\"10730\" y=\"3046.8940243133866\" />\n              <mxPoint x=\"10730\" y=\"170\" />\n              <mxPoint x=\"90\" y=\"170\" />\n              <mxPoint x=\"90\" y=\"1339.0133659741255\" />\n              <mxPoint x=\"470\" y=\"1339.0133659741255\" />\n              <mxPoint x=\"470\" y=\"1922.6208598868889\" />\n              <mxPoint x=\"1970\" y=\"1922.6208598868889\" />\n              <mxPoint x=\"1970\" y=\"3412.823494331641\" />\n              <mxPoint x=\"3010\" y=\"3412.82349433164\" />\n              <mxPoint x=\"3010\" y=\"3435.646236786238\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"8bc9f770-a6df-413b-862a-0c5f704c2c5d\" value=\"API Call:&#xa;Fetch Specific&#xa;Item\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"1\" source=\"76289a0c-6110-4749-91a3-7eb04b7164dc\" target=\"d4601dbc-b6b3-47f8-9db6-f1af94b20d46\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3035\" y=\"2745.2471015249994\" />\n              <mxPoint x=\"3035\" y=\"2734.747947877585\" />\n              <mxPoint x=\"4265\" y=\"2734.7479478775845\" />\n              <mxPoint x=\"4265\" y=\"2994.6262871743643\" />\n              <mxPoint x=\"5570\" y=\"2994.626287174365\" />\n              <mxPoint x=\"5570\" y=\"2410.46275959294\" />\n              <mxPoint x=\"5840\" y=\"2410.46275959294\" />\n              <mxPoint x=\"5840\" y=\"2031.8793971061168\" />\n              <mxPoint x=\"6075\" y=\"2031.879397106117\" />\n              <mxPoint x=\"6075\" y=\"2031.869817282068\" />\n              <mxPoint x=\"6250\" y=\"2031.8698172820673\" />\n              <mxPoint x=\"6250\" y=\"2030.9195303884367\" />\n              <mxPoint x=\"6425\" y=\"2030.9195303884371\" />\n              <mxPoint x=\"6425\" y=\"2029.95880911744\" />\n              <mxPoint x=\"8920\" y=\"2029.95880911744\" />\n              <mxPoint x=\"8920\" y=\"2235.454013821691\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"18e6c6d3-98f4-492f-bb40-fad16ee2eb73\" value=\"Frontend: Receive&#xa;Item Data&#xa;and Update&#xa;State\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"1\" source=\"ca329401-d0e5-415c-8e44-c15a0b7288c6\" target=\"25cad689-ee9c-40d1-8eb2-b6c718ccd8ec\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"8910\" y=\"2575.9588091174405\" />\n              <mxPoint x=\"8910\" y=\"2600.4540138216917\" />\n              <mxPoint x=\"9975\" y=\"2600.454013821692\" />\n              <mxPoint x=\"9975\" y=\"2575.8940243133875\" />\n              <mxPoint x=\"10720\" y=\"2575.8940243133866\" />\n              <mxPoint x=\"10720\" y=\"220\" />\n              <mxPoint x=\"100\" y=\"220\" />\n              <mxPoint x=\"100\" y=\"967.0955182448743\" />\n              <mxPoint x=\"275\" y=\"967.0955182448747\" />\n              <mxPoint x=\"275\" y=\"966.4090320882156\" />\n              <mxPoint x=\"480\" y=\"966.4090320882151\" />\n              <mxPoint x=\"480\" y=\"1550\" />\n              <mxPoint x=\"1990\" y=\"1550\" />\n              <mxPoint x=\"1990\" y=\"2615.2471015250003\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"689fa3b7-7724-40fe-8e62-e78e05b072ef\" value=\"HTTP Redirect&#xa;from Stripe\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"1\" source=\"ce385176-c2e8-4cad-8502-b7d6286f873e\" target=\"e105b1de-53fb-4ff3-acb2-5134a6094db2\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"9975\" y=\"3277.9588091174405\" />\n              <mxPoint x=\"9975\" y=\"3264.314842962566\" />\n              <mxPoint x=\"10740\" y=\"3264.3148429625658\" />\n              <mxPoint x=\"10740\" y=\"119.99999999999955\" />\n              <mxPoint x=\"80\" y=\"119.99999999999955\" />\n              <mxPoint x=\"80\" y=\"1495.8161368675896\" />\n              <mxPoint x=\"460\" y=\"1495.8161368675896\" />\n              <mxPoint x=\"460\" y=\"2075.1338849419512\" />\n              <mxPoint x=\"1960\" y=\"2075.1338849419512\" />\n              <mxPoint x=\"1960\" y=\"3815.6446415690257\" />\n              <mxPoint x=\"4295\" y=\"3815.644641569025\" />\n              <mxPoint x=\"4295\" y=\"3420.0897125097026\" />\n              <mxPoint x=\"4490\" y=\"3420.0897125097026\" />\n              <mxPoint x=\"4490\" y=\"3419.571397560312\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"drawioXML": "<mxfile>\n  <diagram id=\"IatxN4LOcJrkwJ0-k1Nd\" name=\"Page-1\">\n    <mxGraphModel dx=\"1886\" dy=\"958\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"0\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" parent=\"0\" />\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
 	"fileName": "react-ecommerce.CodeCanvas",
-	"fileURL": "github",
+	"fileURL": "https://raw.githubusercontent.com/Abdulnaser97/react-ecommerce/diagram-nov/react-ecommerce.CodeCanvas",
 	"diagramTemplateVersion": 0.2,
 	"filePath": "react-ecommerce.CodeCanvas",
 	"repoData": {
@@ -502,18 +502,21 @@
 		},
 		"62c447bd-04ee-4b9b-9cbe-22f3267d6a7d": {
 			"path": "62c447bd-04ee-4b9b-9cbe-22f3267d6a7d",
+			"fileName": "62c447bd-04ee-4b9b-9cbe-22f3267d6a7d",
 			"cellName": "client",
 			"cellId": "62c447bd-04ee-4b9b-9cbe-22f3267d6a7d",
 			"visible": true
 		},
 		"83a25e92-1482-4c29-b2db-35348f007e08": {
 			"path": "83a25e92-1482-4c29-b2db-35348f007e08",
+			"fileName": "83a25e92-1482-4c29-b2db-35348f007e08",
 			"cellName": "server",
 			"cellId": "83a25e92-1482-4c29-b2db-35348f007e08",
 			"visible": true
 		},
 		"b0b7bbbb-30e7-4c04-aced-83c977826ebf": {
 			"path": "b0b7bbbb-30e7-4c04-aced-83c977826ebf",
+			"fileName": "b0b7bbbb-30e7-4c04-aced-83c977826ebf",
 			"cellName": "src",
 			"cellId": "b0b7bbbb-30e7-4c04-aced-83c977826ebf",
 			"visible": true,
@@ -521,6 +524,7 @@
 		},
 		"c5e9b7f3-8bce-4a5e-a3a6-4a16b8f7fb67": {
 			"path": "c5e9b7f3-8bce-4a5e-a3a6-4a16b8f7fb67",
+			"fileName": "c5e9b7f3-8bce-4a5e-a3a6-4a16b8f7fb67",
 			"cellName": "src",
 			"cellId": "c5e9b7f3-8bce-4a5e-a3a6-4a16b8f7fb67",
 			"visible": true,
@@ -528,6 +532,7 @@
 		},
 		"eda5eb23-0bb6-4a6a-a637-9b28d8005460": {
 			"path": "eda5eb23-0bb6-4a6a-a637-9b28d8005460",
+			"fileName": "eda5eb23-0bb6-4a6a-a637-9b28d8005460",
 			"cellName": "scenes",
 			"cellId": "eda5eb23-0bb6-4a6a-a637-9b28d8005460",
 			"visible": true,
@@ -535,6 +540,7 @@
 		},
 		"c239ccd6-a879-46d7-8876-4cae2c2ab59a": {
 			"path": "c239ccd6-a879-46d7-8876-4cae2c2ab59a",
+			"fileName": "c239ccd6-a879-46d7-8876-4cae2c2ab59a",
 			"cellName": "App.js",
 			"cellId": "c239ccd6-a879-46d7-8876-4cae2c2ab59a",
 			"visible": true,
@@ -542,6 +548,7 @@
 		},
 		"4a8083d2-d395-4cf6-b0a0-85b361111a15": {
 			"path": "4a8083d2-d395-4cf6-b0a0-85b361111a15",
+			"fileName": "4a8083d2-d395-4cf6-b0a0-85b361111a15",
 			"cellName": "api",
 			"cellId": "4a8083d2-d395-4cf6-b0a0-85b361111a15",
 			"visible": true,
@@ -549,6 +556,7 @@
 		},
 		"2928da38-6d70-4389-a940-6f0b39a44bda": {
 			"path": "2928da38-6d70-4389-a940-6f0b39a44bda",
+			"fileName": "2928da38-6d70-4389-a940-6f0b39a44bda",
 			"cellName": "global",
 			"cellId": "2928da38-6d70-4389-a940-6f0b39a44bda",
 			"visible": true,
@@ -556,6 +564,7 @@
 		},
 		"8bf9444c-f59b-4685-bdbc-6ca0a2215013": {
 			"path": "8bf9444c-f59b-4685-bdbc-6ca0a2215013",
+			"fileName": "8bf9444c-f59b-4685-bdbc-6ca0a2215013",
 			"cellName": "checkout",
 			"cellId": "8bf9444c-f59b-4685-bdbc-6ca0a2215013",
 			"visible": true,
@@ -563,6 +572,7 @@
 		},
 		"9cf8951e-697e-40dd-8a2c-dc7773e83622": {
 			"path": "9cf8951e-697e-40dd-8a2c-dc7773e83622",
+			"fileName": "9cf8951e-697e-40dd-8a2c-dc7773e83622",
 			"cellName": "order",
 			"cellId": "9cf8951e-697e-40dd-8a2c-dc7773e83622",
 			"visible": true,
@@ -570,6 +580,7 @@
 		},
 		"1740e0d7-3a8b-4ec2-9d57-72621bd1f0ee": {
 			"path": "1740e0d7-3a8b-4ec2-9d57-72621bd1f0ee",
+			"fileName": "1740e0d7-3a8b-4ec2-9d57-72621bd1f0ee",
 			"cellName": "CartMenu.jsx",
 			"cellId": "1740e0d7-3a8b-4ec2-9d57-72621bd1f0ee",
 			"visible": true,
@@ -577,6 +588,7 @@
 		},
 		"25849a7f-3883-4c43-b929-7a9a98c81dd7": {
 			"path": "25849a7f-3883-4c43-b929-7a9a98c81dd7",
+			"fileName": "25849a7f-3883-4c43-b929-7a9a98c81dd7",
 			"cellName": "Checkout.jsx",
 			"cellId": "25849a7f-3883-4c43-b929-7a9a98c81dd7",
 			"visible": true,
@@ -584,6 +596,7 @@
 		},
 		"695b21b4-5607-46b8-973f-7af4cfb189c5": {
 			"path": "695b21b4-5607-46b8-973f-7af4cfb189c5",
+			"fileName": "695b21b4-5607-46b8-973f-7af4cfb189c5",
 			"cellName": "controllers",
 			"cellId": "695b21b4-5607-46b8-973f-7af4cfb189c5",
 			"visible": true,
@@ -591,6 +604,7 @@
 		},
 		"6d88f2db-aca8-44bd-8d98-9f0a4d9d2116": {
 			"path": "6d88f2db-aca8-44bd-8d98-9f0a4d9d2116",
+			"fileName": "6d88f2db-aca8-44bd-8d98-9f0a4d9d2116",
 			"cellName": "order.js",
 			"cellId": "6d88f2db-aca8-44bd-8d98-9f0a4d9d2116",
 			"visible": true,
@@ -598,6 +612,7 @@
 		},
 		"0f9d3ba6-7801-470c-ab9b-8c4d20840a4a": {
 			"path": "0f9d3ba6-7801-470c-ab9b-8c4d20840a4a",
+			"fileName": "0f9d3ba6-7801-470c-ab9b-8c4d20840a4a",
 			"cellName": "User Initiates Checkout - CartMenu.jsx:L136-139",
 			"cellId": "0f9d3ba6-7801-470c-ab9b-8c4d20840a4a",
 			"visible": true,
@@ -623,6 +638,7 @@
 		},
 		"3d16e06d-e704-4c2d-bb8b-fd78935a74f6": {
 			"path": "3d16e06d-e704-4c2d-bb8b-fd78935a74f6",
+			"fileName": "3d16e06d-e704-4c2d-bb8b-fd78935a74f6",
 			"cellName": "Render Checkout Component - Checkout.jsx:L72-143",
 			"cellId": "3d16e06d-e704-4c2d-bb8b-fd78935a74f6",
 			"visible": true,
@@ -648,6 +664,7 @@
 		},
 		"1905fe94-c08c-4ab5-90d3-37ffea620696": {
 			"path": "1905fe94-c08c-4ab5-90d3-37ffea620696",
+			"fileName": "1905fe94-c08c-4ab5-90d3-37ffea620696",
 			"cellName": "Client: Prepare Order Data - Checkout.jsx:L41-48",
 			"cellId": "1905fe94-c08c-4ab5-90d3-37ffea620696",
 			"visible": true,
@@ -673,6 +690,7 @@
 		},
 		"50225a59-ab5a-42bb-81ff-25025301fee3": {
 			"path": "50225a59-ab5a-42bb-81ff-25025301fee3",
+			"fileName": "50225a59-ab5a-42bb-81ff-25025301fee3",
 			"cellName": "Server: Receive Order and Prepare Line Items - order.js:L12-32",
 			"cellId": "50225a59-ab5a-42bb-81ff-25025301fee3",
 			"visible": true,
@@ -698,6 +716,7 @@
 		},
 		"3b39bc21-dd92-4b21-a2b7-d60aeefe5f37": {
 			"path": "3b39bc21-dd92-4b21-a2b7-d60aeefe5f37",
+			"fileName": "3b39bc21-dd92-4b21-a2b7-d60aeefe5f37",
 			"cellName": "Server: Save Order and Respond - order.js:L45-50",
 			"cellId": "3b39bc21-dd92-4b21-a2b7-d60aeefe5f37",
 			"visible": true,
@@ -723,6 +742,7 @@
 		},
 		"a3c76fb4-aba9-43c4-abdb-654005591f00": {
 			"path": "a3c76fb4-aba9-43c4-abdb-654005591f00",
+			"fileName": "a3c76fb4-aba9-43c4-abdb-654005591f00",
 			"cellName": "Client: Redirect to Stripe Checkout - Checkout.jsx:L56-58",
 			"cellId": "a3c76fb4-aba9-43c4-abdb-654005591f00",
 			"visible": true,
@@ -748,6 +768,7 @@
 		},
 		"41e96a57-7a3f-4377-bcee-64d284bb339d": {
 			"path": "41e96a57-7a3f-4377-bcee-64d284bb339d",
+			"fileName": "41e96a57-7a3f-4377-bcee-64d284bb339d",
 			"cellName": "Routing to\nCheckout Page",
 			"cellId": "41e96a57-7a3f-4377-bcee-64d284bb339d",
 			"visible": true,
@@ -772,6 +793,7 @@
 		},
 		"3d727ce6-ffdb-44dd-ae0a-fe0bbb78b851": {
 			"path": "3d727ce6-ffdb-44dd-ae0a-fe0bbb78b851",
+			"fileName": "3d727ce6-ffdb-44dd-ae0a-fe0bbb78b851",
 			"cellName": "Form Submission",
 			"cellId": "3d727ce6-ffdb-44dd-ae0a-fe0bbb78b851",
 			"visible": true,
@@ -796,6 +818,7 @@
 		},
 		"d0b41668-30c1-414a-92c0-dcf1058f2944": {
 			"path": "d0b41668-30c1-414a-92c0-dcf1058f2944",
+			"fileName": "d0b41668-30c1-414a-92c0-dcf1058f2944",
 			"cellName": "API Call:\nCreate Order\n(Client to\nServer)",
 			"cellId": "d0b41668-30c1-414a-92c0-dcf1058f2944",
 			"visible": true
@@ -819,6 +842,7 @@
 		},
 		"7495b1fe-1874-4a48-9507-7d2957959e69": {
 			"path": "7495b1fe-1874-4a48-9507-7d2957959e69",
+			"fileName": "7495b1fe-1874-4a48-9507-7d2957959e69",
 			"cellName": "External API\nCall: Create\nStripe Session",
 			"cellId": "7495b1fe-1874-4a48-9507-7d2957959e69",
 			"visible": true,
@@ -843,6 +867,7 @@
 		},
 		"0b2f0b55-cbae-4e68-a260-d40c49e6972f": {
 			"path": "0b2f0b55-cbae-4e68-a260-d40c49e6972f",
+			"fileName": "0b2f0b55-cbae-4e68-a260-d40c49e6972f",
 			"cellName": "API Response:\nSend Session\nID (Server\nto Client)",
 			"cellId": "0b2f0b55-cbae-4e68-a260-d40c49e6972f",
 			"visible": true
@@ -866,6 +891,7 @@
 		},
 		"ae68f506-88fb-44e8-8300-00ee301da768": {
 			"path": "ae68f506-88fb-44e8-8300-00ee301da768",
+			"fileName": "ae68f506-88fb-44e8-8300-00ee301da768",
 			"cellName": "components",
 			"cellId": "ae68f506-88fb-44e8-8300-00ee301da768",
 			"visible": true,
@@ -873,6 +899,7 @@
 		},
 		"a6f7206d-bfc6-42ac-9d70-b0a3d08202a6": {
 			"path": "a6f7206d-bfc6-42ac-9d70-b0a3d08202a6",
+			"fileName": "a6f7206d-bfc6-42ac-9d70-b0a3d08202a6",
 			"cellName": "state",
 			"cellId": "a6f7206d-bfc6-42ac-9d70-b0a3d08202a6",
 			"visible": true,
@@ -880,6 +907,7 @@
 		},
 		"b6cdedae-e9b8-45a1-ba92-1fc64849c661": {
 			"path": "b6cdedae-e9b8-45a1-ba92-1fc64849c661",
+			"fileName": "b6cdedae-e9b8-45a1-ba92-1fc64849c661",
 			"cellName": "Item.jsx",
 			"cellId": "b6cdedae-e9b8-45a1-ba92-1fc64849c661",
 			"visible": true,
@@ -887,6 +915,7 @@
 		},
 		"add9f6ae-dc08-4989-a8bc-d660a9eb9ec2": {
 			"path": "add9f6ae-dc08-4989-a8bc-d660a9eb9ec2",
+			"fileName": "add9f6ae-dc08-4989-a8bc-d660a9eb9ec2",
 			"cellName": "index.js",
 			"cellId": "add9f6ae-dc08-4989-a8bc-d660a9eb9ec2",
 			"visible": true,
@@ -894,6 +923,7 @@
 		},
 		"cded7460-06c0-4dc4-baef-c7073f5a4f80": {
 			"path": "cded7460-06c0-4dc4-baef-c7073f5a4f80",
+			"fileName": "cded7460-06c0-4dc4-baef-c7073f5a4f80",
 			"cellName": "Navbar.jsx",
 			"cellId": "cded7460-06c0-4dc4-baef-c7073f5a4f80",
 			"visible": true,
@@ -901,6 +931,7 @@
 		},
 		"526e6712-7b9f-4029-90bd-f941ab3556b7": {
 			"path": "526e6712-7b9f-4029-90bd-f941ab3556b7",
+			"fileName": "526e6712-7b9f-4029-90bd-f941ab3556b7",
 			"cellName": "Add to Cart: User clicks 'Add to Cart' - Item.jsx:L68-76",
 			"cellId": "526e6712-7b9f-4029-90bd-f941ab3556b7",
 			"visible": true,
@@ -926,6 +957,7 @@
 		},
 		"30cbe42e-afc7-402d-844e-943dd4907a38": {
 			"path": "30cbe42e-afc7-402d-844e-943dd4907a38",
+			"fileName": "30cbe42e-afc7-402d-844e-943dd4907a38",
 			"cellName": "Add to Cart: Redux `addToCart` reducer updates state - index.js:L17-19",
 			"cellId": "30cbe42e-afc7-402d-844e-943dd4907a38",
 			"visible": true,
@@ -951,6 +983,7 @@
 		},
 		"a655e735-a9c2-487c-98cc-96b8a729f369": {
 			"path": "a655e735-a9c2-487c-98cc-96b8a729f369",
+			"fileName": "a655e735-a9c2-487c-98cc-96b8a729f369",
 			"cellName": "Add to Cart: Navbar badge updates - Navbar.jsx:L57-70",
 			"cellId": "a655e735-a9c2-487c-98cc-96b8a729f369",
 			"visible": true,
@@ -976,6 +1009,7 @@
 		},
 		"fdd3de87-b5f3-4732-a78d-bf4398f1710a": {
 			"path": "fdd3de87-b5f3-4732-a78d-bf4398f1710a",
+			"fileName": "fdd3de87-b5f3-4732-a78d-bf4398f1710a",
 			"cellName": "View Cart: `setIsCartOpen` action dispatched - index.js:L43-45",
 			"cellId": "fdd3de87-b5f3-4732-a78d-bf4398f1710a",
 			"visible": true,
@@ -1001,6 +1035,7 @@
 		},
 		"cea8dcd6-d950-4520-86c4-c0db8a6c5cdb": {
 			"path": "cea8dcd6-d950-4520-86c4-c0db8a6c5cdb",
+			"fileName": "cea8dcd6-d950-4520-86c4-c0db8a6c5cdb",
 			"cellName": "View Cart: CartMenu becomes visible and renders items - CartMenu.jsx:L63-118",
 			"cellId": "cea8dcd6-d950-4520-86c4-c0db8a6c5cdb",
 			"visible": true,
@@ -1026,6 +1061,7 @@
 		},
 		"84124dc8-5e32-4475-8554-2b8ccffc241a": {
 			"path": "84124dc8-5e32-4475-8554-2b8ccffc241a",
+			"fileName": "84124dc8-5e32-4475-8554-2b8ccffc241a",
 			"cellName": "Update Cart: Redux reducer updates item count - index.js:L25-32",
 			"cellId": "84124dc8-5e32-4475-8554-2b8ccffc241a",
 			"visible": true,
@@ -1051,6 +1087,7 @@
 		},
 		"1b235f5f-96e1-4b12-a1f3-bda74a8461c9": {
 			"path": "1b235f5f-96e1-4b12-a1f3-bda74a8461c9",
+			"fileName": "1b235f5f-96e1-4b12-a1f3-bda74a8461c9",
 			"cellName": "Checkout: `Checkout` component renders - Checkout.jsx:L17",
 			"cellId": "1b235f5f-96e1-4b12-a1f3-bda74a8461c9",
 			"visible": true,
@@ -1076,6 +1113,7 @@
 		},
 		"711e10ef-8363-4cb8-b13d-2ecbec1b8d98": {
 			"path": "711e10ef-8363-4cb8-b13d-2ecbec1b8d98",
+			"fileName": "711e10ef-8363-4cb8-b13d-2ecbec1b8d98",
 			"cellName": "Checkout: API request is sent to create order - Checkout.jsx:L1-21",
 			"cellId": "711e10ef-8363-4cb8-b13d-2ecbec1b8d98",
 			"visible": true,
@@ -1101,6 +1139,7 @@
 		},
 		"3234e8d9-ce8f-45fd-a962-fbdd66bb07a4": {
 			"path": "3234e8d9-ce8f-45fd-a962-fbdd66bb07a4",
+			"fileName": "3234e8d9-ce8f-45fd-a962-fbdd66bb07a4",
 			"cellName": "Server: Fetches item details and creates Stripe session - order.js:L15-42",
 			"cellId": "3234e8d9-ce8f-45fd-a962-fbdd66bb07a4",
 			"visible": true,
@@ -1126,6 +1165,7 @@
 		},
 		"8efbd567-adad-434c-9db2-466ce750a9b4": {
 			"path": "8efbd567-adad-434c-9db2-466ce750a9b4",
+			"fileName": "8efbd567-adad-434c-9db2-466ce750a9b4",
 			"cellName": "Checkout: Client redirects to Stripe - Checkout.jsx:L1-21",
 			"cellId": "8efbd567-adad-434c-9db2-466ce750a9b4",
 			"visible": true,
@@ -1151,6 +1191,7 @@
 		},
 		"0d4d9828-a18c-496f-aa0a-2bf339b0cc63": {
 			"path": "0d4d9828-a18c-496f-aa0a-2bf339b0cc63",
+			"fileName": "0d4d9828-a18c-496f-aa0a-2bf339b0cc63",
 			"cellName": "Add to\nCart: Dispatch\n`addToCart` action\nto Redux\nstore",
 			"cellId": "0d4d9828-a18c-496f-aa0a-2bf339b0cc63",
 			"visible": true,
@@ -1175,6 +1216,7 @@
 		},
 		"458cc18a-21b9-4db9-8278-a9e3ad071a75": {
 			"path": "458cc18a-21b9-4db9-8278-a9e3ad071a75",
+			"fileName": "458cc18a-21b9-4db9-8278-a9e3ad071a75",
 			"cellName": "Add to\nCart: State\nchange propagates\nto components",
 			"cellId": "458cc18a-21b9-4db9-8278-a9e3ad071a75",
 			"visible": true,
@@ -1199,6 +1241,7 @@
 		},
 		"253cb2be-9343-42ee-9954-e82b4eb420e2": {
 			"path": "253cb2be-9343-42ee-9954-e82b4eb420e2",
+			"fileName": "253cb2be-9343-42ee-9954-e82b4eb420e2",
 			"cellName": "View Cart:\nUser clicks\nshopping bag\nicon",
 			"cellId": "253cb2be-9343-42ee-9954-e82b4eb420e2",
 			"visible": true,
@@ -1223,6 +1266,7 @@
 		},
 		"454e98c8-e609-40f3-b734-4cc204d52a9b": {
 			"path": "454e98c8-e609-40f3-b734-4cc204d52a9b",
+			"fileName": "454e98c8-e609-40f3-b734-4cc204d52a9b",
 			"cellName": "View Cart:\nState change\npropagates to\nCartMenu",
 			"cellId": "454e98c8-e609-40f3-b734-4cc204d52a9b",
 			"visible": true,
@@ -1247,6 +1291,7 @@
 		},
 		"c3ef6380-83f7-4541-b7da-c0c0c54b4ecb": {
 			"path": "c3ef6380-83f7-4541-b7da-c0c0c54b4ecb",
+			"fileName": "c3ef6380-83f7-4541-b7da-c0c0c54b4ecb",
 			"cellName": "Update Cart:\nUser interacts\nwith cart\nitem",
 			"cellId": "c3ef6380-83f7-4541-b7da-c0c0c54b4ecb",
 			"visible": true,
@@ -1271,6 +1316,7 @@
 		},
 		"9123cc8f-254c-4d3f-8783-03015734cb88": {
 			"path": "9123cc8f-254c-4d3f-8783-03015734cb88",
+			"fileName": "9123cc8f-254c-4d3f-8783-03015734cb88",
 			"cellName": "Checkout: User\nclicks checkout\nbutton",
 			"cellId": "9123cc8f-254c-4d3f-8783-03015734cb88",
 			"visible": true,
@@ -1295,6 +1341,7 @@
 		},
 		"098dfae0-5f52-4f2e-a125-0c2ac4947953": {
 			"path": "098dfae0-5f52-4f2e-a125-0c2ac4947953",
+			"fileName": "098dfae0-5f52-4f2e-a125-0c2ac4947953",
 			"cellName": "Checkout: `makePayment`\nfunction is\ncalled",
 			"cellId": "098dfae0-5f52-4f2e-a125-0c2ac4947953",
 			"visible": true,
@@ -1319,6 +1366,7 @@
 		},
 		"fdb45622-6b99-42c1-8614-a3b6363d68cf": {
 			"path": "fdb45622-6b99-42c1-8614-a3b6363d68cf",
+			"fileName": "fdb45622-6b99-42c1-8614-a3b6363d68cf",
 			"cellName": "Server: Order\ncontroller receives\nrequest",
 			"cellId": "fdb45622-6b99-42c1-8614-a3b6363d68cf",
 			"visible": true
@@ -1342,6 +1390,7 @@
 		},
 		"92e5bf6f-747c-4b66-b4f2-e990d23fe214": {
 			"path": "92e5bf6f-747c-4b66-b4f2-e990d23fe214",
+			"fileName": "92e5bf6f-747c-4b66-b4f2-e990d23fe214",
 			"cellName": "Server: Creates\norder and\nresponds to\nclient",
 			"cellId": "92e5bf6f-747c-4b66-b4f2-e990d23fe214",
 			"visible": true
@@ -1365,6 +1414,7 @@
 		},
 		"099924a9-10af-4cfe-b0aa-fff142690385": {
 			"path": "099924a9-10af-4cfe-b0aa-fff142690385",
+			"fileName": "099924a9-10af-4cfe-b0aa-fff142690385",
 			"cellName": "home",
 			"cellId": "099924a9-10af-4cfe-b0aa-fff142690385",
 			"visible": true,
@@ -1372,6 +1422,7 @@
 		},
 		"f26ffcc8-0dcc-4eca-b751-680f6750c88c": {
 			"path": "f26ffcc8-0dcc-4eca-b751-680f6750c88c",
+			"fileName": "f26ffcc8-0dcc-4eca-b751-680f6750c88c",
 			"cellName": "item",
 			"cellId": "f26ffcc8-0dcc-4eca-b751-680f6750c88c",
 			"visible": true,
@@ -1379,6 +1430,7 @@
 		},
 		"6571cb6e-ec9a-4829-880a-5ae491a330c2": {
 			"path": "6571cb6e-ec9a-4829-880a-5ae491a330c2",
+			"fileName": "6571cb6e-ec9a-4829-880a-5ae491a330c2",
 			"cellName": "Home.jsx",
 			"cellId": "6571cb6e-ec9a-4829-880a-5ae491a330c2",
 			"visible": true,
@@ -1386,6 +1438,7 @@
 		},
 		"9f2cb84f-8b64-4dea-bb26-e94f66511d2d": {
 			"path": "9f2cb84f-8b64-4dea-bb26-e94f66511d2d",
+			"fileName": "9f2cb84f-8b64-4dea-bb26-e94f66511d2d",
 			"cellName": "ShoppingList.jsx",
 			"cellId": "9f2cb84f-8b64-4dea-bb26-e94f66511d2d",
 			"visible": true,
@@ -1393,6 +1446,7 @@
 		},
 		"e354af95-3894-422d-abc7-39d5235030ea": {
 			"path": "e354af95-3894-422d-abc7-39d5235030ea",
+			"fileName": "e354af95-3894-422d-abc7-39d5235030ea",
 			"cellName": "content-types",
 			"cellId": "e354af95-3894-422d-abc7-39d5235030ea",
 			"visible": true,
@@ -1400,6 +1454,7 @@
 		},
 		"a8c77557-d140-4970-9823-8cc9c948dde7": {
 			"path": "a8c77557-d140-4970-9823-8cc9c948dde7",
+			"fileName": "a8c77557-d140-4970-9823-8cc9c948dde7",
 			"cellName": "item",
 			"cellId": "a8c77557-d140-4970-9823-8cc9c948dde7",
 			"visible": true,
@@ -1407,6 +1462,7 @@
 		},
 		"0f5f2131-5d4b-4e1c-a715-e11075bccbe9": {
 			"path": "0f5f2131-5d4b-4e1c-a715-e11075bccbe9",
+			"fileName": "0f5f2131-5d4b-4e1c-a715-e11075bccbe9",
 			"cellName": "schema.json",
 			"cellId": "0f5f2131-5d4b-4e1c-a715-e11075bccbe9",
 			"visible": true,
@@ -1414,6 +1470,7 @@
 		},
 		"4eb778c3-9bd4-408a-bdd0-865cd93b2ee6": {
 			"path": "4eb778c3-9bd4-408a-bdd0-865cd93b2ee6",
+			"fileName": "4eb778c3-9bd4-408a-bdd0-865cd93b2ee6",
 			"cellName": "Render Home Component - Home.jsx:L5-13",
 			"cellId": "4eb778c3-9bd4-408a-bdd0-865cd93b2ee6",
 			"visible": true,
@@ -1439,6 +1496,7 @@
 		},
 		"d03fe84d-cf14-43a3-99bf-6da741d2a857": {
 			"path": "d03fe84d-cf14-43a3-99bf-6da741d2a857",
+			"fileName": "d03fe84d-cf14-43a3-99bf-6da741d2a857",
 			"cellName": "Trigger Item Fetch on Mount - ShoppingList.jsx:L30-32",
 			"cellId": "d03fe84d-cf14-43a3-99bf-6da741d2a857",
 			"visible": true,
@@ -1464,6 +1522,7 @@
 		},
 		"93a9e193-2e23-4c26-b85f-69350154f45d": {
 			"path": "93a9e193-2e23-4c26-b85f-69350154f45d",
+			"fileName": "93a9e193-2e23-4c26-b85f-69350154f45d",
 			"cellName": "Backend: Process Request - schema.json:L1-50",
 			"cellId": "93a9e193-2e23-4c26-b85f-69350154f45d",
 			"visible": true,
@@ -1489,6 +1548,7 @@
 		},
 		"04a2ef31-1ed9-4100-ac9c-79af1d932a91": {
 			"path": "04a2ef31-1ed9-4100-ac9c-79af1d932a91",
+			"fileName": "04a2ef31-1ed9-4100-ac9c-79af1d932a91",
 			"cellName": "Dispatch 'setItems' Action - ShoppingList.jsx:L27",
 			"cellId": "04a2ef31-1ed9-4100-ac9c-79af1d932a91",
 			"visible": true,
@@ -1514,6 +1574,7 @@
 		},
 		"74099f40-fc13-431b-841e-5db8f5a5fb37": {
 			"path": "74099f40-fc13-431b-841e-5db8f5a5fb37",
+			"fileName": "74099f40-fc13-431b-841e-5db8f5a5fb37",
 			"cellName": "Update State in Redux Store - index.js:L13-15",
 			"cellId": "74099f40-fc13-431b-841e-5db8f5a5fb37",
 			"visible": true,
@@ -1539,6 +1600,7 @@
 		},
 		"6f692343-c5c7-4f56-a8cb-536f69272376": {
 			"path": "6f692343-c5c7-4f56-a8cb-536f69272376",
+			"fileName": "6f692343-c5c7-4f56-a8cb-536f69272376",
 			"cellName": "Render Products and Filters - ShoppingList.jsx:L76-91",
 			"cellId": "6f692343-c5c7-4f56-a8cb-536f69272376",
 			"visible": true,
@@ -1564,6 +1626,7 @@
 		},
 		"40d321dd-e838-4277-9a3d-6b450335154f": {
 			"path": "40d321dd-e838-4277-9a3d-6b450335154f",
+			"fileName": "40d321dd-e838-4277-9a3d-6b450335154f",
 			"cellName": "Update Filter State - ShoppingList.jsx:L17-19",
 			"cellId": "40d321dd-e838-4277-9a3d-6b450335154f",
 			"visible": true,
@@ -1589,6 +1652,7 @@
 		},
 		"32a6a39f-4cfa-4ce3-b9a6-dfba04c0c118": {
 			"path": "32a6a39f-4cfa-4ce3-b9a6-dfba04c0c118",
+			"fileName": "32a6a39f-4cfa-4ce3-b9a6-dfba04c0c118",
 			"cellName": "Render Filtered Products - ShoppingList.jsx:L80-83",
 			"cellId": "32a6a39f-4cfa-4ce3-b9a6-dfba04c0c118",
 			"visible": true,
@@ -1614,6 +1678,7 @@
 		},
 		"e517ab6d-e57d-498b-bf0f-5d7a278376ff": {
 			"path": "e517ab6d-e57d-498b-bf0f-5d7a278376ff",
+			"fileName": "e517ab6d-e57d-498b-bf0f-5d7a278376ff",
 			"cellName": "Mount ShoppingList\nComponent",
 			"cellId": "e517ab6d-e57d-498b-bf0f-5d7a278376ff",
 			"visible": true,
@@ -1638,6 +1703,7 @@
 		},
 		"83b7b7f7-00ee-4987-8aef-6b808e4d1e7a": {
 			"path": "83b7b7f7-00ee-4987-8aef-6b808e4d1e7a",
+			"fileName": "83b7b7f7-00ee-4987-8aef-6b808e4d1e7a",
 			"cellName": "API Call:\nRequesting Products",
 			"cellId": "83b7b7f7-00ee-4987-8aef-6b808e4d1e7a",
 			"visible": true
@@ -1661,6 +1727,7 @@
 		},
 		"d3d20e81-29db-4674-be65-0b6fdfc84ca3": {
 			"path": "d3d20e81-29db-4674-be65-0b6fdfc84ca3",
+			"fileName": "d3d20e81-29db-4674-be65-0b6fdfc84ca3",
 			"cellName": "API Call:\nReceiving Product\nData",
 			"cellId": "d3d20e81-29db-4674-be65-0b6fdfc84ca3",
 			"visible": true
@@ -1684,6 +1751,7 @@
 		},
 		"cc7edee1-3baa-4ecf-84c9-90a73bed5bd2": {
 			"path": "cc7edee1-3baa-4ecf-84c9-90a73bed5bd2",
+			"fileName": "cc7edee1-3baa-4ecf-84c9-90a73bed5bd2",
 			"cellName": "Data Flow\nto Redux\nStore",
 			"cellId": "cc7edee1-3baa-4ecf-84c9-90a73bed5bd2",
 			"visible": true,
@@ -1708,6 +1776,7 @@
 		},
 		"3b742c66-1780-4480-8469-20d8e2339cbc": {
 			"path": "3b742c66-1780-4480-8469-20d8e2339cbc",
+			"fileName": "3b742c66-1780-4480-8469-20d8e2339cbc",
 			"cellName": "Propagate State\nUpdate to\nComponent",
 			"cellId": "3b742c66-1780-4480-8469-20d8e2339cbc",
 			"visible": true,
@@ -1732,6 +1801,7 @@
 		},
 		"cfb16a78-2029-43b4-b59f-40ed807fd73b": {
 			"path": "cfb16a78-2029-43b4-b59f-40ed807fd73b",
+			"fileName": "cfb16a78-2029-43b4-b59f-40ed807fd73b",
 			"cellName": "User Selects\na Filter",
 			"cellId": "cfb16a78-2029-43b4-b59f-40ed807fd73b",
 			"visible": true,
@@ -1756,6 +1826,7 @@
 		},
 		"32387dd7-ed02-4fc6-9eb7-2a66347fd018": {
 			"path": "32387dd7-ed02-4fc6-9eb7-2a66347fd018",
+			"fileName": "32387dd7-ed02-4fc6-9eb7-2a66347fd018",
 			"cellName": "Re-render with\nNew State",
 			"cellId": "32387dd7-ed02-4fc6-9eb7-2a66347fd018",
 			"visible": true,
@@ -1780,6 +1851,7 @@
 		},
 		"f4660a54-2159-4854-9e09-5e1cc7c87ba2": {
 			"path": "f4660a54-2159-4854-9e09-5e1cc7c87ba2",
+			"fileName": "f4660a54-2159-4854-9e09-5e1cc7c87ba2",
 			"cellName": "itemDetails",
 			"cellId": "f4660a54-2159-4854-9e09-5e1cc7c87ba2",
 			"visible": true,
@@ -1787,6 +1859,7 @@
 		},
 		"2dc328a1-a18b-493c-b1d6-9c250acf0326": {
 			"path": "2dc328a1-a18b-493c-b1d6-9c250acf0326",
+			"fileName": "2dc328a1-a18b-493c-b1d6-9c250acf0326",
 			"cellName": "ItemDetails.jsx",
 			"cellId": "2dc328a1-a18b-493c-b1d6-9c250acf0326",
 			"visible": true,
@@ -1794,6 +1867,7 @@
 		},
 		"40e95fc5-f61c-44f5-98ce-cfee1a11053e": {
 			"path": "40e95fc5-f61c-44f5-98ce-cfee1a11053e",
+			"fileName": "40e95fc5-f61c-44f5-98ce-cfee1a11053e",
 			"cellName": "routes",
 			"cellId": "40e95fc5-f61c-44f5-98ce-cfee1a11053e",
 			"visible": true,
@@ -1801,6 +1875,7 @@
 		},
 		"208681a9-36c2-4874-a3bb-833d99c509ec": {
 			"path": "208681a9-36c2-4874-a3bb-833d99c509ec",
+			"fileName": "208681a9-36c2-4874-a3bb-833d99c509ec",
 			"cellName": "services",
 			"cellId": "208681a9-36c2-4874-a3bb-833d99c509ec",
 			"visible": true,
@@ -1808,6 +1883,7 @@
 		},
 		"0e47aa97-cf52-435e-887c-5af682df148e": {
 			"path": "0e47aa97-cf52-435e-887c-5af682df148e",
+			"fileName": "0e47aa97-cf52-435e-887c-5af682df148e",
 			"cellName": "controllers",
 			"cellId": "0e47aa97-cf52-435e-887c-5af682df148e",
 			"visible": true,
@@ -1815,6 +1891,7 @@
 		},
 		"c919deed-80a7-4587-b7b6-321e7c635d29": {
 			"path": "c919deed-80a7-4587-b7b6-321e7c635d29",
+			"fileName": "c919deed-80a7-4587-b7b6-321e7c635d29",
 			"cellName": "item.js",
 			"cellId": "c919deed-80a7-4587-b7b6-321e7c635d29",
 			"visible": true,
@@ -1822,6 +1899,7 @@
 		},
 		"353a742e-61ba-42c2-8a72-851519be8944": {
 			"path": "353a742e-61ba-42c2-8a72-851519be8944",
+			"fileName": "353a742e-61ba-42c2-8a72-851519be8944",
 			"cellName": "item.js",
 			"cellId": "353a742e-61ba-42c2-8a72-851519be8944",
 			"visible": true,
@@ -1829,6 +1907,7 @@
 		},
 		"da96d5ea-7cc3-4f39-9873-abb9d1e75759": {
 			"path": "da96d5ea-7cc3-4f39-9873-abb9d1e75759",
+			"fileName": "da96d5ea-7cc3-4f39-9873-abb9d1e75759",
 			"cellName": "item.js",
 			"cellId": "da96d5ea-7cc3-4f39-9873-abb9d1e75759",
 			"visible": true,
@@ -1836,6 +1915,7 @@
 		},
 		"b5800eda-04eb-4fd6-88ec-244f8d215b44": {
 			"path": "b5800eda-04eb-4fd6-88ec-244f8d215b44",
+			"fileName": "b5800eda-04eb-4fd6-88ec-244f8d215b44",
 			"cellName": "User Clicks on a Product - Item.jsx:L42",
 			"cellId": "b5800eda-04eb-4fd6-88ec-244f8d215b44",
 			"visible": true,
@@ -1861,6 +1941,7 @@
 		},
 		"a56912a0-962d-454c-afc1-718baa1a8750": {
 			"path": "a56912a0-962d-454c-afc1-718baa1a8750",
+			"fileName": "a56912a0-962d-454c-afc1-718baa1a8750",
 			"cellName": "Router Renders ItemDetails Component - App.js:L29",
 			"cellId": "a56912a0-962d-454c-afc1-718baa1a8750",
 			"visible": true,
@@ -1886,6 +1967,7 @@
 		},
 		"76289a0c-6110-4749-91a3-7eb04b7164dc": {
 			"path": "76289a0c-6110-4749-91a3-7eb04b7164dc",
+			"fileName": "76289a0c-6110-4749-91a3-7eb04b7164dc",
 			"cellName": "Trigger Data Fetch on Component Mount - ItemDetails.jsx:L48-51",
 			"cellId": "76289a0c-6110-4749-91a3-7eb04b7164dc",
 			"visible": true,
@@ -1911,6 +1993,7 @@
 		},
 		"d4601dbc-b6b3-47f8-9db6-f1af94b20d46": {
 			"path": "d4601dbc-b6b3-47f8-9db6-f1af94b20d46",
+			"fileName": "d4601dbc-b6b3-47f8-9db6-f1af94b20d46",
 			"cellName": "Backend: Route Item Request - item.js:L9",
 			"cellId": "d4601dbc-b6b3-47f8-9db6-f1af94b20d46",
 			"visible": true,
@@ -1936,6 +2019,7 @@
 		},
 		"ca329401-d0e5-415c-8e44-c15a0b7288c6": {
 			"path": "ca329401-d0e5-415c-8e44-c15a0b7288c6",
+			"fileName": "ca329401-d0e5-415c-8e44-c15a0b7288c6",
 			"cellName": "Backend: Send Item Data Response - item.js:L10",
 			"cellId": "ca329401-d0e5-415c-8e44-c15a0b7288c6",
 			"visible": true,
@@ -1961,6 +2045,7 @@
 		},
 		"25cad689-ee9c-40d1-8eb2-b6c718ccd8ec": {
 			"path": "25cad689-ee9c-40d1-8eb2-b6c718ccd8ec",
+			"fileName": "25cad689-ee9c-40d1-8eb2-b6c718ccd8ec",
 			"cellName": "API Call: Fetch All Items for 'Related Products' - ItemDetails.jsx:L37-43",
 			"cellId": "25cad689-ee9c-40d1-8eb2-b6c718ccd8ec",
 			"visible": true,
@@ -1986,6 +2071,7 @@
 		},
 		"3876fe0a-cf44-4ed6-a872-5f7dcf0c9513": {
 			"path": "3876fe0a-cf44-4ed6-a872-5f7dcf0c9513",
+			"fileName": "3876fe0a-cf44-4ed6-a872-5f7dcf0c9513",
 			"cellName": "Render Product Details UI - ItemDetails.jsx:L74-80",
 			"cellId": "3876fe0a-cf44-4ed6-a872-5f7dcf0c9513",
 			"visible": true,
@@ -2011,6 +2097,7 @@
 		},
 		"f6d723ea-41ee-4f8c-9022-9cc838f610ae": {
 			"path": "f6d723ea-41ee-4f8c-9022-9cc838f610ae",
+			"fileName": "f6d723ea-41ee-4f8c-9022-9cc838f610ae",
 			"cellName": "Dispatch 'addToCart' Action - ItemDetails.jsx:L106",
 			"cellId": "f6d723ea-41ee-4f8c-9022-9cc838f610ae",
 			"visible": true,
@@ -2036,6 +2123,7 @@
 		},
 		"3540b394-676e-4991-b8b6-e1818e151e9e": {
 			"path": "3540b394-676e-4991-b8b6-e1818e151e9e",
+			"fileName": "3540b394-676e-4991-b8b6-e1818e151e9e",
 			"cellName": "Update Cart State - index.js:L17-19",
 			"cellId": "3540b394-676e-4991-b8b6-e1818e151e9e",
 			"visible": true,
@@ -2061,6 +2149,7 @@
 		},
 		"07059715-3a3e-4cf3-bbaf-69e0e96fffcd": {
 			"path": "07059715-3a3e-4cf3-bbaf-69e0e96fffcd",
+			"fileName": "07059715-3a3e-4cf3-bbaf-69e0e96fffcd",
 			"cellName": "Navigate to\nItem Details\nPage",
 			"cellId": "07059715-3a3e-4cf3-bbaf-69e0e96fffcd",
 			"visible": true,
@@ -2085,6 +2174,7 @@
 		},
 		"36ed9556-3ca9-47de-8ae9-f3c8f7f5965d": {
 			"path": "36ed9556-3ca9-47de-8ae9-f3c8f7f5965d",
+			"fileName": "36ed9556-3ca9-47de-8ae9-f3c8f7f5965d",
 			"cellName": "Extract Item\nID from\nURL",
 			"cellId": "36ed9556-3ca9-47de-8ae9-f3c8f7f5965d",
 			"visible": true,
@@ -2109,6 +2199,7 @@
 		},
 		"8bc9f770-a6df-413b-862a-0c5f704c2c5d": {
 			"path": "8bc9f770-a6df-413b-862a-0c5f704c2c5d",
+			"fileName": "8bc9f770-a6df-413b-862a-0c5f704c2c5d",
 			"cellName": "API Call:\nFetch Specific\nItem",
 			"cellId": "8bc9f770-a6df-413b-862a-0c5f704c2c5d",
 			"visible": true
@@ -2132,6 +2223,7 @@
 		},
 		"9c08195f-ffec-4c97-8ec4-ff52752074ae": {
 			"path": "9c08195f-ffec-4c97-8ec4-ff52752074ae",
+			"fileName": "9c08195f-ffec-4c97-8ec4-ff52752074ae",
 			"cellName": "Backend: Fetch\nItem from\nDatabase",
 			"cellId": "9c08195f-ffec-4c97-8ec4-ff52752074ae",
 			"visible": true,
@@ -2156,6 +2248,7 @@
 		},
 		"18e6c6d3-98f4-492f-bb40-fad16ee2eb73": {
 			"path": "18e6c6d3-98f4-492f-bb40-fad16ee2eb73",
+			"fileName": "18e6c6d3-98f4-492f-bb40-fad16ee2eb73",
 			"cellName": "Frontend: Receive\nItem Data\nand Update\nState",
 			"cellId": "18e6c6d3-98f4-492f-bb40-fad16ee2eb73",
 			"visible": true
@@ -2179,6 +2272,7 @@
 		},
 		"347f4c57-d7cb-4cbf-8f71-e7cac0ac7567": {
 			"path": "347f4c57-d7cb-4cbf-8f71-e7cac0ac7567",
+			"fileName": "347f4c57-d7cb-4cbf-8f71-e7cac0ac7567",
 			"cellName": "Frontend: Receive\nAll Items\nand Update\nState",
 			"cellId": "347f4c57-d7cb-4cbf-8f71-e7cac0ac7567",
 			"visible": true,
@@ -2203,6 +2297,7 @@
 		},
 		"96ade993-524b-479c-b3ea-88de069e76c2": {
 			"path": "96ade993-524b-479c-b3ea-88de069e76c2",
+			"fileName": "96ade993-524b-479c-b3ea-88de069e76c2",
 			"cellName": "User Clicks\n'ADD TO\nCART'",
 			"cellId": "96ade993-524b-479c-b3ea-88de069e76c2",
 			"visible": true,
@@ -2227,6 +2322,7 @@
 		},
 		"84fd408b-d1db-441e-8f72-5c119e68f0a5": {
 			"path": "84fd408b-d1db-441e-8f72-5c119e68f0a5",
+			"fileName": "84fd408b-d1db-441e-8f72-5c119e68f0a5",
 			"cellName": "Action Handled\nby Redux\nReducer",
 			"cellId": "84fd408b-d1db-441e-8f72-5c119e68f0a5",
 			"visible": true,
@@ -2251,6 +2347,7 @@
 		},
 		"15399e3a-d627-4715-8abd-678b4a041071": {
 			"path": "15399e3a-d627-4715-8abd-678b4a041071",
+			"fileName": "15399e3a-d627-4715-8abd-678b4a041071",
 			"cellName": "config",
 			"cellId": "15399e3a-d627-4715-8abd-678b4a041071",
 			"visible": true,
@@ -2258,6 +2355,7 @@
 		},
 		"dc1f6a8b-fe5d-4f08-a638-60b2133c9884": {
 			"path": "dc1f6a8b-fe5d-4f08-a638-60b2133c9884",
+			"fileName": "dc1f6a8b-fe5d-4f08-a638-60b2133c9884",
 			"cellName": "admin.js",
 			"cellId": "dc1f6a8b-fe5d-4f08-a638-60b2133c9884",
 			"visible": true,
@@ -2265,6 +2363,7 @@
 		},
 		"d9ffbd3d-800d-4984-9042-dae849867d84": {
 			"path": "d9ffbd3d-800d-4984-9042-dae849867d84",
+			"fileName": "d9ffbd3d-800d-4984-9042-dae849867d84",
 			"cellName": "Product Schema Definition - schema.json:L1-50",
 			"cellId": "d9ffbd3d-800d-4984-9042-dae849867d84",
 			"visible": true,
@@ -2290,6 +2389,7 @@
 		},
 		"242c4691-e1d8-4c4b-a956-c4bdcfc49706": {
 			"path": "242c4691-e1d8-4c4b-a956-c4bdcfc49706",
+			"fileName": "242c4691-e1d8-4c4b-a956-c4bdcfc49706",
 			"cellName": "Core Service Instantiation - item.js:L9",
 			"cellId": "242c4691-e1d8-4c4b-a956-c4bdcfc49706",
 			"visible": true,
@@ -2315,6 +2415,7 @@
 		},
 		"bc97a358-9062-43f2-8ca9-34aa9dca2522": {
 			"path": "bc97a358-9062-43f2-8ca9-34aa9dca2522",
+			"fileName": "bc97a358-9062-43f2-8ca9-34aa9dca2522",
 			"cellName": "Core Controller Instantiation - item.js:L10",
 			"cellId": "bc97a358-9062-43f2-8ca9-34aa9dca2522",
 			"visible": true,
@@ -2340,6 +2441,7 @@
 		},
 		"7a4bcf87-b17b-4fc0-8a93-940566d91c8e": {
 			"path": "7a4bcf87-b17b-4fc0-8a93-940566d91c8e",
+			"fileName": "7a4bcf87-b17b-4fc0-8a93-940566d91c8e",
 			"cellName": "Core Router Instantiation - item.js:L9",
 			"cellId": "7a4bcf87-b17b-4fc0-8a93-940566d91c8e",
 			"visible": true,
@@ -2365,6 +2467,7 @@
 		},
 		"675cf906-d02b-4c4c-930b-62454153745d": {
 			"path": "675cf906-d02b-4c4c-930b-62454153745d",
+			"fileName": "675cf906-d02b-4c4c-930b-62454153745d",
 			"cellName": "Controller Handles Create Request - item.js:L10",
 			"cellId": "675cf906-d02b-4c4c-930b-62454153745d",
 			"visible": true,
@@ -2390,6 +2493,7 @@
 		},
 		"8c7c0202-24fa-474e-9631-22c4b307a7e0": {
 			"path": "8c7c0202-24fa-474e-9631-22c4b307a7e0",
+			"fileName": "8c7c0202-24fa-474e-9631-22c4b307a7e0",
 			"cellName": "Service Creates Item in Database - item.js:L9",
 			"cellId": "8c7c0202-24fa-474e-9631-22c4b307a7e0",
 			"visible": true,
@@ -2415,6 +2519,7 @@
 		},
 		"763dc2a3-96c7-441b-9e44-d57347de2ee6": {
 			"path": "763dc2a3-96c7-441b-9e44-d57347de2ee6",
+			"fileName": "763dc2a3-96c7-441b-9e44-d57347de2ee6",
 			"cellName": "Admin UI Confirmation - admin.js:L1-8",
 			"cellId": "763dc2a3-96c7-441b-9e44-d57347de2ee6",
 			"visible": true,
@@ -2440,6 +2545,7 @@
 		},
 		"103e5834-a176-4d25-a817-b0f7e4e32e67": {
 			"path": "103e5834-a176-4d25-a817-b0f7e4e32e67",
+			"fileName": "103e5834-a176-4d25-a817-b0f7e4e32e67",
 			"cellName": "Schema to\nService Factory",
 			"cellId": "103e5834-a176-4d25-a817-b0f7e4e32e67",
 			"visible": true,
@@ -2464,6 +2570,7 @@
 		},
 		"8dbfa150-6c28-4926-b683-72e1e7905a92": {
 			"path": "8dbfa150-6c28-4926-b683-72e1e7905a92",
+			"fileName": "8dbfa150-6c28-4926-b683-72e1e7905a92",
 			"cellName": "Service to\nController Factory",
 			"cellId": "8dbfa150-6c28-4926-b683-72e1e7905a92",
 			"visible": true,
@@ -2488,6 +2595,7 @@
 		},
 		"f5af77f6-0104-49e4-b55a-2711f337cc2b": {
 			"path": "f5af77f6-0104-49e4-b55a-2711f337cc2b",
+			"fileName": "f5af77f6-0104-49e4-b55a-2711f337cc2b",
 			"cellName": "Controller to\nRouter Factory",
 			"cellId": "f5af77f6-0104-49e4-b55a-2711f337cc2b",
 			"visible": true,
@@ -2512,6 +2620,7 @@
 		},
 		"f8e6ff8d-0a1c-44a1-9530-0118cd880221": {
 			"path": "f8e6ff8d-0a1c-44a1-9530-0118cd880221",
+			"fileName": "f8e6ff8d-0a1c-44a1-9530-0118cd880221",
 			"cellName": "Admin Action:\nCreate Item",
 			"cellId": "f8e6ff8d-0a1c-44a1-9530-0118cd880221",
 			"visible": true,
@@ -2536,6 +2645,7 @@
 		},
 		"b87283ea-8d25-4915-9554-43deb9bb03a6": {
 			"path": "b87283ea-8d25-4915-9554-43deb9bb03a6",
+			"fileName": "b87283ea-8d25-4915-9554-43deb9bb03a6",
 			"cellName": "Controller Calls\nService",
 			"cellId": "b87283ea-8d25-4915-9554-43deb9bb03a6",
 			"visible": true,
@@ -2560,6 +2670,7 @@
 		},
 		"83f0e8c0-38db-48b4-8570-f7aae3f8a8fb": {
 			"path": "83f0e8c0-38db-48b4-8570-f7aae3f8a8fb",
+			"fileName": "83f0e8c0-38db-48b4-8570-f7aae3f8a8fb",
 			"cellName": "API Response\nSent to\nAdmin",
 			"cellId": "83f0e8c0-38db-48b4-8570-f7aae3f8a8fb",
 			"visible": true,
@@ -2584,6 +2695,7 @@
 		},
 		"ada798be-7447-437e-9e1f-5c909c09a59b": {
 			"path": "ada798be-7447-437e-9e1f-5c909c09a59b",
+			"fileName": "ada798be-7447-437e-9e1f-5c909c09a59b",
 			"cellName": "Confirmation.jsx",
 			"cellId": "ada798be-7447-437e-9e1f-5c909c09a59b",
 			"visible": true,
@@ -2591,6 +2703,7 @@
 		},
 		"ce385176-c2e8-4cad-8502-b7d6286f873e": {
 			"path": "ce385176-c2e8-4cad-8502-b7d6286f873e",
+			"fileName": "ce385176-c2e8-4cad-8502-b7d6286f873e",
 			"cellName": "Configure Stripe Session with Success URL - order.js:L35-42",
 			"cellId": "ce385176-c2e8-4cad-8502-b7d6286f873e",
 			"visible": true,
@@ -2616,6 +2729,7 @@
 		},
 		"e105b1de-53fb-4ff3-acb2-5134a6094db2": {
 			"path": "e105b1de-53fb-4ff3-acb2-5134a6094db2",
+			"fileName": "e105b1de-53fb-4ff3-acb2-5134a6094db2",
 			"cellName": "Render Confirmation Page - Confirmation.jsx:L5-15",
 			"cellId": "e105b1de-53fb-4ff3-acb2-5134a6094db2",
 			"visible": true,
@@ -2641,6 +2755,7 @@
 		},
 		"689fa3b7-7724-40fe-8e62-e78e05b072ef": {
 			"path": "689fa3b7-7724-40fe-8e62-e78e05b072ef",
+			"fileName": "689fa3b7-7724-40fe-8e62-e78e05b072ef",
 			"cellName": "HTTP Redirect\nfrom Stripe",
 			"cellId": "689fa3b7-7724-40fe-8e62-e78e05b072ef",
 			"visible": true
@@ -2664,6 +2779,7 @@
 		},
 		"69ad6d87-b87a-4052-b841-6605420bfc5c": {
 			"path": "69ad6d87-b87a-4052-b841-6605420bfc5c",
+			"fileName": "69ad6d87-b87a-4052-b841-6605420bfc5c",
 			"cellName": "Subscribe.jsx",
 			"cellId": "69ad6d87-b87a-4052-b841-6605420bfc5c",
 			"visible": true,
@@ -2671,6 +2787,7 @@
 		},
 		"bd835a53-fbe8-47c5-94c8-93ed19ec4e57": {
 			"path": "bd835a53-fbe8-47c5-94c8-93ed19ec4e57",
+			"fileName": "bd835a53-fbe8-47c5-94c8-93ed19ec4e57",
 			"cellName": "Initialize Component State - Subscribe.jsx:L6",
 			"cellId": "bd835a53-fbe8-47c5-94c8-93ed19ec4e57",
 			"visible": true,
@@ -2696,6 +2813,7 @@
 		},
 		"fce9d17b-6988-447c-b398-dea1cebe1d9f": {
 			"path": "fce9d17b-6988-447c-b398-dea1cebe1d9f",
+			"fileName": "fce9d17b-6988-447c-b398-dea1cebe1d9f",
 			"cellName": "Handle User Input Change - Subscribe.jsx:L28",
 			"cellId": "fce9d17b-6988-447c-b398-dea1cebe1d9f",
 			"visible": true,
@@ -2721,6 +2839,7 @@
 		},
 		"6f9fc5f9-7074-4d71-a634-b6b1fdcf472a": {
 			"path": "6f9fc5f9-7074-4d71-a634-b6b1fdcf472a",
+			"fileName": "6f9fc5f9-7074-4d71-a634-b6b1fdcf472a",
 			"cellName": "Render Email\nInput Field",
 			"cellId": "6f9fc5f9-7074-4d71-a634-b6b1fdcf472a",
 			"visible": true,
