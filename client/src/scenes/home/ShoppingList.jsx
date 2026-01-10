@@ -27,6 +27,7 @@ const ShoppingList = () => {
     dispatch(setItems(itemsJson.data));
   }
 
+  // shifter
   useEffect(() => {
     getItems();
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
