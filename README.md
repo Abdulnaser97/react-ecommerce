@@ -10,7 +10,7 @@ For all related questions and discussions about this project, check out the disc
 
 ### How does `react-ecommerce` work under the hood?
 
-Check out this interactive walkthrough of the `react-ecommerce` codebase on CodeCanvas [here](https://www.code-canvas.com/?session=unauthenticatedGithub&repo=react-ecommerce&owner=Abdulnaser97&branch=no-diagram&OnboardingTutorial=true).
+Check out this interactive walkthrough of the `react-ecommerce` codebase on CodeCanvas [here](https://www.code-canvas.com/?session=unauthenticatedGithub&repo=react-ecommerce&owner=Abdulnaser97&branch=master&OnboardingTutorial=true).
 
 To refine existing dataflow simulation or create new ones, follow the quick tutorial [here](https://docs.code-canvas.com/updating-diagram).
 
