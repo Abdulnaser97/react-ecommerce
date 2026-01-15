@@ -46,7 +46,7 @@ const Checkout = () => {
         count,
       })),
     };
-
+    // yes checkout
     const response = await fetch("http://localhost:2000/api/orders", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
