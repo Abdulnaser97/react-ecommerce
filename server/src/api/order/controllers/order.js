@@ -8,8 +8,11 @@ const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
 const { createCoreController } = require("@strapi/strapi").factories;
 
 module.exports = createCoreController("api::order.order", ({ strapi }) => ({
+  // some 3rd change
   async create(ctx) {
+    // Change
     const { products, userName, email } = ctx.request.body;
+    // another change
     try {
       // retrieve item information
       const lineItems = await Promise.all(
